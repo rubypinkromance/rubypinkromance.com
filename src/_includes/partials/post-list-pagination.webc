@@ -1,0 +1,24 @@
+<nav webc:if="totalPages > 1" class="pagination">
+  <ul>
+    <li class="links previous">
+      <a webc:if="previousHref" :href="previousHref">
+        <span class="arrow" aria-hidden="true">←</span>
+        Newer<span class="visually-hidden"> articles</span>
+      </a>
+      <span webc:else class="inactive-link">
+        <span class="arrow" aria-hidden="true">←</span>
+        Newer<span class="visually-hidden"> articles</span>
+      </span>
+    </li>
+    <li class="links next">
+      <a webc:if="nextHref" :href="nextHref">
+        Older<span class="visually-hidden"> articles</span>
+        <span class="arrow" aria-hidden="true">→</span>
+      </a>
+      <span webc:else class="inactive-link">
+        Older<span class="visually-hidden"> articles</span>
+        <span class="arrow" aria-hidden="true">→</span>
+      </span>
+    </li>
+  </ul>
+</nav>

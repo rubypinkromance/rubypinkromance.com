@@ -4,4 +4,12 @@ module.exports = {
   language: 'en',
   icon: '/images/rubypink.jpg',
   description: 'Erotic Romance',
+  author: {
+    name: 'Ruby Pink',
+    first_name: 'Ruby',
+    last_name: 'Pink',
+    email: 'hello@rubypinkromance.com',
+    url: 'https://rubypinkromance.com/about/',
+    twitter: '@rubypinkromance',
+  },
 };

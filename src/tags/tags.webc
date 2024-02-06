@@ -1,0 +1,13 @@
+---
+permalink: tags/
+layout: layouts/page.webc
+title: Tags
+---
+
+<ol class="post-list">
+  <tag-list-item
+    webc:for="(tag, posts) in $data.collections.postsByTag"
+    :tag="tag"
+    :posts="posts"
+  ></tag-list-item>
+</ol>

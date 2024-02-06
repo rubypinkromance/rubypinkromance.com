@@ -1,0 +1,120 @@
+---
+layout: layouts/base.webc
+prism: true
+---
+
+<article class="post">
+  <header class="post__header">
+    <h1 class="post__title" @text="title"></h1>
+    <ul class="post__meta">
+      <li class="post__meta-item">
+        <time
+          :datetime="htmlDateString(page.date)"
+          @text="readableDate(page.date)"
+        >
+        </time>
+      </li>
+    </ul>
+  </header>
+
+  <p class="post__excerpt">
+    <abbr title="Too Long; Didn’t Read:">TL;DR:</abbr>
+    <span webc:nokeep @text="excerpt ?? createExcerpt(content)"></span>
+  </p>
+
+  <figure>
+    <img
+      webc:if="feature_image && !hide_feature_image"
+      webc:is="eleventy-image"
+      :src="imgPath(feature_image)"
+      alt=""
+      loading="eager"
+      class="feature-image"
+    />
+    <figcaption webc:if="feature_credit">
+      <p>
+        Image credit:
+        <a
+          webc:if="feature_source"
+          :href="feature_source"
+          @text="feature_credit"
+        ></a>
+        <template webc:else @text="feature_credit" webc:nokeep></template>
+      </p>
+    </figcaption>
+  </figure>
+
+  <template @raw="content" webc:nokeep></template>
+
+  <footer class="post__footer">
+    <div class="post__tags" webc:if="filterTagList(tags).length">
+      <p class="post__tags-intro">Filed under</p>
+      <ul class="post__tags-list">
+        <!-- display:inline -->
+        <li
+          webc:for="(key, tag) in filterTagList(tags).sort()"
+          class="post__tag"
+          ><a
+            webc:if="$data.collections[tag].length > 1"
+            class="tag"
+            :href="`/tags/${slugify(tag)}/`"
+            :title="`${$data.collections[tag].length} posts with this tag`"
+            @text="tag"
+          ></a
+          ><span
+            webc:else
+            class="tag orphan"
+            title="Only one post with this tag"
+            @text="tag"
+          ></span
+        ></li>
+      </ul>
+    </div>
+    <!---
+      This *should* work, but there's a bug in the webc plugin:
+      @see https://github.com/11ty/eleventy-plugin-webc/issues/76
+    <script webc:setup>
+      const previousPost = getPreviousCollectionItem(
+        $data.collections.blog,
+        page,
+      );
+      const nextPost = getNextCollectionItem($data.collections.blog, page);
+    </script>
+    <ul>
+      <li webc:if="previousPost">
+        Previously:
+        <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a>
+      </li>
+      <li webc:if="nextPost">
+        Up Next:
+        <a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>
+      </li>
+    </ul>
+    --->
+    <template webc:type="11ty" 11ty:type="liquid">
+      <!-- prettier-ignore -->
+      {%- if collections.blog -%}
+        {%- assign previousPost = collections.blog | getPreviousCollectionItem -%}
+        {%- assign nextPost = collections.blog | getNextCollectionItem -%}
+        {%- if nextPost or previousPost -%}
+      <ul class="post__nav">
+        {%- if previousPost -%}
+        <li class="post__nav-item post__nav-previous">
+          <span class="post__nav-label">Previously:</span>
+          <a class="post__nav-link" href="{{ previousPost.url }}"
+            >{{ previousPost.data.title }}</a
+          >
+        </li>
+        {%- endif -%} {%- if nextPost %}
+        <li class="post__nav-item post__nav-next">
+          <span class="post__nav-label">Up Next:</span>
+          <a class="post__nav-link" href="{{ nextPost.url }}"
+            >{{ nextPost.data.title }}</a
+          >
+        </li>
+        {%- endif -%}
+      </ul>
+      {%- endif -%}{%- endif %}
+    </template>
+  </footer>
+</article>
