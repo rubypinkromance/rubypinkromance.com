@@ -1,0 +1,43 @@
+@font-face {
+  font-display: swap;
+  font-family: 'Mission Gothic';
+  font-style: italic;
+  font-weight: 900;
+  src: url('/fonts/mission-gothic-black-italic.woff2') format('woff2');
+}
+
+:root {
+  --system-fonts: ui-sans-serif, system-ui, sans-serif;
+  --serif-fonts: Georgia, serif;
+  --mono-fonts: ui-monospace, consolas, monospace;
+  --title-fonts: 'Mission Gothic', var(--system-fonts);
+  --body-weight: 400;
+  --heading-weight: 900;
+
+  @media (prefers-color-scheme: dark) {
+    --body-weight: 300;
+  }
+}
+
+html {
+  font-size: 16px;
+  font-weight: var(--body-weight);
+
+  @media screen and (width >= 48em) {
+    font-size: 18px;
+  }
+
+  @media screen and (width >= 64em) {
+    font-size: 20px;
+  }
+}
+
+body {
+  font-family: var(--serif-fonts);
+  line-height: 1.75;
+}
+
+h1,h2,h3 {
+  font-family: var(--title-fonts);
+  font-weight: var(--heading-weight);
+}
