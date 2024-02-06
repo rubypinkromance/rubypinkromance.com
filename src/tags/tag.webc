@@ -6,7 +6,7 @@
 		before: function(paginationData, fullData) {
 			// Filter out orphan tags and fake tags
 			return paginationData.filter(tag => {
-				return !["blog", "all", "page", "postsByRecent"].includes(tag)
+				return !["shorts", "books", "pubs", "all", "page", "shortsByRecent", "booksByRecent"].includes(tag)
 					&& fullData.collections[tag].length > 1;
 			});
 		},
@@ -15,7 +15,7 @@
   layout: 'layouts/page.webc',
   eleventyComputed: {
     title: (data) => {
-      return `Posts tagged “${ data.tag }”`;
+      return `Stories tagged “${ data.tag }”`;
     },
   },
   permalink: (data) => {

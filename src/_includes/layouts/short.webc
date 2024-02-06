@@ -18,7 +18,6 @@ prism: true
   </header>
 
   <p class="post__excerpt">
-    <abbr title="Too Long; Didn’t Read:">TL;DR:</abbr>
     <span webc:nokeep @text="excerpt ?? createExcerpt(content)"></span>
   </p>
 
@@ -48,7 +47,7 @@ prism: true
 
   <footer class="post__footer">
     <div class="post__tags" webc:if="filterTagList(tags).length">
-      <p class="post__tags-intro">Filed under</p>
+      <p class="post__tags-intro">Tagged as</p>
       <ul class="post__tags-list">
         <!-- display:inline -->
         <li
@@ -75,10 +74,10 @@ prism: true
       @see https://github.com/11ty/eleventy-plugin-webc/issues/76
     <script webc:setup>
       const previousPost = getPreviousCollectionItem(
-        $data.collections.blog,
+        $data.collections.shorts,
         page,
       );
-      const nextPost = getNextCollectionItem($data.collections.blog, page);
+      const nextPost = getNextCollectionItem($data.collections.shorts, page);
     </script>
     <ul>
       <li webc:if="previousPost">
@@ -93,9 +92,9 @@ prism: true
     --->
     <template webc:type="11ty" 11ty:type="liquid">
       <!-- prettier-ignore -->
-      {%- if collections.blog -%}
-        {%- assign previousPost = collections.blog | getPreviousCollectionItem -%}
-        {%- assign nextPost = collections.blog | getNextCollectionItem -%}
+      {%- if collections.shorts -%}
+        {%- assign previousPost = collections.shorts | getPreviousCollectionItem -%}
+        {%- assign nextPost = collections.shorts | getNextCollectionItem -%}
         {%- if nextPost or previousPost -%}
       <ul class="post__nav">
         {%- if previousPost -%}

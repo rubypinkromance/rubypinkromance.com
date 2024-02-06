@@ -3,20 +3,20 @@
     <li class="links previous">
       <a webc:if="previousHref" :href="previousHref">
         <span class="arrow" aria-hidden="true">←</span>
-        Newer<span class="visually-hidden"> articles</span>
+        Newer
       </a>
       <span webc:else class="inactive-link">
         <span class="arrow" aria-hidden="true">←</span>
-        Newer<span class="visually-hidden"> articles</span>
+        Newer
       </span>
     </li>
     <li class="links next">
       <a webc:if="nextHref" :href="nextHref">
-        Older<span class="visually-hidden"> articles</span>
+        Older
         <span class="arrow" aria-hidden="true">→</span>
       </a>
       <span webc:else class="inactive-link">
-        Older<span class="visually-hidden"> articles</span>
+        Older
         <span class="arrow" aria-hidden="true">→</span>
       </span>
     </li>

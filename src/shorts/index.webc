@@ -1,0 +1,10 @@
+---js
+{
+  title: 'Shorts',
+  layout: 'layouts/page.webc',
+  eleventyExcludeFromCollections: true,
+  og_type: 'website',
+}
+---
+
+<post-list :posts="collections.shortsByRecent"></post-list>

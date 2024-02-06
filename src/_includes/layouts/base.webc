@@ -41,19 +41,19 @@
     <meta
       name="description"
       :content="og_type === 'article'
-        ? excerpt ?? createExcerpt(collections.blog.find(p => p.page.url === page.url)?.content)
+        ? excerpt ?? createExcerpt(collections.pubs.find(p => p.page.url === page.url)?.content)
         : description ?? metadata.description"
     />
     <meta
       property="og:description"
       :content="og_type === 'article'
-        ? excerpt ?? createExcerpt(collections.blog.find(p => p.page.url === page.url)?.content)
+        ? excerpt ?? createExcerpt(collections.pubs.find(p => p.page.url === page.url)?.content)
         : description ?? metadata.description"
     />
     <meta
       property="twitter:description"
       :content="og_type === 'article'
-        ? excerpt ?? createExcerpt(collections.blog.find(p => p.page.url === page.url)?.content)
+        ? excerpt ?? createExcerpt(collections.pubs.find(p => p.page.url === page.url)?.content)
         : description ?? metadata.description"
     />
     <meta

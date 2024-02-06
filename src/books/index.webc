@@ -1,0 +1,10 @@
+---js
+{
+  title: 'Books',
+  layout: 'layouts/page.webc',
+  eleventyExcludeFromCollections: true,
+  og_type: 'website',
+}
+---
+
+<post-list :posts="collections.booksByRecent"></post-list>

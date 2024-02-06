@@ -64,7 +64,7 @@ const filters = {
   // Return all the tags used in a collection, except some
   filterTagList: (tags) => {
     return (tags || []).filter(
-      (tag) => ['all', 'nav', 'blog'].indexOf(tag) === -1,
+      (tag) => ['all', 'nav', 'shorts', 'books', 'pubs'].indexOf(tag) === -1,
     );
   },
 };

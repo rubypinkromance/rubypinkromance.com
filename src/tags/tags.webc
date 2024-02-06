@@ -6,7 +6,7 @@ title: Tags
 
 <ol class="post-list">
   <tag-list-item
-    webc:for="(tag, posts) in $data.collections.postsByTag"
+    webc:for="(tag, posts) in $data.collections.shortsByTag"
     :tag="tag"
     :posts="posts"
   ></tag-list-item>
