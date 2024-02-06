@@ -1,7 +1,6 @@
 const fs = require('fs');
 const path = require('path');
 const eleventyImage = require('@11ty/eleventy-img');
-const { eleventyImagePlugin } = require('@11ty/eleventy-img');
 const { imgPath } = require('./filters');
 const siteMetadata = require('../src/_data/metadata');
 let rawMedia = fs.readFileSync('src/_data/media.json');

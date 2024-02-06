@@ -1,0 +1,4 @@
+[
+  { "url": "/feed/feed.xml", "name": "Feed" },
+  { "url": "/feed/feed.json", "name": "JSON" }
+]

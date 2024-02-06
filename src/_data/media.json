@@ -1,0 +1,22 @@
+{
+  "wide": {
+    "sizes": "(min-width: 64em) 783px, (min-width: 48em) 711px, (min-width: 42em) 633px, 100vw",
+    "widths": "450,700,825,975,1025,1280,1440,1600"
+  },
+  "float": {
+    "sizes": "(min-width: 64em) 351px, (min-width: 48em) 319px, (min-width: 38.5em) 284px, 50vw",
+    "widths": "300,525,700"
+  },
+  "mediaList": {
+    "sizes": "(min-width: 48em) 250px, (min-width: 40em) 200px, (min-width: 32em) 150px, 100px",
+    "widths": "300,400,500"
+  },
+  "triptych": {
+    "sizes": "(min-width: 64em) 248px, (min-width: 48em) 225px, (min-width: 42em) 200px, (min-width: 38.5em) 190px, 33vw",
+    "widths": "300,400,500"
+  },
+  "postList": {
+    "sizes": "(min-width: 106em) 375px, (min-width: 90em) 25vw, (min-width: 64em) 33vw, (min-width: 37.5em) 50vw, 100vw",
+    "widths": "375,450,700,825,975,1025"
+  }
+}
