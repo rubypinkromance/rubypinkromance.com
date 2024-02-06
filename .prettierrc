@@ -2,7 +2,7 @@
   "singleQuote": true,
   "overrides": [
     {
-      "files": ["*.html"],
+      "files": ["*.html", "*.webc"],
       "options": {
         "parser": "html"
       }

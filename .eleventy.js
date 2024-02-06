@@ -1,6 +1,7 @@
 const { EleventyHtmlBasePlugin } = require('@11ty/eleventy');
 const pluginNavigation = require('@11ty/eleventy-navigation');
 const pluginRss = require('@11ty/eleventy-plugin-rss');
+const pluginWebc = require('@11ty/eleventy-plugin-webc');
 
 const pluginImages = require('./_11ty/images.js');
 const collections = require('./_11ty/collections.js');
@@ -33,6 +34,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginImages);
   eleventyConfig.addPlugin(pluginNavigation);
   eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.addPlugin(pluginWebc, {
+    components: [
+      'src/_includes/partials/*.webc',
+      'npm:@11ty/eleventy-img/*.webc',
+    ],
+  });
 
   // Collections
   for (let name in collections) {

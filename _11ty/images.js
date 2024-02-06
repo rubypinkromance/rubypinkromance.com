@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const eleventyImage = require('@11ty/eleventy-img');
+const { eleventyImagePlugin } = require('@11ty/eleventy-img');
 const { imgPath } = require('./filters');
 const siteMetadata = require('../src/_data/metadata');
 let rawMedia = fs.readFileSync('src/_data/media.json');
@@ -71,5 +72,22 @@ module.exports = (eleventyConfig) => {
       widths: [1600],
     });
     return `${siteMetadata.url.slice(0, -1)}${imageMetadata.jpeg[0].url}`;
+  });
+
+  // Image Component
+  // For use in WebC templates
+  // <img webc:is="eleventy-image" src="cat.jpg" alt="photo of my tabby cat">
+  eleventyConfig.addPlugin(eleventyImagePlugin, {
+    filenameFormat: options.filenameFormat,
+    formats: options.formats,
+    outputDir: path.join(eleventyConfig.dir.output, options.outputDir),
+    svgShortCircuit: options.svgShortCircuit,
+    urlPath: options.urlPath,
+    widths: options.widths,
+    defaultAttributes: {
+      decoding: options.decoding,
+      loading: options.loading,
+      sizes: options.sizes,
+    },
   });
 };
