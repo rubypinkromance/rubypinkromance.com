@@ -8,7 +8,7 @@
 
 :root {
   --system-fonts: ui-sans-serif, system-ui, sans-serif;
-  --serif-fonts: Georgia, serif;
+  --serif-fonts: georgia, serif;
   --mono-fonts: ui-monospace, consolas, monospace;
   --title-fonts: 'Mission Gothic', var(--system-fonts);
   --body-weight: 400;
@@ -37,7 +37,9 @@ body {
   line-height: 1.75;
 }
 
-h1,h2,h3 {
+h1,
+h2,
+h3 {
   font-family: var(--title-fonts);
   font-weight: var(--heading-weight);
 }
