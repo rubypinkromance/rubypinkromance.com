@@ -1,4 +1,13 @@
 [
   { "url": "https://twitter.com/rubypinkromance", "name": "Twitter" },
-  { "url": "https://bsky.app/profile/rubypink.bsky.social", "name": "Bluesky" }
+  { "url": "https://bsky.app/profile/rubypink.bsky.social", "name": "Bluesky" },
+  {
+    "url": "https://www.lushstories.com/profile/pinkysurprise",
+    "name": "Lush"
+  },
+  {
+    "url": "https://www.literotica.com/stories/memberpage.php?uid=2465647&page=submissions",
+    "name": "Literotica"
+  },
+  { "url": "https://archiveofourown.org/users/pinkysurprise", "name": "AO3" }
 ]

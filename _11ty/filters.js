@@ -64,8 +64,14 @@ const filters = {
   // Return all the tags used in a collection, except some
   filterTagList: (tags) => {
     return (tags || []).filter(
-      (tag) => ['all', 'nav', 'shorts', 'books', 'pubs'].indexOf(tag) === -1,
+      (tag) => ['all', 'pubs', 'shorts', 'books'].indexOf(tag) === -1,
     );
+  },
+
+  // Return a subset of an array based on a single attribute value
+  // @see https://11ty.rocks/eleventyjs/data-arrays/#pluck-filter
+  pluck: (array, attr, value) => {
+    return array.filter((item) => item.data[attr] === value);
   },
 };
 
