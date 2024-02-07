@@ -21,6 +21,14 @@ prism: true
     <span webc:nokeep @text="excerpt ?? createExcerpt(content)"></span>
   </p>
 
+  <series-nav
+    webc:if="series"
+    :series="series"
+    :seriesTitle="seriesTitle"
+    :part="part"
+    :posts="pluck(collections.shortsByRecent, 'series', series)"
+  />
+
   <figure>
     <img
       webc:if="feature_image && !hide_feature_image"
@@ -69,6 +77,7 @@ prism: true
         ></li>
       </ul>
     </div>
+
     <!---
       This *should* work, but there's a bug in the webc plugin:
       @see https://github.com/11ty/eleventy-plugin-webc/issues/76
