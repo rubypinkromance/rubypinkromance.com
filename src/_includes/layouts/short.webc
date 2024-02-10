@@ -21,13 +21,14 @@ prism: true
     <span webc:nokeep @text="excerpt ?? createExcerpt(content)"></span>
   </p>
 
-  <series-nav
-    webc:if="series"
-    :series="series"
-    :seriesTitle="seriesTitle"
-    :part="part"
-    :posts="pluck(collections.shortsByRecent, 'series', series)"
-  />
+  <template webc:if="series">
+    <series-nav
+      :series="series"
+      :seriesTitle="seriesTitle"
+      :part="part"
+      :posts="pluck(collections.shortsByRecent, 'series', series)"
+    />
+  </template>
 
   <figure>
     <img

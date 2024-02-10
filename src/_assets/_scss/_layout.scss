@@ -1,0 +1,26 @@
+@use 'mixins';
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  margin: 0 auto;
+  margin-block-end: 2em;
+  max-width: 60ch;
+  padding: 1em;
+}
+
+.visually-hidden {
+  @include mixins.visually-hidden;
+}
