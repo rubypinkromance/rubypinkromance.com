@@ -8,6 +8,8 @@ tags:
   - cfnm
   - mistaken identity
 excerpt: My roommate’s girlfriend gives me a blowjob by mistake
+bundles:
+  - seven-minutes-in-heaven
 ---
 
 I woke up with a pair of lips wrapped around my cock. Half asleep, I groaned as a tongue swirled around my head. My cock swelled and throbbed from the hand wrapped around it. I felt, more than heard, the aroused sounds and small moans my mystery lover was making around my cock. I reached down, running my fingers through long hair, feeling their head bob up and down.

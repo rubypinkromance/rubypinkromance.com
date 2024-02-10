@@ -12,6 +12,8 @@ tags:
   - dirty talk
 excerpt: I give this movie one finger up… my date’s ass.
 part: 4
+bundles:
+  - seven-minutes-in-heaven
 ---
 
 We’re at the movies, but neither of us is paying any attention to what’s happening on screen. The movie is a few weeks old, and there are maybe seven other people in the theater. None of them are sitting anywhere near us. The lights have been out for twenty minutes, and she’s whispering filthy things in my ear.

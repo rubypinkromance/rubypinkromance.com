@@ -9,6 +9,8 @@ tags:
   - facial
 excerpt: Tired of waiting for him to make a move, she “lost” the bet.
 part: 2
+bundles:
+  - seven-minutes-in-heaven
 ---
 
 As he pushed me back onto my bed and struggled to get his pants off, I remember thinking, “it took you long enough.” Honestly, guys are so dumb sometimes.

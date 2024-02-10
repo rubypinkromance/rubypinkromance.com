@@ -4,27 +4,32 @@
     data: 'collections',
     size: 1,
 		before: function(paginationData, fullData) {
-			// Filter out orphan tags and fake tags
+      // Filter out orphan tags and fake tags
 			return paginationData.filter(tag => {
 				return !["shorts", "books", "pubs", "all", "page", "shortsByRecent", "booksByRecent"].includes(tag)
 					&& fullData.collections[tag].length > 1;
-			});
+			}).map(tag => {
+        return {
+          title: tag,
+          slug: this.slugify(tag),
+        };
+      });
 		},
     alias: 'tag',
   },
   layout: 'layouts/page.webc',
   eleventyComputed: {
     title: (data) => {
-      return `Stories tagged “${ data.tag }”`;
+      return `Stories tagged “${data.tag.title}”`;
     },
   },
   permalink: (data) => {
-    return `tags/${data.tag}/`;
+    return `tags/${data.tag.slug}/`;
   },
   eleventyExcludeFromCollections: true,
 }
 ---
 
-<post-list :posts="collections[ tag ].reverse()"></post-list>
+<post-list :posts="collections[ tag.title ].reverse()"></post-list>
 
 <p>See <a href="/tags/">all tags</a>.</p>

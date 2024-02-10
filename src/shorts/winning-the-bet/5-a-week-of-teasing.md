@@ -14,6 +14,8 @@ tags:
   - creampie
 excerpt: After a week of teasing she begs him to fuck her at work.
 part: 4
+bundles:
+  - seven-minutes-in-heaven
 ---
 
 ## Monday

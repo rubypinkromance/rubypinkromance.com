@@ -11,6 +11,8 @@ tags:
   - quiet
   - public
 excerpt: You have to be quiet when you’re fucking in a dressing room.
+bundles:
+  - seven-minutes-in-heaven
 ---
 
 While no one was looking, she grabbed my hand and pulled me into the dressing room with her. We were at one of the more upscale clothing stores at the mall, where the dressing rooms are down a little hallway and have full-length doors. We weren’t exactly isolated, but no one could see us, and if we were quiet, probably no one would bother us. I had been following her around the mall all morning and getting pretty bored. But as she pushed me against the wall and kissed me, I realized that she had just been looking for the right dressing room.

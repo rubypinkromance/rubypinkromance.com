@@ -8,4 +8,4 @@ eleventyNavigation:
   order: 1
 ---
 
-Let's talk about Ruby Pink
+Ruby Pink lives in a small town in Washingon state, where she spends her days writing steamy romance. She loves reading erotica but gets frustrated that so many feature shallow women with no agency. She took up the pen to bring us tales of smart, talented ladies who aren’t just props in male fantasies.

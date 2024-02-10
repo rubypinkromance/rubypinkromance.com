@@ -17,8 +17,8 @@ prism: true
     </ul>
   </header>
 
-  <p class="post__excerpt">
-    <span webc:nokeep @text="excerpt ?? createExcerpt(content)"></span>
+  <p class="post__excerpt intro">
+    <em @text="excerpt ?? createExcerpt(content)"></em>
   </p>
 
   <template webc:if="series">

@@ -14,6 +14,8 @@ tags:
   - creampie
 excerpt: He walks in on her masturbating and helps her finish.
 part: 3
+bundles:
+  - seven-minutes-in-heaven
 ---
 
 She was fingering herself when I opened the bathroom door. Facing away from me, she was leaning against the sink with one hand. Her purple skirt was hiked up over her hips, and her other hand was plunged down the front of her panties.

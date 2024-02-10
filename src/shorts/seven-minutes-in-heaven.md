@@ -10,6 +10,8 @@ tags:
   - public
   - dare
 excerpt: To win the party game, she just needs to make him cum first.
+bundles:
+  - seven-minutes-in-heaven
 ---
 
 We had been flirting all evening, and as the party wore on, things started getting more adventurous. The host was moving soon, and clearly wasn’t going to be happy until his going-away party turned into some sort of orgy. He had been liberal with drinks and weed all evening, and we weren’t the only couple building up towards an obvious conclusion.
