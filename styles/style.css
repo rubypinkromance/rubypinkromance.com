@@ -1,0 +1,180 @@
+@font-face {
+  font-display: swap;
+  font-family: "Mission Gothic";
+  font-style: italic;
+  font-weight: 900;
+  src: url("/fonts/mission-gothic-black-italic.woff2") format("woff2");
+}
+:root {
+  --system-fonts: ui-sans-serif, system-ui, sans-serif;
+  --serif-fonts: georgia, serif;
+  --mono-fonts: ui-monospace, consolas, monospace;
+  --title-fonts: "Mission Gothic", var(--system-fonts);
+  --body-weight: 400;
+  --heading-weight: 900;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --body-weight: 300;
+  }
+}
+
+html {
+  font-size: 16px;
+  font-weight: var(--body-weight);
+}
+@media screen and (width >= 48em) {
+  html {
+    font-size: 18px;
+  }
+}
+@media screen and (width >= 64em) {
+  html {
+    font-size: 20px;
+  }
+}
+
+body {
+  font-family: var(--serif-fonts);
+  line-height: 1.75;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--title-fonts);
+  font-weight: var(--heading-weight);
+}
+
+em em,
+em i,
+i em,
+i i {
+  font-style: normal;
+}
+
+.intro {
+  font-size: 1.1em;
+}
+
+:root {
+  --color-bg: #fff;
+  --color-bg-alt: rgba(0 0 0 / 5%);
+  --color-fg: #333;
+  --color-overlay: rgba(255 255 255 / 90%);
+  --color-subtle: rgba(0 0 0 / 50%);
+  --color-border: rgba(0 0 0 / 20%);
+  --color-link: #34d;
+  --color-link-underline: rgba(51, 68, 221, 0.25);
+  --color-link-visited: #692dd1;
+  --color-link-visited-underline: rgba(#692dd1, 0.25);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg: #222;
+    --color-bg-alt: rgba(255 255 255 / 5%);
+    --color-fg: #aaa;
+    --color-overlay: rgba(0 0 0 / 75%);
+    --color-subtle: rgba(255 255 255 / 37.5%);
+    --color-border: rgba(255 255 255 / 15%);
+    --color-link: #bb86fc;
+    --color-link-underline: rgba(187, 134, 252, 0.5);
+    --color-link-visited: #8f95ff;
+    --color-link-visited-underline: rgba(#8f95ff, 0.5);
+  }
+}
+
+.t-light {
+  --color-bg: #fff;
+  --color-bg-alt: rgba(0 0 0 / 5%);
+  --color-fg: #333;
+  --color-overlay: rgba(255 255 255 / 90%);
+  --color-subtle: rgba(0 0 0 / 50%);
+  --color-border: rgba(0 0 0 / 20%);
+  --color-link: #34d;
+  --color-link-underline: rgba(51, 68, 221, 0.25);
+  --color-link-visited: #692dd1;
+  --color-link-visited-underline: rgba(#692dd1, 0.25);
+  background: var(--color-bg);
+  color: var(--color-fg);
+}
+
+.t-dark {
+  --color-bg: #222;
+  --color-bg-alt: rgba(255 255 255 / 5%);
+  --color-fg: #aaa;
+  --color-overlay: rgba(0 0 0 / 75%);
+  --color-subtle: rgba(255 255 255 / 37.5%);
+  --color-border: rgba(255 255 255 / 15%);
+  --color-link: #bb86fc;
+  --color-link-underline: rgba(187, 134, 252, 0.5);
+  --color-link-visited: #8f95ff;
+  --color-link-visited-underline: rgba(#8f95ff, 0.5);
+  background: var(--color-bg);
+  color: var(--color-fg);
+}
+
+html {
+  color-scheme: light dark;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-fg);
+}
+
+a {
+  color: var(--color-link, linktext);
+  text-decoration-color: var(--color-link-underline, linktext);
+  text-decoration-thickness: 0.0625em;
+  text-underline-offset: 0.0938em;
+}
+a:visited {
+  color: var(--color-link-visited, visitedtext);
+  text-decoration-color: var(--color-link-visited-underline, visitedtext);
+}
+a:hover, a:focus {
+  text-decoration-color: currentcolor;
+  text-decoration-thickness: 0.0938em;
+  text-underline-offset: auto;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--color-border, buttonborder);
+  margin-block: 4em;
+  width: 66%;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  margin: 0 auto;
+  margin-block-end: 2em;
+  max-width: 60ch;
+  padding: 1em;
+}
+
+.visually-hidden {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+/*# sourceMappingURL=style.css.map */
