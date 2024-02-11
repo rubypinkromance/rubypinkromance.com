@@ -1,6 +1,7 @@
 ---
 title: Monday
 date: 2024-02-05
+category: Office Sex
 tags:
   - office sex
   - masturbation
@@ -13,7 +14,7 @@ characters:
   - Ashley
   - Tony
 excerpt: Ash helps Tony relieve an awkward erection in her office.
-part: 1
+number: 1
 ---
 
 “Knock-knock!” The man standing in her doorway had tousled hair, a crooked grin, and twinkling eyes that she knew well.

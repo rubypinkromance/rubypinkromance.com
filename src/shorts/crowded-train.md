@@ -1,6 +1,7 @@
 ---
 title: Crowded Train
 date: 2010-05-04
+category: Exhibitionism
 tags:
   - exhibitionism
   - public

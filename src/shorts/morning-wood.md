@@ -1,6 +1,7 @@
 ---
 title: Morning Wood
 date: 2010-05-02
+category: College Sex
 tags:
   - college sex
   - college

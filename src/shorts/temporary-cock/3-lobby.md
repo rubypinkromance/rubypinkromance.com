@@ -1,6 +1,7 @@
 ---
 title: The Lobby
 date: 2018-07-17
+category: Science Fiction
 tags:
   - science fiction
   - futanari
@@ -15,7 +16,7 @@ characters:
   - Olivia
   - Trish
 excerpt: Liv helps Trish after she gets overstimulated in the lobby.
-part: 3
+number: 3
 ---
 
 I made it through the rest of the car ride, but by the time we arrived at Liv’s place, my cock was fully erect again. She had a great apartment right on the top floor of a new building that I usually was super jealous of. Right now all I wanted to do was get inside.

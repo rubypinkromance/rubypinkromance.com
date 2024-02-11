@@ -17,6 +17,6 @@
   },
   "postList": {
     "sizes": "(min-width: 106em) 375px, (min-width: 90em) 25vw, (min-width: 64em) 33vw, (min-width: 37.5em) 50vw, 100vw",
-    "widths": "375,450,700,825,975,1025"
+    "widths": "300,400,500"
   }
 }

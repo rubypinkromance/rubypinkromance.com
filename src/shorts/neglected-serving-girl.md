@@ -1,6 +1,7 @@
 ---
 title: The Neglected Serving Girl
 date: 2015-08-03
+category: Historical
 tags:
   - teasing
   - waitress

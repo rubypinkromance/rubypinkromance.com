@@ -1,6 +1,7 @@
 ---
 title: Seven Minutes in Heaven
 date: 2011-09-14
+category: Exhibitionism
 tags:
   - exhibitionism
   - teasing

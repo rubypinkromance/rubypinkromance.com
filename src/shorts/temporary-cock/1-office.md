@@ -1,6 +1,7 @@
 ---
 title: The Office
 date: 2018-07-06
+category: Science Fiction
 tags:
   - science fiction
   - futanari
@@ -16,7 +17,7 @@ characters:
   - Olivia
   - Trish
 excerpt: Hey, remember that time I took a Russian pill and grew a cock and came all over your tits?
-part: 1
+number: 1
 ---
 
 I paced back and forth in the bathroom at work. The room was just large enough for me to walk three paces before turning around. I was counting my steps to distract myself. One, two, three, turn. One, two, three, turn.

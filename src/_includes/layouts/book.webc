@@ -1,0 +1,64 @@
+---
+layout: layouts/base.webc
+prism: true
+---
+
+<article class="post">
+  <header class="post__header">
+    <h1 class="post__title" @text="title"></h1>
+    <ul class="post__meta">
+      <li class="post__meta-item">
+        <time
+          :datetime="htmlDateString(page.date)"
+          @text="readableDate(page.date)"
+        >
+        </time>
+      </li>
+    </ul>
+  </header>
+
+  <p class="post__excerpt intro">
+    <em @text="excerpt ?? createExcerpt(content)"></em>
+  </p>
+
+  <figure>
+    <img
+      webc:if="feature_image && !hide_feature_image"
+      webc:is="eleventy-image"
+      :src="imgPath(feature_image)"
+      alt=""
+      loading="eager"
+      class="feature-image"
+      :sizes="media.mediaList.sizes"
+      :width="media.mediaList.widths"
+    />
+  </figure>
+
+  <template @raw="content" webc:nokeep></template>
+
+  <footer class="post__footer">
+    <div class="post__tags" webc:if="filterTagList(tags).length">
+      <p class="post__tags-intro">Tagged as</p>
+      <ul class="post__tags-list">
+        <!-- display:inline -->
+        <li
+          webc:for="(key, tag) in filterTagList(tags).sort()"
+          class="post__tag"
+          ><a
+            webc:if="$data.collections[tag].length > 1"
+            class="tag"
+            :href="`/tags/${slugify(tag)}/`"
+            :title="`${$data.collections[tag].length} posts with this tag`"
+            @text="tag"
+          ></a
+          ><span
+            webc:else
+            class="tag orphan"
+            title="Only one post with this tag"
+            @text="tag"
+          ></span
+        ></li>
+      </ul>
+    </div>
+  </footer>
+</article>

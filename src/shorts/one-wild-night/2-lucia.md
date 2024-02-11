@@ -1,6 +1,7 @@
 ---
 title: Lucia
 date: 2023-01-02
+category: College Sex
 tags:
   - college sex
   - group sex
@@ -21,7 +22,7 @@ characters:
   - Carlos
   - Kara
 excerpt: Lucia sneaks a boy in and catches her roommate watching.
-part: 2
+number: 2
 ---
 
 “Roommate finally asleep. Come to the window and I’ll let you in.”

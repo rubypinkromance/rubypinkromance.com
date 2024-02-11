@@ -1,6 +1,7 @@
 ---
 title: The Interview
 date: 2017-11-08
+category: Office Sex
 tags:
   - office sex
   - interview
@@ -15,7 +16,7 @@ characters:
   - Liz
   - Mike
 excerpt: Cheryl asks Mike some unusual interview questions.
-part: 2
+number: 2
 ---
 
 I held my hands in front of me as I walked, trying to conceal the erection that was rather obviously tenting the front of my slacks. My heart was still pounding as I tried to slow my breathing and stop thinking about the interrupted blowjob from the secretary — Liz, I reminded myself. Don’t forget her name! Despite my arousal, I needed to get my head straight and nail this interview.

@@ -1,6 +1,7 @@
 ---
 title: Pulling Out Sucks
 date: 2013-07-18
+category: Reluctance
 tags:
   - reluctance
   - creampie

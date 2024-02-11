@@ -1,6 +1,7 @@
 ---
 title: The Bedroom
 date: 2018-07-20
+category: Science Fiction
 tags:
   - science fiction
   - futanari
@@ -15,7 +16,7 @@ characters:
   - Olivia
   - Trish
 excerpt: Liv and Trish admit their feelings and sleep together.
-part: 4
+number: 4
 ---
 
 We staggered into Liv’s bedroom, frantically kissing and touching. She stumbled backward and ended up leaning on the edge of her desk. I straddled her leg and pushed my thigh between hers. She moaned happily at the stimulation and returned the favor by rolling her hips against me, putting pressure on my cock. We moved together, grinding and gasping as we kissed.

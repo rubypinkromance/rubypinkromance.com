@@ -1,6 +1,7 @@
 ---
 title: Truth or Dare
 date: 2021-09-01
+category: Group Sex
 tags:
   - group sex
   - blowjob

@@ -1,6 +1,7 @@
 ---
 title: A Week of Teasing
 date: 2011-08-17
+category: Exhibitionism
 tags:
   - exhibitionism
   - blowjob
@@ -13,7 +14,7 @@ tags:
   - sexting
   - creampie
 excerpt: After a week of teasing she begs him to fuck her at work.
-part: 4
+number: 5
 bundles:
   - seven-minutes-in-heaven
 ---

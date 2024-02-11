@@ -1,6 +1,7 @@
 ---
 title: Show Me
 date: 2010-04-26
+category: Exhibitionism
 tags:
   - exhibitionism
   - bra
@@ -9,7 +10,7 @@ tags:
   - stripping
   - coworker
 excerpt: She lost the bet, now she has to model her underwear for me.
-part: 1
+number: 1
 bundles:
   - seven-minutes-in-heaven
 ---

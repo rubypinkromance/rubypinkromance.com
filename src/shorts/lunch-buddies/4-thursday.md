@@ -1,6 +1,7 @@
 ---
 title: Thursday
 date: 2024-02-08
+category: Office Sex
 tags:
   - office sex
   - oral sex
@@ -15,7 +16,7 @@ characters:
   - Ashley
   - Tony
 excerpt: Today, it’s Ash’s turn.
-part: 4
+number: 4
 ---
 
 Ash had been up late with a confusing mix of thoughts. On the one hand, there was the kiss. They’d never kissed like that before. There had been a few experimental kisses back in college, while they were still exploring their boundaries. But those never had the heat or the passion they’d shared yesterday. What did it mean? Was she catching feelings? Was he? How would happen when he flew home after this week? Was this still strictly casual, or was she overthinking it?

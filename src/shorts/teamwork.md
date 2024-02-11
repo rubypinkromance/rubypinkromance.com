@@ -1,6 +1,7 @@
 ---
 title: Teamwork
 date: 2010-04-27
+category: Masturbation
 tags:
   - masturbation
   - cheating

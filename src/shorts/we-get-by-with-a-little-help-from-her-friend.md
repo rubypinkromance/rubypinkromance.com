@@ -1,6 +1,7 @@
 ---
 title: We Get By With a Little Help From Her Friend
 date: 2014-07-17
+category: Group Sex
 tags:
   - group sex
   - ffm

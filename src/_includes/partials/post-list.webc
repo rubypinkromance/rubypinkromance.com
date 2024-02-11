@@ -2,9 +2,8 @@
   <li webc:for="(post, index) of posts" class="post-list__item">
     <a :href="post.url" class="post-list__media-link">
       <img
-        webc:if="post.data.feature_image"
         webc:is="eleventy-image"
-        :src="imgPath(post.data.feature_image)"
+        :src="imgPath(post.data.feature_image ?? 'covers/placeholder.jpg')"
         alt=""
         :loading="index < 8 ? 'eager' : 'lazy'"
         class="post-list__media"
@@ -18,15 +17,38 @@
       @text="readableDate(post.date)"
     ></time>
     <h3 class="post-list__title">
-      <a :href="post.url" class="post-list__title-link"
-        ><template
+      <a :href="post.url" class="post-list__title-link">
+        <span webc:if="post.data.series" class="post-list__series">
+          <template
+            webc:if="post.data.seriesTitle"
+            @text="post.data.seriesTitle"
+            webc:nokeep
+          ></template>
+          <template
+            webc:if="post.data.number"
+            @text="post.data.number"
+            webc:nokeep
+          ></template
+          >:
+        </span>
+        <template
           webc:if="post.data.title"
           @text="post.data.title"
           webc:nokeep
         ></template
-        ><code webc:else @text="post.url"></code
-      ></a>
+        ><code webc:else @text="post.url"></code>
+        <template
+          webc:if="post.data.subtitle"
+          @text="post.data.subtitle"
+          webc:nokeep
+        ></template>
+      </a>
     </h3>
+    <p
+      class="post-list__category"
+      webc:if="post.data.category"
+      @text="post.data.category"
+    ></p>
     <p
       class="post-list__excerpt"
       @text="post.data.excerpt ?? createExcerpt(post.content)"

@@ -1,6 +1,7 @@
 ---
 title: Wednesday
 date: 2024-02-07
+category: Office Sex
 tags:
   - office sex
   - masturbation
@@ -16,7 +17,7 @@ characters:
   - Ashley
   - Tony
 excerpt: Ash goes down on Tony during a never-ending work call.
-part: 3
+number: 3
 ---
 
 When Tony arrived at her office the next day, she was stuck on a never-ending phone call. She waved him into the room, motioning for him to shut the door, and making a “won’t stop talking” gesture at the phone. He nodded knowingly and wandered over to the couch.

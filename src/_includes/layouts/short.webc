@@ -38,18 +38,9 @@ prism: true
       alt=""
       loading="eager"
       class="feature-image"
+      :sizes="media.mediaList.sizes"
+      :width="media.mediaList.widths"
     />
-    <figcaption webc:if="feature_credit">
-      <p>
-        Image credit:
-        <a
-          webc:if="feature_source"
-          :href="feature_source"
-          @text="feature_credit"
-        ></a>
-        <template webc:else @text="feature_credit" webc:nokeep></template>
-      </p>
-    </figcaption>
   </figure>
 
   <template @raw="content" webc:nokeep></template>

@@ -1,6 +1,7 @@
 ---
 title: Caught in the Act
 date: 2010-05-05
+category: Office Sex
 tags:
   - office sex
   - masturbation
@@ -13,7 +14,7 @@ tags:
   - squirting
   - creampie
 excerpt: He walks in on her masturbating and helps her finish.
-part: 3
+number: 3
 bundles:
   - seven-minutes-in-heaven
 ---

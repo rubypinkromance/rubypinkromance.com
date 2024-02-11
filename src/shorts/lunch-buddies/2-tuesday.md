@@ -1,6 +1,7 @@
 ---
 title: Tuesday
 date: 2024-02-06
+category: Office Sex
 tags:
   - office sex
   - masturbation
@@ -13,7 +14,7 @@ characters:
   - Ashley
   - Tony
 excerpt: Ash encourages Tony to be more direct, and cum on her tits.
-part: 2
+number: 2
 ---
 
 Ash wasn’t surprised when Tony texted the next day asking if she wanted to get lunch again.

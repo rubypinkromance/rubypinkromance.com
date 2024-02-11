@@ -10,9 +10,11 @@ tags:
 characters:
   - Gillian Reid
 excerpt: Special Agent Gillian Reid gets up close with an alien porn star.
-series: Bureau of Paranormal Investigation
+series: bpi
+seriesTitle: Bureau of Paranormal Investigation
 number: 4
 amazon: https://www.amazon.com/dp/B01GP588DO
+feature_image: covers/bpi-04-alien-anatomy.jpg
 ---
 
 Special Agent Gillian Reid never expected to find herself on the set of an adult film, but working at the Bureau of Paranormal Investigation can take you to some strange places. She’s come to interview a man with a strange anatomical feature that makes him doubly qualified to be a star, and has convinced her partner that he’s an alien.

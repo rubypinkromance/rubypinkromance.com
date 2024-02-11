@@ -12,9 +12,11 @@ tags:
 characters:
   - Gillian Reid
 excerpt: Special Agent Gillian Reid confronts a feral shifter.
-series: Bureau of Paranormal Investigation
+series: bpi
+seriesTitle: Bureau of Paranormal Investigation
 number: 1
 amazon: https://www.amazon.com/dp/B01C3J9434
+feature_image: covers/bpi-01-to-catch-a-shifter.jpg
 ---
 
 Special Agent Gillian Reid of the Bureau of Paranormal Investigation has flown to Oregon to investigate a series of grisly murders. Local police blame the attacks on a wild bear, but she recognizes the signs of a feral shifter. Her suspicions are confirmed when they are attacked at the crime scene, leaving her partner knocked out and her the captive of the very man they were hunting.

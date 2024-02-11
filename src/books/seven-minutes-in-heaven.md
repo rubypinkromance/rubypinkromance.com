@@ -7,6 +7,7 @@ tags:
 excerpt: 22 short, smart and saucy stories about women who know what they want.
 bundle: true
 amazon: https://www.amazon.com/dp/B01NBNJ2AU
+feature_image: covers/seven-minutes-in-heaven.jpg
 ---
 
 In _Seven Minutes in Heaven_, author Ruby Pink brings you 22 short, smart and saucy stories about women who know what they want. In “Teacher’s Pets,” you’ll meet the college professor who allows her students to seduce her for a better grade. In “Crowded Train,” two passengers get much closer than expected on the bumpy commute home from work. The “Winning the Bet” stories bring you two coworkers fumbling and groping their way into a relationship. You’ll meet a ghost hunter who’s willing to do whatever it takes to provoke a supernatural encounter. A tense mother who needs some physical therapy. A waitress eager to reunite with her chef. And many more.

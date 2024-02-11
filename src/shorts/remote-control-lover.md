@@ -1,6 +1,7 @@
 ---
 title: Remote Control Lover
 date: 2013-05-23
+category: Toys
 tags:
   - toys
   - camgirl

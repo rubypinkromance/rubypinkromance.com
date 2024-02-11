@@ -1,6 +1,7 @@
 ---
 title: The Moaning Ghost
 date: 2014-03-27
+category: Supernatural
 tags:
   - supernatural
   - erotic horror

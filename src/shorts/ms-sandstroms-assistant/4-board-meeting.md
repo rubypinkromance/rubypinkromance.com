@@ -1,6 +1,7 @@
 ---
 title: The Board Meeting
 date: 2019-04-14
+category: Office Sex
 tags:
   - office sex
   - blowjob
@@ -20,7 +21,7 @@ characters:
   - Liz
   - Mike
 excerpt: Mike helps Cheryl relieve some tension before a big meeting.
-part: 4
+number: 4
 ---
 
 After the interview, I had no idea what to expect from my new job. Would every day be filled with sexual innuendo, fingering, and blowjobs? Not so much. It turns out that even an administrative/sexual assistant still has new-hire paperwork. There were orientation sessions to attend, forms to fill out, and computer accounts to configure.

@@ -1,6 +1,7 @@
 ---
 title: The Uber
 date: 2018-07-12
+category: Science Fiction
 tags:
   - science fiction
   - futanari
@@ -17,7 +18,7 @@ characters:
   - Olivia
   - Trish
 excerpt: Liv gives Trish a hand in the backseat of an Uber.
-part: 2
+number: 2
 ---
 
 Our company is only on the ninth floor of our building, but I swear it has the slowest elevator in the city. And you know how when you want the elevator to go fast, it stops on every floor? Well, this was one of those trips.

@@ -1,6 +1,7 @@
 ---
 title: Amy
 date: 2023-04-10
+category: College Sex
 tags:
   - college sex
   - blowjob
@@ -15,7 +16,7 @@ characters:
   - Amy
   - Wally
 excerpt: Amy sneaks into Wally's room after Ian blows her off.
-part: 4
+number: 4
 ---
 
 “Head to the bathroom on your side. Take off your clothes, blindfold yourself, and wait for me in the shower. I’ll be there soon. Be ready for me! 💋”

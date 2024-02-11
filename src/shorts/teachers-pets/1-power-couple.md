@@ -1,6 +1,7 @@
 ---
 title: The Power Couple
 date: 2015-03-10
+category: College Sex
 tags:
   - college sex
   - seduction
@@ -16,7 +17,7 @@ characters:
   - Todd
   - Jessica
 excerpt: Professor seduced by jock & cheerleader for better grades
-part: 1
+number: 1
 bundles:
   - seven-minutes-in-heaven
 ---

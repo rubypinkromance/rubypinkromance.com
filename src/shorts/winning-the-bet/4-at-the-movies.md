@@ -1,6 +1,7 @@
 ---
 title: At the Movies
 date: 2010-05-06
+category: Exhibitionism
 tags:
   - exhibitionism
   - public
@@ -11,7 +12,7 @@ tags:
   - skirt
   - dirty talk
 excerpt: I give this movie one finger up… my date’s ass.
-part: 4
+number: 4
 bundles:
   - seven-minutes-in-heaven
 ---

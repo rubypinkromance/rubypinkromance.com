@@ -1,7 +1,9 @@
 ---
 title: A Birthday Surprise
 date: 2013-04-19
+category: Oral Sex
 tags:
+  - oral sex
   - blowjob
   - swallow
   - girlfriend

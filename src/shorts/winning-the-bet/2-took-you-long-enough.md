@@ -1,6 +1,7 @@
 ---
 title: Took You Long Enough
 date: 2010-04-29
+category: Quickie Sex
 tags:
   - quickie sex
   - blowjob
@@ -8,7 +9,7 @@ tags:
   - fingering
   - facial
 excerpt: Tired of waiting for him to make a move, she “lost” the bet.
-part: 2
+number: 2
 bundles:
   - seven-minutes-in-heaven
 ---

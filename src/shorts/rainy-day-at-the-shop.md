@@ -1,6 +1,7 @@
 ---
 title: Rainy Day at the Shop
 date: 2020-02-01
+category: Quickie Sex
 tags:
   - quickie sex
   - blowjob

@@ -1,5 +1,5 @@
 module.exports = {
   tags: ['books', 'pubs'],
-  layout: 'layouts/page.webc',
+  layout: 'layouts/book.webc',
   og_type: 'article',
 };

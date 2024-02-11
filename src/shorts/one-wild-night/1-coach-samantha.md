@@ -1,6 +1,7 @@
 ---
 title: Coach Samantha
 date: 2020-10-22
+category: Oral Sex
 tags:
   - oral sex
   - blowjob
@@ -15,7 +16,7 @@ characters:
   - Samantha
   - Jake
 excerpt: Coaches Samantha & Jake attempt to hook up on a school trip.
-part: 1
+number: 1
 ---
 
 Standing back from the luggage carousel, Samantha yawned and cracked her neck. She’d spotted her purple rolling bag right away, and was just waiting for Jake and the students to find theirs among the cascade of identical black duffles. She rolled her shoulders, trying to work out the kinks from the cramped coach flight.

@@ -1,6 +1,7 @@
 ---
 title: The Oral Exam
 date: 2017-11-13
+category: Office Sex
 tags:
   - office sex
   - cunnilingus
@@ -17,7 +18,7 @@ characters:
   - Liz
   - Mike
 excerpt: The ideal candidate must demonstrate strong oral skills.
-part: 3
+number: 3
 ---
 
 I stood up too fast and felt awkward. I worried it would make me look too eager. Trying to appear calm, I turned and walked towards Liz, unsure of how to proceed. She reclined on the couch with her legs crossed and her arms folded. She watched me approach with a gleam in her eye.

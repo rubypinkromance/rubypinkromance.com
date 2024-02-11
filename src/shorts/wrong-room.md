@@ -1,6 +1,7 @@
 ---
 title: Wrong Room
 date: 2010-06-23
+category: Cheating
 tags:
   - cheating
   - blowjob

@@ -1,6 +1,7 @@
 ---
 title: Kara
 date: 2023-01-13
+category: College Sex
 tags:
   - college sex
   - blowjob
@@ -14,7 +15,7 @@ characters:
   - Kara
   - Ian
 excerpt: Kara finds Ian wanking and explores her new confidence.
-part: 3
+number: 3
 ---
 
 Kara stepped into the hall and shut the bedroom door behind her. For a moment, she paused, feeling giddy. Then she realized she was holding her shorts, not wearing them. She hustled to the bathroom before anyone came along and she ha

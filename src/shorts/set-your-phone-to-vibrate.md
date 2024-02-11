@@ -1,6 +1,7 @@
 ---
 title: Set Your Phone To Vibrate
 date: 2011-09-07
+category: Office Sex
 tags:
   - office sex
   - teasing

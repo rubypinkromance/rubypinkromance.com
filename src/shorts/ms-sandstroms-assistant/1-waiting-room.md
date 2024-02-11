@@ -1,6 +1,7 @@
 ---
 title: The Waiting Room
 date: 2013-08-01
+category: Office Sex
 tags:
   - office sex
   - blowjob
@@ -16,7 +17,7 @@ characters:
   - Liz
   - Mike
 excerpt: Liz helps Mike release some tension before his interview.
-part: 1
+number: 1
 ---
 
 I tapped my foot nervously and drummed my fingers on the arm of my chair. My eyes roamed restlessly around the room, passing over details I had already observed dozens of times. Expensive-looking art on the walls. The potted plant in the corner. The display case full of awards for the company’s products. A framed photo of the CEO. The attractive blonde secretary typing at her desk.

@@ -1,6 +1,7 @@
 ---
 title: Friday
 date: 2024-02-09
+category: Office Sex
 tags:
   - office sex
   - blowjob
@@ -14,7 +15,7 @@ characters:
   - Ashley
   - Tony
 excerpt: Ash finally rides Tony like a cowgirl.
-part: 5
+number: 5
 ---
 
 The morning seemed to drag on forever. Meeting after meeting after meeting. Ash kept checking the clock, astonished at how slowly time was passing. She was restless and distracted and all she could think about was how long she had to wait until lunch.
