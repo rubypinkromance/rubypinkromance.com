@@ -3,7 +3,9 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title @text="title ?? metadata.title"></title>
+    <title
+      @text="appendSiteTitle(fullTitle(title, subtitle, seriesTitle, number, metadata.title), metadata.title)"
+    ></title>
     <link
       rel="alternate"
       href="/feed/feed.xml"
@@ -27,8 +29,14 @@
     <!-- OPEN GRAPH -->
     <meta property="og:locale" :content="metadata.language" />
     <meta property="og:type" :content="og_type ?? 'website'" />
-    <meta property="og:title" :content="title ?? metadata.title" />
-    <meta property="twitter:title" :content="title ?? metadata.title" />
+    <meta
+      property="og:title"
+      :content="fullTitle(title, subtitle, seriesTitle, number, metadata.title)"
+    />
+    <meta
+      property="twitter:title"
+      :content="fullTitle(title, subtitle, seriesTitle, number, metadata.title)"
+    />
     <link
       rel="canonical"
       :href="canonical ?? htmlBaseUrl(page.url, metadata.url)"

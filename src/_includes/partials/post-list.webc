@@ -18,30 +18,7 @@
     ></time>
     <h3 class="post-list__title">
       <a :href="post.url" class="post-list__title-link">
-        <span webc:if="post.data.series" class="post-list__series">
-          <template
-            webc:if="post.data.seriesTitle"
-            @text="post.data.seriesTitle"
-            webc:nokeep
-          ></template>
-          <template
-            webc:if="post.data.number"
-            @text="post.data.number"
-            webc:nokeep
-          ></template
-          >:
-        </span>
-        <template
-          webc:if="post.data.title"
-          @text="post.data.title"
-          webc:nokeep
-        ></template
-        ><code webc:else @text="post.url"></code>
-        <template
-          webc:if="post.data.subtitle"
-          @text="post.data.subtitle"
-          webc:nokeep
-        ></template>
+        <post-title :post="post" />
       </a>
     </h3>
     <p

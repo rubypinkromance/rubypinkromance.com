@@ -18,9 +18,10 @@ eleventyExcludeFromCollections: true,
 	</author>
   <icon>{{ metadata.icon | htmlBaseUrl(metadata.url) }}</icon>
 	{%- for post in collections.pubs | reverse | head(15) %}
-	{%- set absolutePostUrl %}{{ post.url | htmlBaseUrl(metadata.url) }}{% endset %}
+	{%- set absolutePostUrl = post.url | htmlBaseUrl(metadata.url) %}
+  {%- set fullPostTitle = post.data.title | fullTitle(post.data.subtitle, post.data.seriesTitle, post.data.number, metadata.title) %}
 	<entry>
-		<title>{{ post.data.title }}</title>
+		<title>{{ fullPostTitle }}</title>
 		<link href="{{ absolutePostUrl }}"/>
 		<published>{{ post.date | dateToRfc3339 }}</published>
 		<updated>{{ post.data.date_updated | default(post.date) | dateToRfc3339 }}</updated>

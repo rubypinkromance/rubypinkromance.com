@@ -18,10 +18,11 @@ eleventyExcludeFromCollections: true,
 	"items": [
 		{%- for post in collections.pubs | reverse | head(15) %}
 		{%- set absolutePostUrl = post.url | htmlBaseUrl(metadata.url) %}
+    {%- set fullPostTitle = post.data.title | fullTitle(post.data.subtitle, post.data.seriesTitle, post.data.number, metadata.title) %}
 		{
 			"id": "{{ absolutePostUrl }}",
 			"url": "{{ absolutePostUrl }}",
-			"title": "{{ post.data.title }}",
+			"title": "{{ fullPostTitle }}",
 			"content_html": {% if post.templateContent %}{{ post.templateContent | transformWithHtmlBase(absolutePostUrl, post.url) | dump | safe }}{% else %}""{% endif %},
 			"date_published": "{{ post.date | dateToRfc3339 }}",
 			"date_modified": "{{ post.data.date_updated | default(post.date) | dateToRfc3339 }}",

@@ -73,6 +73,20 @@ const filters = {
   pluck: (array, attr, value) => {
     return array.filter((item) => item.data[attr] === value);
   },
+
+  // Return the full title of a post, combining series info and subtitle,
+  // falling back to the site's title if no post title is available.
+  fullTitle: (title, subtitle, seriesTitle, seriesNumber, metadataTitle) => {
+    if (title) {
+      return `${seriesTitle ? `${seriesTitle}${seriesNumber ? ` ${seriesNumber}` : ''}: ` : ''}${title}${subtitle ? ` ${subtitle}` : ''}`;
+    }
+    return metadataTitle;
+  },
+
+  // Append the site's title to a page's title if they're not the same
+  appendSiteTitle: (title, siteTitle) => {
+    return title === siteTitle ? title : `${title} | ${siteTitle}`;
+  },
 };
 
 module.exports = filters;

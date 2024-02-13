@@ -5,7 +5,9 @@ prism: true
 
 <article class="post">
   <header class="post__header">
-    <h1 class="post__title" @text="title"></h1>
+    <h1 class="post__title">
+      <post-title :post="getCollectionItem(collections.books)" />
+    </h1>
     <ul class="post__meta">
       <li class="post__meta-item">
         <time

@@ -1,0 +1,14 @@
+<ul webc:if="previousPost || nextPost">
+  <li webc:if="previousPost">
+    Previously:
+    <a :href="previousPost.url">
+      <post-title :post="previousPost" />
+    </a>
+  </li>
+  <li webc:if="nextPost">
+    Up Next:
+    <a :href="nextPost.url">
+      <post-title :post="nextPost" />
+    </a>
+  </li>
+</ul>
