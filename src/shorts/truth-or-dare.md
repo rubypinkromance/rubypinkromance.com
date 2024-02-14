@@ -18,6 +18,7 @@ characters:
   - Julie
   - Dan
 excerpt: Julie uses a game to start a threesome with Alice and Dan.
+feature_image: 'covers/truth-or-dare.jpg'
 ---
 
 It was clear to Julie that nothing would happen unless she got involved. The party wound down a while ago, and everyone had gone home except Alice’s friend Dan. There was chemistry between him and the two roommates, but he seemed reluctant to act on it. Julie could tell that Alice fancied him, but was hesitating because she could also sense a spark between him and Julie. Alice sometimes suffered from limited imagination, Julie thought, as she grabbed three beers from the fridge.
