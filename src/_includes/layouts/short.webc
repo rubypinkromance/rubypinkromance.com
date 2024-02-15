@@ -3,58 +3,60 @@ layout: layouts/base.webc
 prism: true
 ---
 
-<article class="post">
-  <header class="post__header">
-    <h1 class="post__title">
-      <post-title :post="getCollectionItem(collections.shorts)" />
-    </h1>
-    <ul class="post__meta">
-      <li class="post__meta-item">
-        <time
-          :datetime="htmlDateString(page.date)"
-          @text="readableDate(page.date)"
-        >
-        </time>
-      </li>
-    </ul>
-  </header>
-
-  <p class="post__excerpt intro">
-    <em @text="excerpt ?? createExcerpt(content)"></em>
-  </p>
-
-  <template webc:if="series">
-    <series-nav
-      :series="series"
-      :seriesTitle="seriesTitle"
-      :part="part"
-      :posts="pluck(collections.shortsByRecent, 'series', series)"
-    />
-  </template>
-
-  <figure>
+<article class="short">
+  <figure class="short__cover">
     <img
       webc:if="feature_image && !hide_feature_image"
       webc:is="eleventy-image"
       :src="imgPath(feature_image)"
       alt=""
       loading="eager"
-      class="feature-image"
+      class="short__cover-media"
       :sizes="media.mediaList.sizes"
       :width="media.mediaList.widths"
     />
   </figure>
 
-  <template @raw="content" webc:nokeep></template>
+  <header class="short__header">
+    <h1 class="short__title">
+      <post-title :post="getCollectionItem(collections.shorts)" />
+    </h1>
+    <p class="short__excerpt intro">
+      <em @text="excerpt ?? createExcerpt(content)"></em>
+    </p>
+  </header>
 
-  <footer class="post__footer">
-    <div class="post__tags" webc:if="filterTagList(tags).length">
-      <p class="post__tags-intro">Tagged as</p>
-      <ul class="post__tags-list">
+  <div class="short__content">
+    <template @raw="content" webc:nokeep></template>
+    <div class="fin">💋</div>
+    <post-nav
+      webc:if="series"
+      class="short__series-nav"
+      :@previous-post="getPreviousCollectionItem(pluck(collections.shorts, 'series', series))"
+      :@next-post="getNextCollectionItem(pluck(collections.shorts, 'series', series))"
+    ></post-nav>
+  </div>
+
+  <footer class="short__footer">
+    <p class="short__date">
+      <span class="label">Posted on:</span>
+      <time
+        :datetime="htmlDateString(page.date)"
+        @text="readableDate(page.date)"
+      >
+      </time>
+    </p>
+    <p webc:if="category" class="short__category">
+      <span class="label">Category:</span>
+      <span @text="category"></span>
+    </p>
+    <div class="short__tags" webc:if="filterTagList(tags).length">
+      <p class="short__tags-intro">Tagged as:</p>
+      <ul class="short__tags-list">
         <!-- display:inline -->
         <li
           webc:for="(key, tag) in filterTagList(tags).sort()"
-          class="post__tag"
+          class="short__tag"
           ><a
             webc:if="$data.collections[tag].length > 1"
             class="tag"
@@ -71,18 +73,5 @@ prism: true
         ></li>
       </ul>
     </div>
-
-    <h4>Series Navigation</h4>
-    <post-nav
-      webc:if="series"
-      :previous-post="getPreviousCollectionItem(pluck(collections.shorts, 'series', series))"
-      :next-post="getNextCollectionItem(pluck(collections.shorts, 'series', series))"
-    ></post-nav>
-
-    <h4>Shorts Navigation</h4>
-    <post-nav
-      :previous-post="getPreviousCollectionItem(collections.shorts)"
-      :next-post="getNextCollectionItem(collections.shorts)"
-    ></post-nav>
   </footer>
 </article>

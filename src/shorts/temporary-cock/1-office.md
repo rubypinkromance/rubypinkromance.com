@@ -16,7 +16,7 @@ tags:
 characters:
   - Olivia
   - Trish
-excerpt: Hey, remember that time I took a Russian pill and grew a cock and came all over your tits?
+excerpt: “Hey, remember that time I took a Russian pill, grew a cock and came all over your tits?”
 number: 1
 ---
 

@@ -5,6 +5,9 @@
 // theme
 @use '../_assets/_scss/theme';
 @use '../_assets/_scss/layout';
+@use '../_assets/_scss/header';
+@use '../_assets/_scss/footer';
 
 // components
 @use '../_assets/_scss/post-list';
+@use '../_assets/_scss/short';

@@ -100,17 +100,7 @@
     <header class="app-header t-dark">
       <div class="app-header__content">
         <div class="app-header__branding">
-          <a href="/" class="app-header__logo">
-            <img
-              src="/images/rubypink.jpg"
-              width="36"
-              height="36"
-              class="app-header__logo-img"
-              alt=""
-              aria-hidden="true"
-            />
-            <span class="app-header__logo-type" @text="metadata.title"></span>
-          </a>
+          <a href="/" class="app-header__title" @text="metadata.title"></a>
         </div>
         <nav class="app-header__nav">
           <ul class="app-header__nav-list">

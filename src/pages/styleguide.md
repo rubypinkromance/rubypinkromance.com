@@ -6,6 +6,22 @@ date: 2024-02-05
 prism: true
 ---
 
+<div class="t-light">
+
+## Light Theme
+
+Lorem ipsum dolor sit amet, [test link](http://example.com) adipiscing elit. **This is strong.** Nullam dignissim convallis est. Quisque aliquam. _This is emphasized._ Donec faucibus. **this is _strongly emphasized._** Nunc iaculis suscipit dui.
+
+</div>
+
+<div class="t-dark">
+
+## Dark Theme
+
+Lorem ipsum dolor sit amet, [test link](http://example.com) adipiscing elit. **This is strong.** Nullam dignissim convallis est. Quisque aliquam. _This is emphasized._ Donec faucibus. **this is _strongly emphasized._** Nunc iaculis suscipit dui.
+
+</div>
+
 ## Body Copy
 
 Lorem ipsum dolor sit amet, [test link](http://example.com) adipiscing elit. **This is strong.** Nullam dignissim convallis est. Quisque aliquam. _This is emphasized._ Donec faucibus. **this is _strongly emphasized._** Nunc iaculis suscipit dui. 5<sup>3</sup> = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. <cite>The New York Times</cite> (That's a citation). <u>Underline.</u> Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.

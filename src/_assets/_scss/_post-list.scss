@@ -57,6 +57,7 @@
   font-stretch: 75%;
   font-weight: normal;
   margin-block: 0.1em 0.25em;
+  text-wrap: balance;
 }
 
 .post-list__title-link {
@@ -72,6 +73,7 @@
   display: block;
   font-style: italic;
   margin: 0;
+  text-wrap: balance;
 
   @media screen and (width >= 48em) {
     font-size: smaller;

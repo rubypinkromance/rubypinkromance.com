@@ -1,27 +1,27 @@
 @mixin theme-light() {
-  --color-bg: #fff;
-  --color-bg-alt: rgba(0 0 0 / 5%);
-  --color-fg: #333;
-  --color-overlay: rgba(255 255 255 / 90%);
-  --color-subtle: rgba(0 0 0 / 50%);
-  --color-border: rgba(0 0 0 / 20%);
-  --color-link: #34d;
-  --color-link-underline: #{rgba(#34d, 0.25)};
-  --color-link-visited: #692dd1;
-  --color-link-visited-underline: rgba(#692dd1, 0.25);
+  --color-primary: #a0004d;
+  --color-on-primary: #fff;
+  --color-bg: #fff8f7;
+  --color-bg-alt: #fee9ec;
+  --color-fg: #24191b;
+  --color-subtle: #564145;
+  --color-border: #897175;
+  --color-border-subtle: #dcbfc4;
+  --color-link: var(--color-primary);
+  --color-link-underline: #ffb1c2;
 }
 
 @mixin theme-dark() {
-  --color-bg: #222;
-  --color-bg-alt: rgba(255 255 255 / 5%);
-  --color-fg: #aaa;
-  --color-overlay: rgba(0 0 0 / 75%);
-  --color-subtle: rgba(255 255 255 / 37.5%);
-  --color-border: rgba(255 255 255 / 15%);
-  --color-link: #bb86fc;
-  --color-link-underline: #{rgba(#bb86fc, 0.5)};
-  --color-link-visited: #8f95ff;
-  --color-link-visited-underline: rgba(#8f95ff, 0.5);
+  --color-primary: #ffb1c2;
+  --color-on-primary: #66002b;
+  --color-bg: #281d1f;
+  --color-bg-alt: #332729;
+  --color-fg: #dcbfc4;
+  --color-subtle: #a48a8f;
+  --color-border: #a48a8f;
+  --color-border-subtle: #564145;
+  --color-link: var(--color-primary);
+  --color-link-underline: #720533;
 }
 
 :root {
@@ -59,11 +59,6 @@ a {
   text-decoration-thickness: 0.0625em;
   text-underline-offset: 0.0938em;
 
-  &:visited {
-    color: var(--color-link-visited, visitedtext);
-    text-decoration-color: var(--color-link-visited-underline, visitedtext);
-  }
-
   &:hover,
   &:focus {
     text-decoration-color: currentcolor;
@@ -77,4 +72,22 @@ hr {
   border-top: 1px solid var(--color-border, buttonborder);
   margin-block: 4em;
   width: 66%;
+}
+
+.post__title {
+  color: var(--color-primary);
+}
+
+.fin {
+  align-items: center;
+  display: flex;
+  gap: 1em;
+  margin: 3em 0;
+
+  &::before,
+  &::after {
+    border-top: 1px solid var(--color-border-subtle, buttonborder);
+    content: '';
+    flex: 1;
+  }
 }
