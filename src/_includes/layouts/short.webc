@@ -4,16 +4,15 @@ prism: true
 ---
 
 <article class="short">
-  <figure class="short__cover">
+  <figure class="short__cover" webc:if="feature_image && !hide_feature_image">
     <img
-      webc:if="feature_image && !hide_feature_image"
       webc:is="eleventy-image"
       :src="imgPath(feature_image)"
       alt=""
       loading="eager"
       class="short__cover-media"
-      :sizes="media.mediaList.sizes"
-      :width="media.mediaList.widths"
+      :sizes="media.short.sizes"
+      :width="media.short.widths"
     />
   </figure>
 

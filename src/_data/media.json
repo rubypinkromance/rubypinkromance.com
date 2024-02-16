@@ -11,6 +11,10 @@
     "sizes": "(min-width: 48em) 250px, (min-width: 40em) 200px, (min-width: 32em) 150px, 100px",
     "widths": "300,400,500"
   },
+  "short": {
+    "sizes": "(min-width: 30em) 200px, 100px",
+    "widths": "100,200,400"
+  },
   "triptych": {
     "sizes": "(min-width: 64em) 248px, (min-width: 48em) 225px, (min-width: 42em) 200px, (min-width: 38.5em) 190px, 33vw",
     "widths": "300,400,500"
