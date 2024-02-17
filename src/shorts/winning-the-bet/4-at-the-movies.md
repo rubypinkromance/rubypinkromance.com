@@ -1,7 +1,6 @@
 ---
 title: At the Movies
 date: 2010-05-06
-category: Exhibitionism
 tags:
   - exhibitionism
   - public

@@ -1,7 +1,6 @@
 ---
 title: The Oral Exam
 date: 2017-11-13
-category: Office Sex
 tags:
   - office sex
   - cunnilingus

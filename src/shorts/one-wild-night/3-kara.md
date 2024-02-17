@@ -1,7 +1,6 @@
 ---
 title: Kara
 date: 2023-01-13
-category: College Sex
 tags:
   - college sex
   - blowjob

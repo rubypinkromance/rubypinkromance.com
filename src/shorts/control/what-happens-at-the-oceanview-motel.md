@@ -1,7 +1,6 @@
 ---
 title: What Happens at the Oceanview Motel
 date: 2020-01-27
-category: Fan Fiction
 tags:
   - fan fiction
   - cunnilingus

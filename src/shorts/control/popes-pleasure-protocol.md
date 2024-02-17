@@ -1,7 +1,6 @@
 ---
 title: Pope’s Pleasure Protocol
 date: 2020-01-21
-category: Fan Fiction
 tags:
   - fan fiction
   - blowjob

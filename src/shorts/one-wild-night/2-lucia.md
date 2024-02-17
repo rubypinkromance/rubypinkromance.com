@@ -1,7 +1,6 @@
 ---
 title: Lucia
 date: 2023-01-02
-category: College Sex
 tags:
   - college sex
   - group sex

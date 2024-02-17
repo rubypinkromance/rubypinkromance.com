@@ -1,7 +1,6 @@
 ---
 title: The Lobby
 date: 2018-07-17
-category: Science Fiction
 tags:
   - science fiction
   - futanari

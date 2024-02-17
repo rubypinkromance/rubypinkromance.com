@@ -1,7 +1,6 @@
 ---
 title: The Bedroom
 date: 2018-07-20
-category: Science Fiction
 tags:
   - science fiction
   - futanari

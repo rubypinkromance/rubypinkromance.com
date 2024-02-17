@@ -1,7 +1,6 @@
 ---
 title: Show Me
 date: 2010-04-26
-category: Exhibitionism
 tags:
   - exhibitionism
   - bra

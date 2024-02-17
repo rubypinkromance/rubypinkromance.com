@@ -1,7 +1,6 @@
 ---
 title: The Waiting Room
 date: 2013-08-01
-category: Office Sex
 tags:
   - office sex
   - blowjob

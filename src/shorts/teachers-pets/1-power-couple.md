@@ -1,7 +1,6 @@
 ---
 title: The Power Couple
 date: 2015-03-10
-category: College Sex
 tags:
   - college sex
   - seduction

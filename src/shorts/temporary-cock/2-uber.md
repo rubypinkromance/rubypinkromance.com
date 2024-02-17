@@ -1,7 +1,6 @@
 ---
 title: The Uber
 date: 2018-07-12
-category: Science Fiction
 tags:
   - science fiction
   - futanari

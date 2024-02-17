@@ -1,7 +1,6 @@
 ---
 title: A Week of Teasing
 date: 2011-08-17
-category: Exhibitionism
 tags:
   - exhibitionism
   - blowjob
