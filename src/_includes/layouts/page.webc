@@ -2,9 +2,6 @@
 layout: layouts/base.webc
 ---
 
-<article class="post">
-  <header class="post__header">
-    <h1 class="post__title" @text="title ?? metadata.title"></h1>
-  </header>
+<article class="page">
   <template @raw="content" webc:nokeep></template>
 </article>
