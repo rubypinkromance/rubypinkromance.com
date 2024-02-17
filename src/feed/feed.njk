@@ -23,8 +23,8 @@ eleventyExcludeFromCollections: true,
 	<entry>
 		<title>{{ fullPostTitle }}</title>
 		<link href="{{ absolutePostUrl }}"/>
-		<published>{{ post.date | dateToRfc3339 }}</published>
-		<updated>{{ post.data.date_updated | default(post.date) | dateToRfc3339 }}</updated>
+		<published>{{ post.page.date | dateToRfc3339 }}</published>
+		<updated>{{ post.data.date_updated | default(post.page.date) | dateToRfc3339 }}</updated>
 		<id>{{ absolutePostUrl }}</id>
     <author>
       <name>{{ metadata.author.name }}</name>

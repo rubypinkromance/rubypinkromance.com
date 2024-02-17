@@ -13,8 +13,8 @@
     </a>
     <time
       class="post-list__date"
-      :datetime="htmlDateString(post.date)"
-      @text="readableDate(post.date)"
+      :datetime="htmlDateString(post.page.date)"
+      @text="readableDate(post.page.date)"
     ></time>
     <h3 class="post-list__title">
       <a :href="post.url" class="post-list__title-link">

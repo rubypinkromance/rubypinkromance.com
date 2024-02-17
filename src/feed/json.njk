@@ -24,8 +24,8 @@ eleventyExcludeFromCollections: true,
 			"url": "{{ absolutePostUrl }}",
 			"title": "{{ fullPostTitle }}",
 			"content_html": {% if post.templateContent %}{{ post.templateContent | transformWithHtmlBase(absolutePostUrl, post.url) | dump | safe }}{% else %}""{% endif %},
-			"date_published": "{{ post.date | dateToRfc3339 }}",
-			"date_modified": "{{ post.data.date_updated | default(post.date) | dateToRfc3339 }}",
+			"date_published": "{{ post.page.date | dateToRfc3339 }}",
+			"date_modified": "{{ post.data.date_updated | default(post.page.date) | dateToRfc3339 }}",
       "authors": [
         {
           "name": "{{ metadata.author.name }}",
