@@ -3,7 +3,7 @@
 <ol class="post-list">
   <li webc:for="(post, index) of posts" class="post-list__item">
     <p>
-      <a :href="post.url" class="post-list__title-link">
+      <a :href="post.page.url" class="post-list__title-link">
         <template @text="post.data.seriesTitle" webc:nokeep></template>, Part
         <template @text="post.data.part" webc:nokeep></template>:
         <template @text="post.data.title" webc:nokeep></template>

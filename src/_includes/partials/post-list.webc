@@ -1,6 +1,6 @@
 <ol class="post-list">
   <li webc:for="(post, index) of posts" class="post-list__item">
-    <a :href="post.url" class="post-list__media-link">
+    <a :href="post.page.url" class="post-list__media-link">
       <img
         webc:is="eleventy-image"
         :src="imgPath(post.data.feature_image ?? 'covers/placeholder.jpg')"
@@ -17,7 +17,7 @@
       @text="readableDate(post.page.date)"
     ></time>
     <h3 class="post-list__title">
-      <a :href="post.url" class="post-list__title-link">
+      <a :href="post.page.url" class="post-list__title-link">
         <post-title :post="post" />
       </a>
     </h3>

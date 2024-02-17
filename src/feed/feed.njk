@@ -18,7 +18,7 @@ eleventyExcludeFromCollections: true,
 	</author>
   <icon>{{ metadata.icon | htmlBaseUrl(metadata.url) }}</icon>
 	{%- for post in collections.pubs | reverse | head(15) %}
-	{%- set absolutePostUrl = post.url | htmlBaseUrl(metadata.url) %}
+	{%- set absolutePostUrl = post.page.url | htmlBaseUrl(metadata.url) %}
   {%- set fullPostTitle = post.data.title | fullTitle(post.data.subtitle, post.data.seriesTitle, post.data.number, metadata.title) %}
 	<entry>
 		<title>{{ fullPostTitle }}</title>
@@ -33,7 +33,7 @@ eleventyExcludeFromCollections: true,
     <category term="{{ tag }}" />
     {%- endfor %}
 		<content type="html">
-      {{ post.templateContent | transformWithHtmlBase(absolutePostUrl, post.url) }}
+      {{ post.templateContent | transformWithHtmlBase(absolutePostUrl, post.page.url) }}
     </content>
 	</entry>
 	{%- endfor %}
