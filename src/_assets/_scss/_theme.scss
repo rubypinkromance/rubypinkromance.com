@@ -7,6 +7,7 @@
   --color-subtle: #564145;
   --color-border: #897175;
   --color-border-subtle: #dcbfc4;
+  --color-shadow: #897175;
   --color-link: var(--color-primary);
   --color-link-underline: #ffb1c2;
 }
@@ -20,6 +21,7 @@
   --color-subtle: #a48a8f;
   --color-border: #a48a8f;
   --color-border-subtle: #564145;
+  --color-shadow: #000;
   --color-link: var(--color-primary);
   --color-link-underline: #720533;
 }
@@ -69,9 +71,15 @@ a {
 
 hr {
   border: 0;
-  border-top: 1px solid var(--color-border, buttonborder);
+  border-top: 1px solid var(--color-border-subtle, buttonborder);
   margin-block: 4em;
   width: 66%;
+}
+
+blockquote {
+  border-left: 0.25em solid var(--color-border-subtle, buttonborder);
+  margin-inline-start: 0;
+  padding-inline: 0.75em;
 }
 
 .post__title {

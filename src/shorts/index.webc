@@ -7,4 +7,4 @@
 }
 ---
 
-<post-list :posts="collections.shortsByRecent"></post-list>
+<post-list :posts="collections.shortsBySeries"></post-list>

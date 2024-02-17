@@ -1,5 +1,9 @@
 <ol class="post-list">
-  <li webc:for="(post, index) of posts" class="post-list__item">
+  <li
+    webc:for="(post, index) of posts"
+    class="post-list__item"
+    :class="post.data.isSeries ? `is-series ${post.data.seriesCount > 2 ? 'large' : post.data.seriesCount > 1 ? 'small' : ''}` : ''"
+  >
     <a :href="post.page.url" class="post-list__media-link">
       <img
         webc:is="eleventy-image"
@@ -18,17 +22,25 @@
     ></time>
     <h3 class="post-list__title">
       <a :href="post.page.url" class="post-list__title-link">
-        <post-title :post="post" />
+        <template
+          webc:nokeep
+          webc:if="post.data.isSeries"
+          @text="post.data.seriesTitle"
+        ></template>
+        <post-title webc:else :post="post" />
       </a>
     </h3>
-    <p
-      class="post-list__category"
-      webc:if="post.data.category"
-      @text="post.data.category"
-    ></p>
+    <p class="post-list__category">
+      <template
+        webc:nokeep
+        webc:if="post.data.isSeries"
+        @text="`${post.data.seriesCategory} • ${post.data.seriesCount} chapters`"
+      ></template>
+      <template webc:nokeep webc:else @text="post.data.category"></template>
+    </p>
     <p
       class="post-list__excerpt"
-      @text="post.data.excerpt ?? createExcerpt(post.content)"
+      @text="post.data.isSeries ? post.data.seriesExcerpt : post.data.excerpt ?? createExcerpt(post.content)"
     ></p>
   </li>
 </ol>

@@ -25,6 +25,35 @@ const collections = {
     );
     return tags;
   },
+
+  shortsBySeries: (collectionApi) => {
+    const series = [];
+    const posts = collectionApi
+      .getFilteredByTag('shorts')
+      .reverse()
+      .map((post) => {
+        if (post.data.series) {
+          if (series.includes(post.data.series)) return undefined;
+          series.push(post.data.series);
+          return {
+            page: {
+              ...post.page,
+              url: `/shorts/${post.data.series}/`,
+            },
+            data: {
+              ...post.data,
+              isSeries: true,
+              seriesCount: collectionApi
+                .getFilteredByTag('shorts')
+                .filter((item) => item.data.series === post.data.series).length,
+            },
+          };
+        }
+        return post;
+      })
+      .filter((post) => post !== undefined);
+    return posts;
+  },
 };
 
 module.exports = collections;
