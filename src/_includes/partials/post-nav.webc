@@ -2,7 +2,7 @@
   <li class="previous">
     <template webc:if="previousPost" webc:nokeep>
       <span class="label">Previous:</span>
-      <a :href="previousPost.url">
+      <a :href="previousPost.page.url">
         <post-title :post="previousPost" />
       </a>
     </template>
@@ -10,7 +10,7 @@
   <li class="next">
     <template webc:if="nextPost" webc:nokeep>
       <span class="label">Next:</span>
-      <a :href="nextPost.url">
+      <a :href="nextPost.page.url">
         <post-title :post="nextPost" />
       </a>
     </template>
