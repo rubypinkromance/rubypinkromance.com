@@ -34,6 +34,10 @@ const collections = {
       .map((post) => {
         if (post.data.series) {
           if (series.includes(post.data.series)) return undefined;
+          const seriesCount = collectionApi
+            .getFilteredByTag('shorts')
+            .filter((item) => item.data.series === post.data.series).length;
+          if (seriesCount < 2) return post;
           series.push(post.data.series);
           return {
             page: {
