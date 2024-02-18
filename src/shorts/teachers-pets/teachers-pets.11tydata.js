@@ -1,5 +1,6 @@
 module.exports = {
-  series: 'teachers-pets',
+  // Comment out until there's more than one chapter
+  // series: 'teachers-pets',
   seriesTitle: 'Teacher’s Pets',
   category: 'College Sex',
   seriesCategory: 'College Sex',
