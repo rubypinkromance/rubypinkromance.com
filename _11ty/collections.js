@@ -15,6 +15,7 @@ const collections = {
     for (let post of posts) {
       for (let tag of post.data.tags) {
         if (tag === 'shorts') continue;
+        if (tag === 'pubs') continue;
         tags[tag] ??= [];
         tags[tag].push(post);
       }
