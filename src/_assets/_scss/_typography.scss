@@ -3,7 +3,7 @@
   font-family: 'Mission Gothic';
   font-style: italic;
   font-weight: 900;
-  src: url('/fonts/mission-gothic-black-italic.woff2') format('woff2');
+  src: url('/fonts/mission_gothic_black_italic.woff2') format('woff2');
 }
 
 :root {
@@ -41,6 +41,7 @@ h1,
 h2,
 h3 {
   font-family: var(--title-fonts);
+  font-style: italic;
   font-weight: var(--heading-weight);
 }
 
