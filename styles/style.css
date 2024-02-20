@@ -546,4 +546,42 @@ main {
   text-align: right;
 }
 
+.short__bundles {
+  margin-top: 3em;
+}
+
+.bundle-promo {
+  align-items: center;
+  background: var(--color-bg-alt);
+  border-radius: 0.5em;
+  display: flex;
+  font-size: 0.9em;
+  gap: 1em;
+  padding: 1em;
+}
+
+.bundle-promo__cover-link {
+  flex: none;
+  width: 100px;
+}
+@media (width >= 30em) {
+  .bundle-promo__cover-link {
+    width: 150px;
+  }
+}
+
+.bundle-promo__cover-media {
+  display: block;
+}
+
+.bundle-promo__blurb {
+  flex: 1;
+}
+.bundle-promo__blurb p {
+  margin: 0;
+}
+.bundle-promo__blurb p + p {
+  margin-top: 0.5em;
+}
+
 /*# sourceMappingURL=style.css.map */
