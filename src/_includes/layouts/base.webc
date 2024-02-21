@@ -97,11 +97,12 @@
   </head>
   <body :class="body_class ?? ''">
     <a href="#app-main" class="visually-hidden">Skip to main content</a>
-    <header class="app-header t-dark">
+    <header class="app-header">
       <div class="app-header__content">
         <div class="app-header__branding">
           <a href="/" class="app-header__title" @text="metadata.title"></a>
         </div>
+        <p class="app-header__description" @text="metadata.description"></p>
         <nav class="app-header__nav">
           <ul class="app-header__nav-list">
             <!-- display: inline -->

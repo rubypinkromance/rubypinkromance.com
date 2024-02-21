@@ -3,7 +3,7 @@ module.exports = {
   url: 'https://rubypinkromance.com/',
   language: 'en',
   icon: '/images/rubypink.jpg',
-  description: 'Erotic Romance',
+  description: 'Classy smut for classy people',
   author: {
     name: 'Ruby Pink',
     first_name: 'Ruby',

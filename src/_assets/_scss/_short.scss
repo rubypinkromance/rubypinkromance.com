@@ -1,13 +1,13 @@
 .short {
   display: grid;
-  gap: 1em 2em;
+  gap: 1em;
   grid-template-areas: 'header cover' 'content content' 'footer footer';
   grid-template-columns: 1fr auto;
   /* stylelint-disable-next-line declaration-block-no-redundant-longhand-properties */
   grid-template-rows: min-content min-content 1fr;
 
   @media (width >= 42em) {
-    gap: 2em 3em;
+    gap: 2em;
     grid-template-areas: 'header header' 'cover content' 'footer content';
     grid-template-columns: auto 1fr;
     /* stylelint-disable-next-line declaration-block-no-redundant-longhand-properties */
@@ -19,6 +19,10 @@
     grid-template-columns: 200px minmax(min-content, 60ch) 200px;
     /* stylelint-disable-next-line declaration-block-no-redundant-longhand-properties */
     grid-template-rows: min-content 1fr;
+  }
+
+  @media (width >= 80em) {
+    gap: 2em 3em;
   }
 }
 

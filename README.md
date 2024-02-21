@@ -2,7 +2,7 @@
 
 - [ ] responsive image values
 - [ ] book styles
-- [ ] header styles
+- [x] header styles
 - [ ] homepage content
 - [ ] about page content
 - [ ] tag list styles

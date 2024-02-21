@@ -1,6 +1,8 @@
 @mixin theme-light() {
-  --color-primary: #a0004d;
+  --color-primary: #600029;
   --color-on-primary: #fff;
+  --color-primary-container: #92244a;
+  --color-on-primary-container: #ffe9ec;
   --color-bg: #fff8f7;
   --color-bg-alt: #fee9ec;
   --color-fg: #24191b;
@@ -15,6 +17,8 @@
 @mixin theme-dark() {
   --color-primary: #ffb1c2;
   --color-on-primary: #66002b;
+  --color-primary-container: #720533;
+  --color-on-primary-container: #ffb5c5;
   --color-bg: #281d1f;
   --color-bg-alt: #332729;
   --color-fg: #dcbfc4;
