@@ -6,7 +6,7 @@
   ></template
   ><template
     webc:if="post.data.number"
-    @text="`&nbsp;${post.data.number}`"
+    @text=" `${post.data.number}`"
     webc:nokeep
   ></template
   >:</span

@@ -3,49 +3,49 @@ layout: layouts/base.webc
 prism: true
 ---
 
-<article class="post">
-  <header class="post__header">
-    <h1 class="post__title">
-      <post-title :post="getCollectionItem(collections.books)" />
-    </h1>
-    <ul class="post__meta">
-      <li class="post__meta-item">
-        <time
-          :datetime="htmlDateString(page.date)"
-          @text="readableDate(page.date)"
-        >
-        </time>
-      </li>
-    </ul>
-  </header>
-
-  <p class="post__excerpt intro">
-    <em @text="excerpt ?? createExcerpt(content)"></em>
-  </p>
-
-  <figure>
+<article class="publication book">
+  <figure
+    class="publication__cover"
+    webc:if="feature_image && !hide_feature_image"
+  >
     <img
-      webc:if="feature_image && !hide_feature_image"
       webc:is="eleventy-image"
       :src="imgPath(feature_image)"
       alt=""
       loading="eager"
       class="feature-image"
-      :sizes="media.mediaList.sizes"
-      :width="media.mediaList.widths"
+      :sizes="media.publication.sizes"
+      :width="media.publication.widths"
     />
+    <figcaption webc:if="amazon">
+      <a :href="amazon" class="book__buy">Buy on Amazon</a>
+    </figcaption>
   </figure>
 
-  <template @raw="content" webc:nokeep></template>
+  <header class="publication__header">
+    <h1 class="publication__title">
+      <post-title :post="getCollectionItem(collections.books)" />
+    </h1>
+    <p class="publication__excerpt intro">
+      <em @text="excerpt ?? createExcerpt(content)"></em>
+    </p>
+  </header>
 
-  <footer class="post__footer">
-    <div class="post__tags" webc:if="filterTagList(tags).length">
-      <p class="post__tags-intro">Tagged as</p>
-      <ul class="post__tags-list">
+  <div class="publication__content book__content">
+    <template @raw="content" webc:nokeep></template>
+    <p webc:if="amazon">
+      <a :href="amazon" class="book__buy">Buy on Amazon</a>
+    </p>
+  </div>
+
+  <footer class="publication__footer book__footer">
+    <div class="publication__tags" webc:if="filterTagList(tags).length">
+      <p class="publication__footer-label">Genres</p>
+      <ul class="publication__tags-list">
         <!-- display:inline -->
         <li
           webc:for="(key, tag) in filterTagList(tags).sort()"
-          class="post__tag"
+          class="publication__tag"
           ><a
             webc:if="$data.collections[tag].length > 1"
             class="tag"
@@ -62,5 +62,13 @@ prism: true
         ></li>
       </ul>
     </div>
+    <p class="book__date">
+      <span class="publication__footer-label">Published:</span>
+      <time
+        :datetime="htmlDateString(page.date)"
+        @text="readableDate(page.date)"
+      >
+      </time>
+    </p>
   </footer>
 </article>

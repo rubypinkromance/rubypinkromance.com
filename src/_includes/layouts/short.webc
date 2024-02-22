@@ -3,29 +3,32 @@ layout: layouts/base.webc
 prism: true
 ---
 
-<article class="short">
-  <figure class="short__cover" webc:if="feature_image && !hide_feature_image">
+<article class="publication short">
+  <figure
+    class="publication__cover"
+    webc:if="feature_image && !hide_feature_image"
+  >
     <img
       webc:is="eleventy-image"
       :src="imgPath(feature_image)"
       alt=""
       loading="eager"
       class="short__cover-media"
-      :sizes="media.short.sizes"
-      :width="media.short.widths"
+      :sizes="media.publication.sizes"
+      :width="media.publication.widths"
     />
   </figure>
 
-  <header class="short__header">
-    <h1 class="short__title">
+  <header class="publication__header">
+    <h1 class="publication__title">
       <post-title :post="getCollectionItem(collections.shorts)" />
     </h1>
-    <p class="short__excerpt intro">
+    <p class="publication__excerpt intro">
       <em @text="excerpt ?? createExcerpt(content)"></em>
     </p>
   </header>
 
-  <div class="short__content">
+  <div class="publication__content short__content">
     <template @raw="content" webc:nokeep></template>
     <div class="fin">💋</div>
     <post-nav
@@ -66,9 +69,9 @@ prism: true
     </div>
   </div>
 
-  <footer class="short__footer">
+  <footer class="publication__footer short__footer">
     <p class="short__date">
-      <span class="label">Posted on:</span>
+      <span class="publication__footer-label">Posted on:</span>
       <time
         :datetime="htmlDateString(page.date)"
         @text="readableDate(page.date)"
@@ -76,16 +79,16 @@ prism: true
       </time>
     </p>
     <p webc:if="category" class="short__category">
-      <span class="label">Category:</span>
+      <span class="publication__footer-label">Category:</span>
       <span @text="category"></span>
     </p>
-    <div class="short__tags" webc:if="filterTagList(tags).length">
-      <p class="short__tags-intro">Tagged as:</p>
-      <ul class="short__tags-list">
+    <div class="publication__tags" webc:if="filterTagList(tags).length">
+      <p class="publication__footer-label">Tagged as:</p>
+      <ul class="publication__tags-list">
         <!-- display:inline -->
         <li
           webc:for="(key, tag) in filterTagList(tags).sort()"
-          class="short__tag"
+          class="publication__tag"
           ><a
             webc:if="$data.collections[tag].length > 1"
             class="tag"

@@ -1,4 +1,4 @@
-<li webc:if="posts.length > 1">
-  <a :href="`/tags/${slugify(tag)}`" @text="tag"></a>
-  <small class="post-count" @text="`(${posts.length} posts)`"></small>
+<li class="tag-list__item" webc:if="posts.length > 1">
+  <a class="tag-list__link" :href="`/tags/${slugify(tag)}`" @text="tag"></a>
+  <small class="tag-list__count" @text="`(${posts.length} posts)`"></small>
 </li>
