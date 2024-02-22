@@ -1,4 +1,6 @@
 module.exports = {
   extends: ['stylelint-config-spaceninja'],
-  rules: {},
+  rules: {
+    'plugin/no-low-performance-animation-properties': null,
+  },
 };
