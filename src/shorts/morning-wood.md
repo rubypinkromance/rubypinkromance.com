@@ -10,7 +10,7 @@ tags:
   - grinding
   - swallow
 excerpt: College friends turn naptime teasing to grinding and more.
-bundles:
+bundled_in:
   - seven-minutes-in-heaven
 ---
 

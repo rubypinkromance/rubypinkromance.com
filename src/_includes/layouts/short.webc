@@ -37,35 +37,13 @@ prism: true
       :@previous-post="getPreviousCollectionItem(pluck(collections.shorts, 'series', series))"
       :@next-post="getNextCollectionItem(pluck(collections.shorts, 'series', series))"
     ></post-nav>
-    <div webc:if="bundles" class="short__bundles">
-      <div class="bundle-promo" webc:for="(key, bundle) in bundles">
-        <a :href="bundle.url" class="bundle-promo__cover-link">
-          <img
-            webc:is="eleventy-image"
-            :src="imgPath(bundle.feature_image)"
-            alt=""
-            class="bundle-promo__cover-media"
-            :width="media.postList.widths"
-            :sizes="media.postList.sizes"
-          />
-        </a>
-        <div class="bundle-promo__blurb">
-          <p>
-            This story is included in the collection
-            <a :href="bundle.url"
-              ><em
-                ><template webc:nokeep @text="bundle.title"></template>
-                <template
-                  webc:nokeep
-                  webc:if="bundle.subtitle"
-                  @text="bundle.subtitle"
-                ></template></em></a
-            >:
-            <template webc:nokeep @text="bundle.excerpt"></template>
-          </p>
-          <p><a :href="bundle.amazon">Available now on Amazon.</a></p>
-        </div>
-      </div>
+    <div webc:if="bundled_in" class="short__bundles">
+      <template webc:nokeep webc:for="bundle_key of bundled_in">
+        <bundle-promo
+          :bundle="bundles[bundle_key]"
+          :media="media"
+        ></bundle-promo>
+      </template>
     </div>
   </div>
 

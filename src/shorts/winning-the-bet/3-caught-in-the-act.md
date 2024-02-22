@@ -15,7 +15,7 @@ tags:
   - creampie
 excerpt: He walks in on her masturbating and helps her finish.
 number: 3
-bundles:
+bundled_in:
   - seven-minutes-in-heaven
 ---
 

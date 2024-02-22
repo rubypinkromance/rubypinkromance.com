@@ -9,7 +9,7 @@ tags:
   - cfnm
   - mistaken identity
 excerpt: My roommate’s girlfriend gives me a blowjob by mistake
-bundles:
+bundled_in:
   - seven-minutes-in-heaven
 ---
 

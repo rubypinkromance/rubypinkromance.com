@@ -10,7 +10,7 @@ tags:
   - facial
 excerpt: Tired of waiting for him to make a move, she “lost” the bet.
 number: 2
-bundles:
+bundled_in:
   - seven-minutes-in-heaven
 ---
 

@@ -17,7 +17,7 @@ characters:
   - Heather
   - Ashley
 excerpt: My girlfriend got me a blowjob from our hot blonde neighbor.
-bundles:
+bundled_in:
   - seven-minutes-in-heaven
 ---
 

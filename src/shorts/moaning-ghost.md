@@ -14,7 +14,7 @@ tags:
 characters:
   - Holly
 excerpt: I woke up to find a ghostly woman masturbating before me.
-bundles:
+bundled_in:
   - seven-minutes-in-heaven
 ---
 

@@ -12,7 +12,7 @@ tags:
   - quiet
   - public
 excerpt: You have to be quiet when you’re fucking in a dressing room.
-bundles:
+bundled_in:
   - seven-minutes-in-heaven
 ---
 

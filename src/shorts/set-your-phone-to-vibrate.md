@@ -13,7 +13,7 @@ tags:
   - office
   - work
 excerpt: In a pinch, you can use a phone as a remote-control vibrator.
-bundles:
+bundled_in:
   - seven-minutes-in-heaven
 ---
 

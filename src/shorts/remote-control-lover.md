@@ -13,7 +13,7 @@ tags:
   - vibrator
   - sleeve
 excerpt: She doesn’t know her new sex toy is connected to mine.
-bundles:
+bundled_in:
   - seven-minutes-in-heaven
 ---
 

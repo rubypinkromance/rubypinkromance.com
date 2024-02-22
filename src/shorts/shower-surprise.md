@@ -13,7 +13,7 @@ tags:
   - office
   - shower
 excerpt: “Oh my god, are you jerking off in here?”
-bundles:
+bundled_in:
   - seven-minutes-in-heaven
 ---
 

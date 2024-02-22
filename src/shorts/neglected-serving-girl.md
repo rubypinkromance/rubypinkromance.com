@@ -16,7 +16,7 @@ tags:
 characters:
   - Annie
 excerpt: After a month apart she has needs, but the inn has customers.
-bundles:
+bundled_in:
   - seven-minutes-in-heaven
 ---
 

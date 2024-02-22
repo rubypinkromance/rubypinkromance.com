@@ -12,7 +12,7 @@ tags:
   - mutual masturbation
   - cumshot
 excerpt: It’s not cheating if we don’t touch each other.
-bundles:
+bundled_in:
   - seven-minutes-in-heaven
 ---
 

@@ -11,7 +11,7 @@ tags:
   - public
   - dare
 excerpt: To win the party game, she just needs to make him cum first.
-bundles:
+bundled_in:
   - seven-minutes-in-heaven
 ---
 

@@ -12,7 +12,7 @@ tags:
   - dirty talk
 excerpt: I give this movie one finger up… my date’s ass.
 number: 4
-bundles:
+bundled_in:
   - seven-minutes-in-heaven
 ---
 

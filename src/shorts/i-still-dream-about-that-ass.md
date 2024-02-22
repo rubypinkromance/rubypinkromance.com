@@ -14,7 +14,7 @@ tags:
   - boss
   - creampie
 excerpt: Unexpected anal after-hours at the office.
-bundles:
+bundled_in:
   - seven-minutes-in-heaven
 ---
 

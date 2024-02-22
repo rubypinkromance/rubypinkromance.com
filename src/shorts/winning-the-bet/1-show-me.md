@@ -10,7 +10,7 @@ tags:
   - coworker
 excerpt: She lost the bet, now she has to model her underwear for me.
 number: 1
-bundles:
+bundled_in:
   - seven-minutes-in-heaven
 ---
 

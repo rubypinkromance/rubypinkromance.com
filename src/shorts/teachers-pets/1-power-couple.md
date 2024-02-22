@@ -17,7 +17,7 @@ characters:
   - Jessica
 excerpt: Professor seduced by jock & cheerleader for better grades
 number: 1
-bundles:
+bundled_in:
   - seven-minutes-in-heaven
 ---
 

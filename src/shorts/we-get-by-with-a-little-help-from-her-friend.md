@@ -16,7 +16,7 @@ characters:
   - Alice
   - Julie
 excerpt: Alice and her roommate give me a night I’ll never forget.
-bundles:
+bundled_in:
   - seven-minutes-in-heaven
 ---
 

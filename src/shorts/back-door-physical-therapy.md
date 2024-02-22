@@ -13,7 +13,7 @@ tags:
   - squirting
   - dirty talk
 excerpt: Helping a busy mom find the illicit release she needs.
-bundles:
+bundled_in:
   - seven-minutes-in-heaven
 ---
 

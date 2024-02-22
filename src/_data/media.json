@@ -5,7 +5,11 @@
   },
   "publication": {
     "sizes": "(min-width: 30em) 200px, 100px",
-    "widths": "100,200,400"
+    "widths": "100,200,300,400"
+  },
+  "promo": {
+    "sizes": "(min-width: 30em) 150px, 100px",
+    "widths": "100,200,300"
   },
   "postList": {
     "sizes": "(min-width: 42em) 250px, 200px",

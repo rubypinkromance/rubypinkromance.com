@@ -8,7 +8,7 @@ tags:
   - redhead
   - pulling out
 excerpt: She asked me to pull out, but what if I didn’t?
-bundles:
+bundled_in:
   - seven-minutes-in-heaven
 ---
 
