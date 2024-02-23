@@ -1,0 +1,47 @@
+.book-promo {
+  align-items: center;
+  background: var(--color-bg-alt);
+  border-radius: 0.5em;
+  display: flex;
+  font-size: 0.9em;
+  gap: 1em;
+  padding: 1em;
+}
+
+.book-promo__cover-link {
+  align-self: start;
+  flex: none;
+  width: 100px;
+
+  @media (width >= 30em) {
+    width: 150px;
+  }
+}
+
+.book-promo__cover-media {
+  display: block;
+}
+
+.book-promo__blurb {
+  flex: 1;
+
+  h2,
+  h3,
+  h4 {
+    color: var(--color-primary);
+    line-height: 1.1;
+    margin: 0 0 0.5rem;
+
+    a {
+      text-decoration: none;
+    }
+  }
+
+  p {
+    margin: 0;
+
+    + p {
+      margin-top: 0.5em;
+    }
+  }
+}

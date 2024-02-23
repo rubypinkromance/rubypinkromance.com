@@ -39,10 +39,7 @@ prism: true
     ></post-nav>
     <div webc:if="bundled_in" class="short__bundles">
       <template webc:nokeep webc:for="bundle_key of bundled_in">
-        <bundle-promo
-          :bundle="bundles[bundle_key]"
-          :media="media"
-        ></bundle-promo>
+        <book-promo :book="bundles[bundle_key]" :media="media"></book-promo>
       </template>
     </div>
   </div>

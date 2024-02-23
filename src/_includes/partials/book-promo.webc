@@ -1,0 +1,34 @@
+<div class="book-promo">
+  <a :href="book.amazon" class="book-promo__cover-link">
+    <img
+      webc:is="eleventy-image"
+      :src="imgPath(book.feature_image)"
+      alt=""
+      class="book-promo__cover-media"
+      :width="media.promo.widths"
+      :sizes="media.promo.sizes"
+    />
+  </a>
+  <div class="book-promo__blurb">
+    <slot>
+      <p>
+        This story is included in the collection
+        <a :href="book.url"
+          ><em
+            ><template webc:nokeep @text="book.title"></template
+            ><template
+              webc:nokeep
+              webc:if="book.subtitle"
+              @text="` ${book.subtitle}`"
+            ></template></em></a
+        >:
+        <template webc:nokeep @text="book.excerpt"></template>
+      </p>
+    </slot>
+    <p class="book-promo__available">
+      <a class="book-promo__link" :href="book.amazon">
+        Available now on Amazon!
+      </a>
+    </p>
+  </div>
+</div>

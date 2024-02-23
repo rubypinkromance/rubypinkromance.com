@@ -1,0 +1,45 @@
+---js
+{
+  layout: 'layouts/page.webc',
+  page_class: 'home',
+}
+---
+
+<div class="home__intro">
+  <h1>Hello, I’m Ruby!</h1>
+  <p>
+    I love erotica but get frustrated that many feature shallow women with no
+    agency. I write about smart, talented ladies who aren’t just props in male
+    fantasies.
+  </p>
+  <p>
+    You can read all my <a href="/shorts">short stories</a> here for free, but
+    if you enjoy them, please consider <a href="/books">buying my books</a>.
+    It’s the best way to support my work and keep me writing!
+  </p>
+</div>
+
+<div class="home__book">
+  <book-promo :book="collections.booksByRecent[0].data" :media="media">
+    <h2>
+      <a :href="book.amazon"
+        ><template webc:nokeep @text="book.title"></template
+        ><template
+          webc:nokeep
+          webc:if="book.subtitle"
+          @text="` ${book.subtitle}`"
+        ></template
+      ></a>
+    </h2>
+    <p>
+      My most recent book is a collection of some of my favorite shorts:
+      <template webc:nokeep @text="book.excerpt"></template>
+    </p>
+  </book-promo>
+</div>
+
+<div class="home__post-list">
+  <h2>My latest short stories</h2>
+  <post-list :posts="head(collections.shortsBySeries, 10)"></post-list>
+  <p class="home__see-all"><a href="/shorts/">See more</a></p>
+</div>

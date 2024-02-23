@@ -6,7 +6,7 @@ tags:
   - erotic romance
 excerpt: 22 short, smart and saucy stories about women who know what they want.
 bundle: true
-amazon: https://www.amazon.com/dp/B01NBNJ2AU
+amazon: https://www.amazon.com/dp/B07657VW4B
 feature_image: covers/seven-minutes-in-heaven.jpg
 ---
 
