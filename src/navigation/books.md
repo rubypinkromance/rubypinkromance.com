@@ -2,6 +2,6 @@
 eleventyNavigation:
   key: Books
   url: /books/
-  order: 0
+  order: 1
 permalink: false
 ---

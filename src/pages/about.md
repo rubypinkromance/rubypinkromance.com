@@ -5,7 +5,7 @@ date: 2024-02-05
 description: All about Ruby Pink.
 eleventyNavigation:
   key: About
-  order: 1
+  order: 2
 ---
 
 <header class="page__header">
