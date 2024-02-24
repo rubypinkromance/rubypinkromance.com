@@ -485,6 +485,14 @@ main {
 
 .page__header {
   align-self: center;
+  margin-bottom: 2em;
+}
+
+.page__description {
+  color: var(--color-subtle);
+  line-height: 1.4;
+  margin-bottom: 0;
+  text-align: center;
 }
 
 .page__title {
@@ -492,6 +500,7 @@ main {
   font-size: 2em;
   line-height: 1;
   margin: 0;
+  text-align: center;
   text-wrap: balance;
 }
 @media (width >= 25em) {
@@ -502,16 +511,6 @@ main {
 @media (width >= 30em) {
   .page__title {
     font-size: 3em;
-  }
-}
-@media (width >= 42em) {
-  .page__title {
-    text-align: center;
-  }
-}
-@media (width >= 60em) {
-  .page__title {
-    font-size: 4em;
   }
 }
 
@@ -780,17 +779,17 @@ main {
   margin-block: 1em;
 }
 
-.publication__tags-list {
+.publication__footer-list {
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
 @media (width < 42em) {
-  .publication__tag {
+  .publication__footer-list-item {
     display: inline;
   }
-  .publication__tag::after {
+  .publication__footer-list-item::after {
     color: var(--color-subtle);
     content: ", ";
   }
