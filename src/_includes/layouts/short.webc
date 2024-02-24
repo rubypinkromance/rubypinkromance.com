@@ -56,13 +56,14 @@ prism: true
             webc:if="$data.collections.shortsByCharacter[character].length > 1"
             :href="`/characters/${slugify(character)}/`"
             @text="character"
-          ></a><span
+          ></a
+          ><span
             webc:else
             title="Only one story with this character"
             @text="character"
-          ></span
-        >
+          ></span>
         </li>
+      </ul>
     </div>
     <p webc:if="category" class="short__category">
       <span class="publication__footer-label">Category:</span>
