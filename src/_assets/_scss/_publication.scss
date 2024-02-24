@@ -116,13 +116,13 @@
   margin-block: 1em;
 }
 
-.publication__tags-list {
+.publication__footer-list {
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-.publication__tag {
+.publication__footer-list-item {
   @media (width < 42em) {
     display: inline;
 

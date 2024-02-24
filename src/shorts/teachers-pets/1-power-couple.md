@@ -15,6 +15,7 @@ tags:
 characters:
   - Todd
   - Jessica
+  - Professor
 excerpt: Professor seduced by jock & cheerleader for better grades
 number: 1
 bundled_in:

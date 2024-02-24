@@ -30,7 +30,9 @@
 }
 ---
 
-<h1 class="post-list__header" @text="title"></h1>
+<header class="page__header">
+  <h1 class="page__title" @text="title"></h1>
+</header>
 
 <post-list :posts="collections[ tag.title ].reverse()"></post-list>
 

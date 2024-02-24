@@ -40,22 +40,21 @@ prism: true
 
   <footer class="publication__footer book__footer">
     <div class="publication__tags" webc:if="filterTagList(tags).length">
-      <p class="publication__footer-label">Genres</p>
-      <ul class="publication__tags-list">
+      <p class="publication__footer-label">Genres:</p>
+      <ul class="publication__footer-list">
         <!-- display:inline -->
         <li
           webc:for="(key, tag) in filterTagList(tags).sort()"
-          class="publication__tag"
+          class="publication__footer-list-item"
           ><a
             webc:if="$data.collections[tag].length > 1"
-            class="tag"
             :href="`/tags/${slugify(tag)}/`"
             :title="`${$data.collections[tag].length} posts with this tag`"
             @text="tag"
           ></a
           ><span
             webc:else
-            class="tag orphan"
+            class="orphan"
             title="Only one post with this tag"
             @text="tag"
           ></span

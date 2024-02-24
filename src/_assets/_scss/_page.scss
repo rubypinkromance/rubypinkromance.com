@@ -4,6 +4,14 @@
 
 .page__header {
   align-self: center;
+  margin-bottom: 2em;
+}
+
+.page__description {
+  color: var(--color-subtle);
+  line-height: 1.4;
+  margin-bottom: 0;
+  text-align: center;
 }
 
 .page__title {
@@ -11,6 +19,7 @@
   font-size: 2em;
   line-height: 1;
   margin: 0;
+  text-align: center;
   text-wrap: balance;
 
   @media (width >= 25em) {
@@ -19,13 +28,5 @@
 
   @media (width >= 30em) {
     font-size: 3em;
-  }
-
-  @media (width >= 42em) {
-    text-align: center;
-  }
-
-  @media (width >= 60em) {
-    font-size: 4em;
   }
 }

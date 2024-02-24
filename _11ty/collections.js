@@ -7,8 +7,6 @@ const collections = {
     return collectionApi.getFilteredByTag('shorts').reverse();
   },
 
-  // Posts by tag
-  // @see https://lea.verou.me/blog/2023/11ty-indices/#dynamic-postsbytag-collection
   shortsByTag: (collectionApi) => {
     const posts = collectionApi.getFilteredByTag('shorts');
     let tags = {};
@@ -25,6 +23,23 @@ const collections = {
       Object.entries(tags).sort((a, b) => b[1].length - a[1].length),
     );
     return tags;
+  },
+
+  shortsByCharacter: (collectionApi) => {
+    const posts = collectionApi.getFilteredByTag('shorts');
+    let characters = {};
+    for (let post of posts) {
+      if (!post.data.characters) continue;
+      for (let character of post.data.characters) {
+        characters[character] ??= [];
+        characters[character].push(post);
+      }
+    }
+    // sort and restructure the characters
+    characters = Object.keys(characters)
+      .sort()
+      .reduce((obj, key) => ((obj[key] = characters[key]), obj), {});
+    return characters;
   },
 
   shortsBySeries: (collectionApi) => {

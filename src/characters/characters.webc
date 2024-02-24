@@ -1,0 +1,18 @@
+---
+permalink: characters/
+layout: layouts/page.webc
+title: Characters
+---
+
+<header class="page__header">
+  <h1 class="page__title">All Characters</h1>
+  <p class="page__description">A list of all recurring characters.</p>
+</header>
+
+<ol class="post-list">
+  <character-list-item
+    webc:for="(name, posts) in $data.collections.shortsByCharacter"
+    :character="name"
+    :posts="posts"
+  ></character-list-item>
+</ol>
