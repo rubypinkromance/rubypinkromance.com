@@ -5,4 +5,5 @@ module.exports = {
   category: 'Office Sex',
   seriesCategory: 'Office Sex',
   seriesExcerpt: 'The ideal candidate must demonstrate strong oral skills.',
+  social_image: 'social/ms-sandstroms-assistant-social.jpg',
 };

@@ -16,6 +16,7 @@ seriesTitle: Bureau of Paranormal Investigation
 number: 3
 amazon: https://www.amazon.com/dp/B01EIPX5B8
 feature_image: covers/bpi-03-confession-of-a-psychic.jpg
+social_image: social/bpi-03-social.jpg
 ---
 
 Special Agent Gillian Reid of the Bureau of Paranormal Investigation might be in trouble. She’s interviewing a man the police suspect is behind an orgy that broke out in a movie theater. They’re right, though he didn’t drug the audience as they suspected. Instead, he confesses to Reid that he’s a psychic, and he uses his abilities to encourage people to act on their more primal desires.

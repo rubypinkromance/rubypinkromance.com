@@ -5,4 +5,5 @@ module.exports = {
   category: 'College Sex',
   seriesCategory: 'College Sex',
   seriesExcerpt: 'This one wild night at robotics camp…',
+  social_image: 'social/one-wild-night-social.jpg',
 };

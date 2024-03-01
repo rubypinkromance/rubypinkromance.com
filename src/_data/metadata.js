@@ -4,6 +4,7 @@ module.exports = {
   language: 'en',
   icon: '/images/rubypink.jpg',
   description: 'Classy smut for classy people',
+  social_image: 'social/ruby-pink-social.jpg',
   author: {
     name: 'Ruby Pink',
     first_name: 'Ruby',

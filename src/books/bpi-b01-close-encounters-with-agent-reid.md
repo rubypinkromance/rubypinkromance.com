@@ -23,6 +23,7 @@ number: Collection 1
 bundle: true
 amazon: https://www.amazon.com/dp/B01FCCXJGC
 feature_image: covers/bpi-b01-close-encounters-with-agent-reid.jpg
+social_image: social/bpi-b01-social.jpg
 ---
 
 Even for the Bureau of Paranormal Investigation, Special Agent Gillian Reid seems to find herself in a lot of strange situations. She’s been held captive by an amorous feral shifter. She was once trapped in a ghost’s memory of his wedding night. Then there was the time a psychic matchmaker manipulated her into confessing—and then acting on—the feelings she has for her partner.

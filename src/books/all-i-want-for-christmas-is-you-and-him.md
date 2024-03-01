@@ -16,6 +16,7 @@ characters:
 excerpt: Izzy knows what she wants for Christmas, but isn’t sure how to ask for it.
 amazon: https://www.amazon.com/dp/B01NBNJ2AU
 feature_image: covers/all-i-want-for-christmas-is-you-and-him.jpg
+social_image: social/christmas-social.jpg
 ---
 
 A few months ago, Izzy and Paul had a huge fight — maybe the biggest of their young marriage — when she admitted she’d been flirting with Joe, the broad-shouldered grocery clerk. Her home life was in a rut, and she had blossomed under his attention. Making the decision to turn away from Joe had been difficult, but she was determined to repair her marriage.

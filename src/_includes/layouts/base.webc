@@ -76,19 +76,16 @@
     />
     <meta name="author" :content="metadata.author.name" />
     <meta
-      webc:if="feature_image"
       property="og:image"
-      :content="feedImage(feature_image)"
+      :content="feedImage(social_image ?? metadata.social_image)"
     />
     <meta
-      webc:if="feature_image"
       property="og:image:secure_url"
-      :content="feedImage(feature_image)"
+      :content="feedImage(social_image ?? metadata.social_image)"
     />
     <meta
-      webc:if="feature_image"
       property="twitter:image"
-      :content="feedImage(feature_image)"
+      :content="feedImage(social_image ?? metadata.social_image)"
     />
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:site" :content="metadata.author.twitter" />

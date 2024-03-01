@@ -15,6 +15,7 @@ characters:
   - Jesse Faden
 excerpt: '“It’s a simple theory: Overwhelm the Hiss with pleasure.”'
 feature_image: 'covers/control-pope.jpg'
+social_image: 'social/control-pope-social.jpg'
 ---
 
 Jesse moaned as someone kissed her neck, trying hard to ignore the knocking on her office door. But the sound was insistent, and reluctantly she was pulled from her dream. She found herself laying on her couch, sleeping under her leather jacket. The details of the dream were fading already, leaving only impressions. Blonde hair. A nipple stiffening in her mouth. The satisfying weight of someone on top of her, moving between her thighs… She sighed as the knocking got louder.

@@ -19,6 +19,7 @@ characters:
   - Jesse Faden
 excerpt: Jesse finds more than she was looking for in Emily's room.
 feature_image: 'covers/control-oceanview.jpg'
+social_image: 'social/control-oceanview-social.jpg'
 ---
 
 “I took care of the incursion in the maintenance sector,” Jesse announced as she dropped her service weapon on the table. It shifted and changed shape a few times before settling, like an annoyed cat. Exhausted, she collapsed heavily into a chair in the boardroom she and Emily had converted into a command center. She closed her eyes and groaned as she relaxed into the chair, relieved to be getting off her feet. It felt like she’d been running around non-stop for days. She didn’t notice Emily discreetly gesture for the other scientists to leave, giving her and the Director some privacy.
