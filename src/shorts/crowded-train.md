@@ -13,6 +13,8 @@ tags:
 excerpt: Nowhere to sit but his lap, she fucks him in secret.
 bundled_in:
   - seven-minutes-in-heaven
+feature_image: 'covers/crowded-train.jpg'
+social_image: 'social/crowded-train-social.jpg'
 ---
 
 Without moving at all, we were fucking each other. Her cunt was rhythmically squeezing my cock. The vibration of the train was buzzing up through the base of my shaft into her, and every bump drove me a little deeper.

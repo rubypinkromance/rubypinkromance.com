@@ -12,6 +12,8 @@ tags:
 excerpt: College friends turn naptime teasing to grinding and more.
 bundled_in:
   - seven-minutes-in-heaven
+feature_image: 'covers/morning-wood.jpg'
+social_image: 'social/morning-wood-social.jpg'
 ---
 
 She gasped when I brushed my hand over her nipple — as much from surprise as from pleasure, I think. We were both half-asleep, dozing in my bed. She was a high school friend who went to college out of state and was visiting for the weekend. We were planning to spend the day together, but her train had arrived really early. I normally don’t get up until noon on the weekends, and she knocked on my door at 7am, looking tired.
