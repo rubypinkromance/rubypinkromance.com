@@ -15,6 +15,8 @@ characters:
   - Alice
   - Liam
 excerpt: Alice and Liam find a way to pass the time on a slow day.
+feature_image: 'covers/rainy-day-at-the-shop.jpg'
+social_image: 'social/rainy-day-at-the-shop-social.jpg'
 ---
 
 It was a slow day at the shop. Rain lashed against the front windows. Alice sighed and stretched. She and Liam had already done all the folding, facing, sweeping, and other make-work jobs in the vintage clothing store. No customers were coming in at 2pm in this kind of weather. She was bored, and the chill music that the owner insisted they play wasn’t helping.
