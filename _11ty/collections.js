@@ -63,6 +63,8 @@ const collections = {
             data: {
               ...post.data,
               isSeries: true,
+              feature_image:
+                post.data.seriesFeatureImage ?? post.data.feature_image,
               seriesCount: collectionApi
                 .getFilteredByTag('shorts')
                 .filter((item) => item.data.series === post.data.series).length,
