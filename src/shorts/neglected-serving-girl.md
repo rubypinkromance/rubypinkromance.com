@@ -18,6 +18,8 @@ characters:
 excerpt: After a month apart she has needs, but the inn has customers.
 bundled_in:
   - seven-minutes-in-heaven
+feature_image: 'covers/neglected-serving-girl.jpg'
+social_image: 'social/neglected-serving-girl-social.jpg'
 ---
 
 Annie was ready to scream with frustration. All day long she had been serving drinks and food to groups of knights, travelers, and merchants. Customers at the inn often leered at her or made comments about her body, but some days were worse than others. Today at least a dozen men had slapped her ass as she walked past and a few tried to grab her breasts. One pushed her against a wall and tried to kiss her. A particularly bold drunkard had reached up her dress. His hand was already on her thigh before she jumped away and “accidentally” poured a beer on him.
