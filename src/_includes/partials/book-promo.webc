@@ -12,8 +12,8 @@
   <div class="book-promo__blurb">
     <slot>
       <p>
-        This story is included in the collection
-        <a :href="book.url"
+        This short is included in
+        <a :href="book.amazon"
           ><em
             ><template webc:nokeep @text="book.title"></template
             ><template
@@ -21,7 +21,7 @@
               webc:if="book.subtitle"
               @text="`: ${book.subtitle}`"
             ></template></em></a
-        >:
+        >.
         <template webc:nokeep @text="book.excerpt"></template>
       </p>
     </slot>
