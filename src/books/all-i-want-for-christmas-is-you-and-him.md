@@ -2,6 +2,7 @@
 title: All I Want for Christmas is You …and Him
 date: 2016-12-22
 tags:
+  - holidays
   - steamy
   - christmas
   - romance

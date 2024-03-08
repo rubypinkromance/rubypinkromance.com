@@ -1,4 +1,1 @@
-[
-  { "url": "/feed/feed.xml", "name": "Feed" },
-  { "url": "/feed/feed.json", "name": "JSON" }
-]
+[{ "url": "/feed/feed.xml", "name": "Feed" }]

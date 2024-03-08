@@ -19,7 +19,7 @@
             ><template
               webc:nokeep
               webc:if="book.subtitle"
-              @text="` ${book.subtitle}`"
+              @text="`: ${book.subtitle}`"
             ></template></em></a
         >:
         <template webc:nokeep @text="book.excerpt"></template>

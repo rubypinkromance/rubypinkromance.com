@@ -16,9 +16,9 @@
   @text="post.data.title"
   webc:nokeep
 ></template
-><code webc:else @text="post.page.url"></code>
-<template
+><code webc:else @text="post.page.url"></code
+><template
   webc:if="post.data.subtitle"
-  @text="post.data.subtitle"
+  @text="`: ${post.data.subtitle}`"
   webc:nokeep
 ></template>

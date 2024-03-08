@@ -27,14 +27,11 @@
         ><template
           webc:nokeep
           webc:if="book.subtitle"
-          @text="` ${book.subtitle}`"
+          @text="`: ${book.subtitle}`"
         ></template
       ></a>
     </h2>
-    <p>
-      My most recent book is a collection of some of my favorite shorts:
-      <template webc:nokeep @text="book.excerpt"></template>
-    </p>
+    <p @text="book.blurb || book.excerpt"></p>
   </book-promo>
 </div>
 

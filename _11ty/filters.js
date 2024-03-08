@@ -78,7 +78,7 @@ const filters = {
   // falling back to the site's title if no post title is available.
   fullTitle: (title, subtitle, seriesTitle, seriesNumber, metadataTitle) => {
     if (title) {
-      return `${seriesTitle ? `${seriesTitle}${seriesNumber ? ` ${seriesNumber}` : ''}: ` : ''}${title}${subtitle ? ` ${subtitle}` : ''}`;
+      return `${seriesTitle ? `${seriesTitle}${seriesNumber ? ` ${seriesNumber}` : ''}: ` : ''}${title}${subtitle ? `: ${subtitle}` : ''}`;
     }
     return metadataTitle;
   },
