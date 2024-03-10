@@ -87,6 +87,11 @@ const filters = {
   appendSiteTitle: (title, siteTitle) => {
     return title === siteTitle ? title : `${title} | ${siteTitle}`;
   },
+
+  // Check if a post is a book
+  isBook: (post) => {
+    return post.data.tags.includes('books');
+  },
 };
 
 module.exports = filters;

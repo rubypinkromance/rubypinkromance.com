@@ -33,7 +33,16 @@ eleventyExcludeFromCollections: true,
     <category term="{{ tag }}" />
     {%- endfor %}
 		<content type="html">
+      {%- if post | isBook %}
+      &lt;p&gt;&lt;strong&gt;A hot new book from Ruby Pink!&lt;/strong&gt;&lt;/p&gt;
+      {%- endif %}
+      {%- if post.data.feature_image %}
+      &lt;img alt=&quot;&quot; src=&quot;{{ post.data.feature_image | feedImage }}&quot;&gt;
+      {%- endif %}
       {{ post.templateContent | transformWithHtmlBase(absolutePostUrl, post.page.url) }}
+      {%- if post | isBook %}
+      &lt;p&gt;&lt;a href="{{ post.data.amazon }}"&gt;Buy it now on Amazon!&lt;/a&gt;&lt;/p&gt;
+      {%- endif %}
     </content>
 	</entry>
 	{%- endfor %}

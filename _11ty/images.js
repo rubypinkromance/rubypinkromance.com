@@ -59,8 +59,23 @@ module.exports = (eleventyConfig) => {
     },
   );
 
+  // OG Image Filter
+  // Creates a 1600px jpg social sharing image for OG tags
+  // {{ "cat.jpg" | ogImage }}
+  eleventyConfig.addFilter('ogImage', async (src) => {
+    let file = imgPath(src);
+    let imageMetadata = await eleventyImage(file, {
+      filenameFormat: options.filenameFormat,
+      formats: ['jpg'],
+      outputDir: path.join(eleventyConfig.dir.output, options.outputDir),
+      urlPath: options.urlPath,
+      widths: [1600],
+    });
+    return `${siteMetadata.url.slice(0, -1)}${imageMetadata.jpeg[0].url}`;
+  });
+
   // Feed Image Filter
-  // Creates a 1600px webp social sharing image for feeds and OG tags
+  // Creates a 512px jpg featured image for RSS feeds
   // {{ "cat.jpg" | feedImage }}
   eleventyConfig.addFilter('feedImage', async (src) => {
     let file = imgPath(src);
@@ -69,7 +84,7 @@ module.exports = (eleventyConfig) => {
       formats: ['jpg'],
       outputDir: path.join(eleventyConfig.dir.output, options.outputDir),
       urlPath: options.urlPath,
-      widths: [1600],
+      widths: [512],
     });
     return `${siteMetadata.url.slice(0, -1)}${imageMetadata.jpeg[0].url}`;
   });

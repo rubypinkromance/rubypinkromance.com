@@ -77,15 +77,15 @@
     <meta name="author" :content="metadata.author.name" />
     <meta
       property="og:image"
-      :content="feedImage(social_image ?? metadata.social_image)"
+      :content="ogImage(social_image ?? metadata.social_image)"
     />
     <meta
       property="og:image:secure_url"
-      :content="feedImage(social_image ?? metadata.social_image)"
+      :content="ogImage(social_image ?? metadata.social_image)"
     />
     <meta
       property="twitter:image"
-      :content="feedImage(social_image ?? metadata.social_image)"
+      :content="ogImage(social_image ?? metadata.social_image)"
     />
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:site" :content="metadata.author.twitter" />
