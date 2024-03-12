@@ -2,17 +2,9 @@
 title: Confession of a Psychic
 date: 2016-04-18
 tags:
-  - urban fantasy
-  - erotic romance
-  - paranormal
   - psychic
   - telepath
-  - redhead
-characters:
-  - Gillian Reid
 excerpt: Special Agent Gillian Reid must escape a psychic’s cluches.
-series: bpi
-seriesTitle: Bureau of Paranormal Investigation
 number: 3
 amazon: https://www.amazon.com/dp/B01EIPX5B8
 feature_image: covers/bpi-03-confession-of-a-psychic.jpg

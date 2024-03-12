@@ -2,9 +2,6 @@
 title: Close Encounters with Agent Reid
 date: 2016-07-05
 tags:
-  - urban fantasy
-  - erotic romance
-  - paranormal
   - alpha male
   - shifter
   - werewolf
@@ -12,15 +9,9 @@ tags:
   - ghost
   - psychic
   - telepath
-  - redhead
   - historical
   - alien
-characters:
-  - Gillian Reid
 excerpt: This bundle collects all four Agent Reid stories.
-series: bpi
-seriesTitle: Bureau of Paranormal Investigation
-number: Collection 1
 bundle: true
 amazon: https://www.amazon.com/dp/B01FCCXJGC
 feature_image: covers/bpi-b01-close-encounters-with-agent-reid.jpg

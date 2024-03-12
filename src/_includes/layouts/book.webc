@@ -23,8 +23,13 @@ prism: true
   </figure>
 
   <header class="publication__header">
+    <p class="publication__series" webc:if="series">
+      <a :href="`/books/${series}/`">
+        <series-title :series-title="seriesTitle" :number="number" />
+      </a>
+    </p>
     <h1 class="publication__title">
-      <post-title :post="getCollectionItem(collections.books)" />
+      <post-title :title="title" :subtitle="subtitle" />
     </h1>
     <p class="publication__excerpt intro">
       <em @text="excerpt ?? createExcerpt(content)"></em>
@@ -36,9 +41,40 @@ prism: true
     <p webc:if="amazon">
       <a :href="amazon" class="book__buy">Buy on Amazon</a>
     </p>
+    <hr webc:if="series" />
+    <post-nav
+      webc:if="series"
+      class="short__series-nav"
+      :@previous-post="getPreviousCollectionItem(pluck(collections.books, 'series', series))"
+      :@next-post="getNextCollectionItem(pluck(collections.books, 'series', series))"
+    ></post-nav>
   </div>
 
   <footer class="publication__footer book__footer">
+    <div webc:if="characters" class="publication__characters">
+      <p class="publication__footer-label">Starring:</p>
+      <ul class="publication__footer-list">
+        <li
+          webc:for="character of characters"
+          class="publication__footer-list-item"
+        >
+          <a
+            webc:if="$data.collections.pubsByCharacter[character].length > 1"
+            :href="`/characters/${slugify(character)}/`"
+            @text="character"
+          ></a
+          ><span
+            webc:else
+            title="Only one story with this character"
+            @text="character"
+          ></span>
+        </li>
+      </ul>
+    </div>
+    <p webc:if="category" class="short__category">
+      <span class="publication__footer-label">Category:</span>
+      <span @text="category"></span>
+    </p>
     <div class="publication__tags" webc:if="filterTagList(tags).length">
       <p class="publication__footer-label">Genres:</p>
       <ul class="publication__footer-list">

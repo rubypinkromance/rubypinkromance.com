@@ -11,7 +11,7 @@ title: Characters
 
 <ol class="post-list">
   <character-list-item
-    webc:for="(name, posts) in $data.collections.shortsByCharacter"
+    webc:for="(name, posts) in $data.collections.pubsByCharacter"
     :character="name"
     :posts="posts"
   ></character-list-item>

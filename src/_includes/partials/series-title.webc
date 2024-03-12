@@ -1,0 +1,3 @@
+<template webc:if="seriesTitle" @text="seriesTitle" webc:nokeep></template
+><template webc:if="bundle" @text="` Collection`" webc:nokeep></template
+><template webc:if="number" @text="` #${number}`" webc:nokeep></template>

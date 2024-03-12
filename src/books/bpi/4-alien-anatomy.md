@@ -2,16 +2,8 @@
 title: Alien Anatomy
 date: 2016-06-05
 tags:
-  - urban fantasy
-  - erotic romance
-  - paranormal
   - alien
-  - redhead
-characters:
-  - Gillian Reid
 excerpt: Special Agent Gillian Reid gets up close with an alien porn star.
-series: bpi
-seriesTitle: Bureau of Paranormal Investigation
 number: 4
 amazon: https://www.amazon.com/dp/B01GP588DO
 feature_image: covers/bpi-04-alien-anatomy.jpg

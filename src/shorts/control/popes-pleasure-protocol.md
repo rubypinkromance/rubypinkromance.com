@@ -13,6 +13,7 @@ tags:
 characters:
   - Emily Pope
   - Jesse Faden
+number: 1
 excerpt: '“It’s a simple theory: Overwhelm the Hiss with pleasure.”'
 feature_image: 'covers/control-pope.jpg'
 social_image: 'social/control-pope-social.jpg'

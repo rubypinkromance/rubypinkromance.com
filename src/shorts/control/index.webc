@@ -7,6 +7,10 @@
 }
 ---
 
+<header class="page__header">
+  <h1 class="page__title" @text="`${title} Series`"></h1>
+</header>
+
 <post-list
   :posts="pluck(collections.shortsByRecent, 'series', 'control').reverse()"
 ></post-list>

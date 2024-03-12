@@ -25,8 +25,8 @@ const collections = {
     return tags;
   },
 
-  shortsByCharacter: (collectionApi) => {
-    const posts = collectionApi.getFilteredByTag('shorts');
+  pubsByCharacter: (collectionApi) => {
+    const posts = collectionApi.getFilteredByTag('pubs');
     let characters = {};
     for (let post of posts) {
       if (!post.data.characters) continue;
@@ -42,40 +42,44 @@ const collections = {
     return characters;
   },
 
-  shortsBySeries: (collectionApi) => {
-    const series = [];
-    const posts = collectionApi
-      .getFilteredByTag('shorts')
-      .reverse()
-      .map((post) => {
-        if (post.data.series) {
-          if (series.includes(post.data.series)) return undefined;
-          const seriesCount = collectionApi
-            .getFilteredByTag('shorts')
-            .filter((item) => item.data.series === post.data.series).length;
-          if (seriesCount < 2) return post;
-          series.push(post.data.series);
-          return {
-            page: {
-              ...post.page,
-              url: `/shorts/${post.data.series}/`,
-            },
-            data: {
-              ...post.data,
-              isSeries: true,
-              feature_image:
-                post.data.seriesFeatureImage ?? post.data.feature_image,
-              seriesCount: collectionApi
-                .getFilteredByTag('shorts')
-                .filter((item) => item.data.series === post.data.series).length,
-            },
-          };
-        }
-        return post;
-      })
-      .filter((post) => post !== undefined);
-    return posts;
-  },
+  shortsBySeries: (collectionApi) => itemsBySeries(collectionApi, 'shorts'),
+
+  booksBySeries: (collectionApi) => itemsBySeries(collectionApi, 'books'),
+};
+
+const itemsBySeries = (collectionApi, tag) => {
+  const series = [];
+  const posts = collectionApi
+    .getFilteredByTag(tag)
+    .reverse()
+    .map((post) => {
+      if (post.data.series) {
+        if (series.includes(post.data.series)) return undefined;
+        const seriesCount = collectionApi
+          .getFilteredByTag(tag)
+          .filter((item) => item.data.series === post.data.series).length;
+        if (seriesCount < 2) return post;
+        series.push(post.data.series);
+        return {
+          page: {
+            ...post.page,
+            url: `/${post.data.tags.includes('books') ? 'books' : 'shorts'}/${post.data.series}/`,
+          },
+          data: {
+            ...post.data,
+            isSeries: true,
+            feature_image:
+              post.data.seriesFeatureImage ?? post.data.feature_image,
+            seriesCount: collectionApi
+              .getFilteredByTag(tag)
+              .filter((item) => item.data.series === post.data.series).length,
+          },
+        };
+      }
+      return post;
+    })
+    .filter((post) => post !== undefined);
+  return posts;
 };
 
 module.exports = collections;

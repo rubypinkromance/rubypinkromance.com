@@ -7,4 +7,4 @@
 }
 ---
 
-<post-list :posts="collections.booksByRecent"></post-list>
+<post-list :posts="collections.booksBySeries"></post-list>

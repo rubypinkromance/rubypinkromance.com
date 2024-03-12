@@ -2,9 +2,14 @@
 title: Lunch Buddies
 subtitle: a friends to lovers erotic romance
 date: 2024-03-07
+category: Office Sex
 tags:
-  - erotic romance
   - office sex
+  - masturbation
+  - oral sex
+characters:
+  - Ashley
+  - Tony
 excerpt: Ashley helps Tony deal with an awkward situation in his pants.
 blurb: A smoking hot story featuring escalating intensity and desire, a well-earned climax, and a romantic epilogue.
 amazon: https://amazon.com/dp/B0CXJQ2XCF

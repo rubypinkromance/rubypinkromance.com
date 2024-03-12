@@ -2,8 +2,21 @@
 title: Seven Minutes in Heaven
 subtitle: and other erotic short stories
 date: 2017-10-03
+category: Erotica
 tags:
-  - erotic romance
+  - college sex
+  - anal
+  - group sex
+  - supernatural
+  - reluctance
+  - toys
+  - exhibitionism
+  - office sex
+  - cheating
+  - quickie sex
+  - oral sex
+  - historical
+  - masturbation
 excerpt: 22 short, smart and saucy stories about women who know what they want.
 blurb: 22 short, smart and saucy stories about women who know what they want.
 bundle: true

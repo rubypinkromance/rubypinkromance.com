@@ -2,18 +2,10 @@
 title: To Catch a Shifter
 date: 2016-02-22
 tags:
-  - urban fantasy
-  - erotic romance
-  - paranormal
   - alpha male
   - shifter
   - werewolf
-  - redhead
-characters:
-  - Gillian Reid
 excerpt: Special Agent Gillian Reid confronts a feral shifter.
-series: bpi
-seriesTitle: Bureau of Paranormal Investigation
 number: 1
 amazon: https://www.amazon.com/dp/B01C3J9434
 feature_image: covers/bpi-01-to-catch-a-shifter.jpg

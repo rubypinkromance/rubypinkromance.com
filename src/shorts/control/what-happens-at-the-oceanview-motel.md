@@ -17,6 +17,7 @@ tags:
 characters:
   - Emily Pope
   - Jesse Faden
+number: 2
 excerpt: Jesse finds more than she was looking for in Emily's room.
 feature_image: 'covers/control-oceanview.jpg'
 social_image: 'social/control-oceanview-social.jpg'

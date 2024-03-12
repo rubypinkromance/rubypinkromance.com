@@ -15,11 +15,15 @@
         :sizes="post.data.media.postList.sizes"
       />
     </a>
-    <time
-      class="post-list__date"
-      :datetime="htmlDateString(post.page.date)"
-      @text="readableDate(post.page.date)"
-    ></time>
+    <p
+      webc:if="!post.data.isSeries && post.data.number"
+      class="post-list__series"
+    >
+      <series-title
+        :series-title="post.data.seriesTitle"
+        :number="post.data.number"
+      />
+    </p>
     <h3 class="post-list__title">
       <a :href="post.page.url" class="post-list__title-link">
         <template
@@ -27,14 +31,18 @@
           webc:if="post.data.isSeries"
           @text="post.data.seriesTitle"
         ></template>
-        <post-title webc:else :post="post" />
+        <post-title
+          webc:else
+          :title="post.data.title"
+          :subtitle="post.data.subtitle"
+        />
       </a>
     </h3>
     <p class="post-list__category">
       <template
         webc:nokeep
         webc:if="post.data.isSeries"
-        @text="`${post.data.seriesCategory} • ${post.data.seriesCount} chapters`"
+        @text="`${post.data.seriesCategory} • ${post.data.seriesCount} ${isBook(post) ? 'books' : 'chapters'}`"
       ></template>
       <template webc:nokeep webc:else @text="post.data.category"></template>
     </p>
@@ -42,5 +50,11 @@
       class="post-list__excerpt"
       @text="post.data.isSeries ? post.data.seriesExcerpt : post.data.excerpt ?? createExcerpt(post.content)"
     ></p>
+    <p class="post-list__date">
+      <time
+        :datetime="htmlDateString(post.page.date)"
+        @text="readableDate(post.page.date)"
+      ></time>
+    </p>
   </li>
 </ol>

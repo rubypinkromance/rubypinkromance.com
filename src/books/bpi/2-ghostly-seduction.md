@@ -2,18 +2,10 @@
 title: Ghostly Seduction
 date: 2016-03-11
 tags:
-  - urban fantasy
-  - erotic romance
-  - paranormal
   - interracial
   - ghost
-  - redhead
   - historical
-characters:
-  - Gillian Reid
 excerpt: Special Agent Gillian Reid is pulled into a ghost’s fantasy.
-series: bpi
-seriesTitle: Bureau of Paranormal Investigation
 number: 2
 amazon: https://www.amazon.com/dp/B01CWCC9PC
 feature_image: covers/bpi-02-ghostly-seduction.jpg

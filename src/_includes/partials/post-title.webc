@@ -1,24 +1,2 @@
-<span webc:if="post.data.series" class="post-title__series"
-  ><template
-    webc:if="post.data.seriesTitle"
-    @text="post.data.seriesTitle"
-    webc:nokeep
-  ></template
-  ><template
-    webc:if="post.data.number"
-    @text="` ${post.data.number}`"
-    webc:nokeep
-  ></template
-  >:</span
->
-<template
-  webc:if="post.data.title"
-  @text="post.data.title"
-  webc:nokeep
-></template
-><code webc:else @text="post.page.url"></code
-><template
-  webc:if="post.data.subtitle"
-  @text="`: ${post.data.subtitle}`"
-  webc:nokeep
-></template>
+<template webc:if="title" @text="title" webc:nokeep></template
+><template webc:if="subtitle" @text="`: ${subtitle}`" webc:nokeep></template>

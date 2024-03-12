@@ -2,12 +2,15 @@
 title: Temporary Futa
 subtitle: a futa-on-female erotic romance
 date: 2024-03-10
+category: Science Fiction
 tags:
-  - erotic romance
   - futanari
   - transgender
   - lesbian
   - science fiction
+characters:
+  - Olivia
+  - Trish
 excerpt: “Hey, remember that time I took a Russian pill, turned into a futa, and couldn’t stop touching myself?”
 blurb: An intense story of overwhelming arousal and public stimulation that builds to a well-hung climax.
 amazon: https://www.amazon.com/dp/B0CXQ8QKTC

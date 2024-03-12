@@ -20,8 +20,13 @@ prism: true
   </figure>
 
   <header class="publication__header">
+    <p class="publication__series intro" webc:if="series && number">
+      <a :href="`/shorts/${series}/`">
+        <series-title :series-title="seriesTitle" :number="number" />
+      </a>
+    </p>
     <h1 class="publication__title">
-      <post-title :post="getCollectionItem(collections.shorts)" />
+      <post-title :title="title" :subtitle="subtitle" />
     </h1>
     <p class="publication__excerpt intro">
       <em @text="excerpt ?? createExcerpt(content)"></em>
@@ -56,7 +61,7 @@ prism: true
           class="publication__footer-list-item"
         >
           <a
-            webc:if="$data.collections.shortsByCharacter[character].length > 1"
+            webc:if="$data.collections.pubsByCharacter[character].length > 1"
             :href="`/characters/${slugify(character)}/`"
             @text="character"
           ></a
