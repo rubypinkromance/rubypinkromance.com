@@ -4,7 +4,6 @@ date: 2018-07-20
 tags:
   - science fiction
   - futanari
-  - futa
   - lesbian
   - bisexual
   - fingering

@@ -5,7 +5,7 @@ date: 2017-10-03
 tags:
   - erotic romance
 excerpt: 22 short, smart and saucy stories about women who know what they want.
-blurb: 'My most recent book is a collection of some of my favorite shorts: 22 short, smart and saucy stories about women who know what they want.'
+blurb: 22 short, smart and saucy stories about women who know what they want.
 bundle: true
 amazon: https://www.amazon.com/dp/B07657VW4B
 feature_image: covers/seven-minutes-in-heaven.jpg

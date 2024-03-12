@@ -74,6 +74,11 @@ const filters = {
     return array.filter((item) => item.data[attr] === value);
   },
 
+  // Return the first item in an array based on a single attribute value
+  findItemBySlug: (array, slug) => {
+    return array.find((item) => item.data.page.fileSlug === slug).data;
+  },
+
   // Return the full title of a post, combining series info and subtitle,
   // falling back to the site's title if no post title is available.
   fullTitle: (title, subtitle, seriesTitle, seriesNumber, metadataTitle) => {

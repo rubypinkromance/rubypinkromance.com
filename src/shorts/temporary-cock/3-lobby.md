@@ -4,7 +4,6 @@ date: 2018-07-17
 tags:
   - science fiction
   - futanari
-  - futa
   - blowjob
   - swallow
   - masturbation

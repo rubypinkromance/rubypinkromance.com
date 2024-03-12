@@ -12,7 +12,7 @@
   <div class="book-promo__blurb">
     <slot>
       <p>
-        This short is included in
+        This short is included in the book
         <a :href="book.amazon"
           ><em
             ><template webc:nokeep @text="book.title"></template
@@ -22,7 +22,7 @@
               @text="`: ${book.subtitle}`"
             ></template></em></a
         >.
-        <template webc:nokeep @text="book.excerpt"></template>
+        <template webc:nokeep @text="book.blurb || book.excerpt"></template>
       </p>
     </slot>
     <p class="book-promo__available">

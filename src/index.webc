@@ -21,17 +21,20 @@
 
 <div class="home__book">
   <book-promo :book="collections.booksByRecent[0].data" :media="media">
-    <h2>
+    <h2>Available now!</h2>
+    <p>
+      My newest book is
       <a :href="book.amazon"
-        ><template webc:nokeep @text="book.title"></template
-        ><template
-          webc:nokeep
-          webc:if="book.subtitle"
-          @text="`: ${book.subtitle}`"
-        ></template
-      ></a>
-    </h2>
-    <p @text="book.blurb || book.excerpt"></p>
+        ><em
+          ><template webc:nokeep @text="book.title"></template
+          ><template
+            webc:nokeep
+            webc:if="book.subtitle"
+            @text="`: ${book.subtitle}`"
+          ></template></em></a
+      >.
+      <template webc:nokeep @text="book.blurb || book.excerpt"></template>
+    </p>
   </book-promo>
 </div>
 
