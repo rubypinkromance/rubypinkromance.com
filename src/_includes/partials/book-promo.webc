@@ -12,7 +12,7 @@
   <div class="book-promo__blurb">
     <slot>
       <p>
-        This short is included in the book
+        A revised version of this short is included in the book
         <a :href="book.amazon"
           ><em
             ><template webc:nokeep @text="book.title"></template
