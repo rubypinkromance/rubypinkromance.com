@@ -25,7 +25,11 @@ prism: true
   <header class="publication__header">
     <p class="publication__series" webc:if="series">
       <a :href="`/books/${series}/`">
-        <series-title :series-title="seriesTitle" :number="number" />
+        <series-title
+          :series-title="seriesTitle"
+          :number="number"
+          :bundle="bundle"
+        />
       </a>
     </p>
     <h1 class="publication__title">

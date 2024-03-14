@@ -1,17 +1,23 @@
 <ul @attributes webc:if="previousPost || nextPost">
   <li class="previous">
     <template webc:if="previousPost" webc:nokeep>
-      <span class="label">Previous:</span>
+      <span class="label">Previous in series:</span>
       <a :href="previousPost.page.url">
-        <post-title :post="previousPost" />
+        <post-title
+          :title="previousPost.data.title"
+          :subtitle="previousPost.data.subtitle"
+        />
       </a>
     </template>
   </li>
   <li class="next">
     <template webc:if="nextPost" webc:nokeep>
-      <span class="label">Next:</span>
+      <span class="label">Next in series:</span>
       <a :href="nextPost.page.url">
-        <post-title :post="nextPost" />
+        <post-title
+          :title="nextPost.data.title"
+          :subtitle="nextPost.data.subtitle"
+        />
       </a>
     </template>
   </li>
