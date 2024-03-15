@@ -80,7 +80,7 @@ Dan turned back to Julie and asked, “truth or dare?”
 
 “What age did you lose your virginity?”
 
-“Sixteen, to a guy on the soccer team. Really nice legs, but surprisingly little stamina.” Alice laughed, and Julie asked her, “truth or dare?”
+“Sixteen, to a guy on the soccer team. Really nice legs, but surprisingly little stamina.” Alice laughed, and Julie asked her, “Truth or dare?”
 
 “Truth.”
 
@@ -366,7 +366,7 @@ Alice bit her lip, then smiled and nodded at Dan. He dropped to his knees in fro
 
 Grinning, Julie sat forward as Dan got to his knees in front of her. As he reached behind her, she leaned into him, brushing her lips against his stubble. He slowly unhooked the clasp and ran his fingers up and down her spine, making her shiver. She buried her face in the warmth of his neck as he slipped the straps from her shoulders. Finally, she leaned back, allowing him to pull her bra away from her chest. He stared hungrily at her dark nipples before returning to the loveseat, laying her bra next to Alice’s.
 
-“Alice?” Julie purred, “go suck on Dan’s—” She paused, letting Dan’s anticipation build. “—fingers.”
+“Alice?” Julie purred, “go suck on Dan’s…” She paused, letting Dan’s anticipation build. “…fingers.”
 
 Alice grinned and dropped to her knees in front of Dan. She lifted his hand to her lips. He watched, spellbound, as she began to kiss and lick his first two fingers. When she finally took them into her mouth, he inhaled sharply. Quickly, she began sucking with practiced ease. Julie felt a growing heat in her core as she watched Alice simulate a blowjob. When she finally moved back to the couch, Dan was clearly having difficulty slowing his breathing.
 
@@ -411,6 +411,7 @@ Perhaps inspired by Julie whispering in his ear, Alice said, “why don’t you 
 Eagerly, Julie moved to straddle him, with her hands on his shoulders. He gasped as she lowered herself against his erection. She rolled her hips, grinding her clit along his shaft. She could clearly feel the heat of his cock through the two thin layers of fabric that separated them. Finally, she leaned forward, pressing her chest against his, arms wrapped around his neck. His skin was hot, and she felt an answering heat inside her. She started whispering in his ear, knowing his eyes remained locked on Alice’s pussy.
 
 “So Alice was on her hands and knees, and the guy was behind her, fucking her.” Julie felt his cock throb as she said that. “I was under her, with my head between her thighs. I had the best view of his cock thrusting in and out. She’d already made me cum from eating me out,” (throb) “but now she was distracted by his cock. Fuck, it was hot. I started licking her.” (throb) “Every time he pulled out, I would lick the length of his shaft.” (throb) “When he pushed deeper, I would circle her clit.” (throb) “It didn’t take long before she came. She gushed around his cock, into my mouth.”
+
 Dan was breathing heavily, his hands caressing her thighs, but his eyes still fixed in Alice’s direction. Julie turned around to look and grinned when she saw her roommate still masturbating for Dan.
 
 “Alice, telling this story is getting me so hot, will you suck on my nipple while I grind against Dan?”
@@ -421,15 +422,15 @@ Alice wasted no time moving to sit next to Dan and wrap her lips around Julie’
 
 Alice purred happily, her tongue dancing around Julie’s nipple.
 
-“I told him how hot it was to watch, to see you cum, and see his — ah! — see his cock swelling inside you.”
+“I told him how hot it was to watch, to see you cum, and see his—ah!—see his cock swelling inside you.”
 
 Dan was gripping her hips, biting his lip as Julie rubbed against him, and he watched Alice suck on her breast. He looked up at Julie eagerly, and she nodded, pulling his face to her other breast.
 
-“Yeah, you can suck on my other — oh! — nipple. Oh fuck, yeah, keep doing that.”
+“Yeah, you can suck on my other—oh!—nipple. Oh fuck, yeah, keep doing that.”
 
 Julie’s grinding was becoming more insistent. She had one hand wrapped around the back of each of their heads. Dan’s cock was unyielding against her, and her clit seemed to crackle with electricity as she dragged it along the length of his shaft. Their tongues swirled around her nipples as she struggled to keep talking.
 
-“Alice, it was so fucking sexy to see your pussy lips wrapped around his cock. When he said he was about to cum — ooh! — I pulled him out of you and into my mouth — ah! — he was covered in your cream, and it tasted so good — fuck! — he was so ready and he thrust forward — uh! — into my throat and suddenly he was — aaaah! — cumming! Cumming!”
+“Alice, it was so fucking sexy to see your pussy lips wrapped around his cock. When he said he was about to cum — ooh!—I pulled him out of you and into my mouth—ah!—he was covered in your cream, and it tasted so good—fuck!—he was so ready and he thrust forward—uh!—into my throat and suddenly he was—aaaah!—cumming! Cumming!”
 
 As if to punctuate the story, Julie’s first orgasm rolled down her spine. She tightened her grip on their hair, pulling them harder against her breasts. Her pussy was clenching, yearning to be filled. Every flick of a tongue against her nipples sent sparks flowing down to her clit.
 

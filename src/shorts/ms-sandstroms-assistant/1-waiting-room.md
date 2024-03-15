@@ -101,7 +101,7 @@ She let out a pleased sound as another spurt of precum hit her tongue, and looke
 
 “Liz, can you send Mike in now?”
 
-Immediately, the secretary — Liz, I now knew — jumped up and ran back to her desk. She wiped her mouth before hitting the button and saying “I’ll send him right in!”
+Immediately, the secretary—Liz, I now knew—jumped up and ran back to her desk. She wiped her mouth before hitting the button and saying “I’ll send him right in!”
 
 I felt wrecked. I was slouched low in a chair with my pants around my ankles. My cock was glistening with her saliva, twitching and desperate for release.
 

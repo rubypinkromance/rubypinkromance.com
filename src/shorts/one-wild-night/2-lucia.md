@@ -126,7 +126,7 @@ Lucia moved to straddle Kara’s head. “Look at me, Kara,” she purred. She c
 
 “When did you start touching yourself? Did you wait until he got behind me?” Kara shook her head again and traced tight little circles around her clit. “Ooooh, that feels good. Was it when I was sucking his cock?” Nodding. “Yeah, he’s got a really nice _cock_.” Every time she said it, Kara’s pussy clenched. “Sucking his _cock_ always gets me wet.” She hooked her fingers, feeling for Kara’s g-spot, and savored the way the brunette spread her thighs, begging for more.
 
-“Do you want to see it?” Lucia felt Kara’s cunt clench around her fingers. “Heh, I’ll take that as a yes.” She looked behind her and saw Carlos sitting on the edge of her bed, lazily stoking himself as he watched the two of them.
+“Do you want to see it?” Lucia felt Kara’s cunt clench around her fingers. “Heh, I’ll take that as a yes.” She looked behind her and saw Carlos sitting on the edge of her bed, lazily stroking himself as he watched the two of them.
 
 “Come over here, babe, she wants to see you up close.” Dutifully, Carlos walked closer, standing directly behind her. She couldn’t see, but she knew Kara must be distracted by the sight. Her tongue slowed, and her pussy began squeezing excitedly around Lucia’s fingers. Fuck, she must be right on the edge, Lucia realized.
 

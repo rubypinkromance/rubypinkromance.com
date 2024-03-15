@@ -19,7 +19,7 @@ feature_image: 'covers/rainy-day-at-the-shop.jpg'
 social_image: 'social/rainy-day-at-the-shop-social.jpg'
 ---
 
-It was a slow day at the shop. Rain lashed against the front windows. Alice sighed and stretched. She and Liam had already done all the folding, facing, sweeping, and other make-work jobs in the vintage clothing store. No customers were coming in at 2pm in this kind of weather. She was bored, and the chill music that the owner insisted they play wasn’t helping.
+It was a slow day at the shop. Rain lashed against the front windows. Alice sighed and stretched. She and Liam had already done all the folding, facing, sweeping, and other make-work jobs in the vintage clothing store. No customers were coming in at two in the afternoon in this kind of weather. She was bored, and the chill music that the owner insisted they play wasn’t helping.
 
 She drummed her fingers on the counter and watched as Liam puttered with the front window display. He was cute, in a generic sort of way. They’d hooked up once at her roommate Julie’s birthday party a few weeks ago. Julie had insisted on inviting Liam because she had a crush on his friend. When the boys arrived at the party, it wasn’t long before the friend and Julie disappeared into her room.
 
@@ -145,7 +145,7 @@ Liam poked his head out from behind the curtain when he heard the door close. He
 
 “Jeez, that was close, huh?” He chuckled and smacked her ass as he walked past her toward the bathroom.
 
-“Oh no you don’t!” She protested, grabbing his arm and spinning him around. “I get to clean up first, you left me literally _dripping_.”
+“Oh no, you don’t!” She protested, grabbing his arm and spinning him around. “I get to clean up first, you left me literally _dripping_.”
 
 “Well, what am I supposed to do?” He groused, half-jokingly. “You creamed all over me!”
 

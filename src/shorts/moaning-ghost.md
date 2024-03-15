@@ -18,7 +18,7 @@ bundled_in:
   - seven-minutes-in-heaven
 ---
 
-I awoke with a start when I realized I wasn’t alone. The ghost was across the room from me, laying on the bed. I don’t know what surprised me most — that I had finally seen a ghost after so many months of searching, or that it appeared to be masturbating.
+I awoke with a start when I realized I wasn’t alone. The ghost was across the room from me, laying on the bed. I don’t know what surprised me most—that I had finally seen a ghost after so many months of searching, or that it appeared to be masturbating.
 
 It was nearly 3AM on the last night our group had permission to investigate the haunting at this old hotel. There were twenty volunteers stationed around the building monitoring temperatures, checking EM fields, and attempting contact. After staying awake the previous two nights, the exhaustion was catching up with me. I was alone in a room on the third floor where a previous investigator had recorded a temperature anomaly. Exhausted, I sat in a chair and tried the usual appeals. I spoke aloud to the room, asking any entities to make themselves known. I guess after awhile I had fallen asleep.
 

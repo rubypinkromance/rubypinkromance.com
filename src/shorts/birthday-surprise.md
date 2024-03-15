@@ -35,7 +35,7 @@ I couldn’t have been more surprised when Heather said “What do you think, is
 
 Ash winked at me and began undoing my belt buckle. I watched as she unbuttoned my fly, and slid my jeans and boxers down. Then she wrapped her warm hand around my cock and began squeezing and rubbing. Heather nuzzled my neck and breathed in my ear as Ash leaned closer and started stroking me with both hands.
 
-I didn’t know what to do with my hands — was I allowed to touch her? — So I put my arm up on the back of the couch. Ash lowered her head and kissed the tip, giggling when my cock twitched in response. Then she wrapped her lips tightly around me and began to suck.
+I didn’t know what to do with my hands—was I allowed to touch her?—So I put my arm up on the back of the couch. Ash lowered her head and kissed the tip, giggling when my cock twitched in response. Then she wrapped her lips tightly around me and began to suck.
 
 I groaned, watching her head bob up and down in my lap. Heather smiled approvingly and bit her lip at the sight. I felt my cock get even harder in the heat of Ash’s mouth. She pulled me deeper, squeezing the base of my shaft even as the head of my cock pressed against the back of her throat. My legs tensed, and involuntarily I pushed my cock deeper, eager for more.
 

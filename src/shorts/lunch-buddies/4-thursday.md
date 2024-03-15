@@ -22,9 +22,9 @@ Ash had been up late with a confusing mix of thoughts. On the one hand, there wa
 
 On the other hand, her body was still crackling with desire whenever she thought about him. The way he watched her. The way he touched himself for her. The way his thighs tensed up when he was getting close to an orgasm. The way his cock felt in her mouth. The way her pussy clenched when he started cumming.
 
-Even after she fell asleep her dreams had been a confusing mess of maybe-feelings and unbridled lust. Tony was everywhere, touching her, holding her, kissing her, pulling down her underwear. His hands squeezing her breasts, caressing her sides, grabbing her ass, and spreading her thighs. His mouth moving down her body, sucking on her nipples, licking her hips, lower and lower. She opened her lips for his cock, but it remained frustratingly out of reach.
+Even after she fell asleep, her dreams had been a confusing mess of maybe-feelings and unbridled lust. Tony was everywhere, touching her, holding her, kissing her, pulling down her underwear. His hands squeezing her breasts, caressing her sides, grabbing her ass, and spreading her thighs. His mouth moving down her body, sucking on her nipples, licking her hips, lower and lower. She opened her lips for his cock, but it remained frustratingly out of reach.
 
-She’d woken up tangled in her shirt from tossing and turning, with a wet spot on her panties. She still wasn’t sure if the kiss meant anything, but she knew what she wanted for today at least. Going down on him had been both unplanned and surprisingly hot. She wanted him to return the favor.
+She’d woken up tangled in her shirt from tossing and turning, with a wet spot on her panties. She still wasn’t sure if the kiss meant anything, but she knew what she wanted for today, at least. Going down on him had been both unplanned and surprisingly hot. She wanted him to return the favor.
 
 Before even getting out of bed, she texted him.
 
@@ -36,9 +36,9 @@ He responded immediately with a thumbs-up. She grinned and pulled her covers hig
 
 “Hey, Ash.” He knocked on her door frame, grinning as she jumped up from her desk, pulled him into her office, and shut the door firmly behind her.
 
-She was ready for him. She’d chosen a flirty sundress that wasn’t quite appropriate for the office but was passable with the cardigan that was currently draped over the back of her chair. Below the low neckline she wore the demi bra that she normally hated because her boobs had a tendency to fall out of the cups, but today that was an advantage. The skirt was flirty and twirly and would be easy to pull up so he could remove her thong.
+She was ready for him. She’d chosen a flirty sundress that wasn’t quite appropriate for the office but was passable with the cardigan that was currently draped over the back of her chair. Below the low neckline, she wore the demi bra that she normally hated because her boobs had a tendency to fall out of the cups, but today that was an advantage. The skirt was flirty and twirly and would be easy to pull up so he could remove her thong.
 
-She leaned against the door and bit her lip as he dropped his bag. It might have been her imagination but his erection seemed more noticeable than yesterday. She dragged a finger along her neckline, teasing him with a peek of lace as she sauntered towards him.
+She leaned against the door and bit her lip as he dropped his bag. It might have been her imagination, but his erection seemed more noticeable than yesterday. She dragged a finger along her neckline, teasing him with a peek of lace as she sauntered towards him.
 
 “So, it’s your turn today,” he winked.
 
@@ -82,7 +82,7 @@ She bit her lip and nodded.
 
 “Go put your hands on your desk.”
 
-He released her hair and she walked to her desk. Slowly, she put her palms on top. She heard him take a few deep breaths, centering himself.
+He released her hair, and she walked to her desk. Slowly, she put her palms on top. She heard him take a few deep breaths, centering himself.
 
 “Now, lift up your dress.”
 
@@ -100,7 +100,7 @@ She did as he asked, and felt him drop to his knees behind her. His hands caress
 
 Just as she was about to demand more, he increased the pressure. His hands gripped her cheeks, pushing them together and spreading them apart. He rubbed his long fingers over her underwear, describing a broad circle around her clit before dragging back up, sending sparks up her spine as his fingertips teased against her opening.
 
-He touched her gently but firmly, increasing the pressure until she purred. His fingers explored everywhere, rubbing and caressing. She could tell by the way the fabric clung to her lips that she was getting wet. She knew he could feel it too, by his increasing focus on her cleft. Her breath was coming quicker now, and she gripped the fabric of her dress tightly.
+He touched her gently but firmly, increasing the pressure until she purred. His fingers explored everywhere, rubbing and caressing. She could tell by the way the fabric clung to her lips that she was getting wet. She knew he could feel it, too, by his increasing focus on her cleft. Her breath was coming quicker now, and she gripped the fabric of her dress tightly.
 
 Finally, he roughly pulled her thong down, leaving her exposed. He helped her step out of her underwear and threw it carelessly toward the couch. Then he grabbed her with two hands, thumbs on her lips, and spread her open. She gasped as she felt his hot breath against her wet skin. He seemed to be savoring the sight.
 
@@ -108,7 +108,7 @@ He made her wait for what felt like long minutes but was probably only seconds. 
 
 At last, he licked the full length of her. The sensation made her knees buckle for a moment, but he was holding her up. His tongue pushed between her spread lips to her opening and probed deep. He moaned happily as he began to lap up her cream. He licked everywhere, tracing her swollen lips and pulling them into his mouth. She arched her back to give him better access, encouraging him to move toward her clit.
 
-“Oh my god,” she purred.
+“Oh, my god,” she purred.
 
 He took the hint and focused on her most sensitive spot, teasing around her bud, and closing his lips around her. She grunted as he slipped a finger inside. She pushed her keyboard and other desk stuff away so she could drop from her elbows, laying her chest directly on the desktop. The wood was cool against her exposed breasts. She gripped the edge with one hand and brought the other to cover her mouth, not trusting herself to keep quiet.
 
@@ -116,7 +116,7 @@ Tony’s head pressed firmly forward, licking and sucking and rubbing. The room 
 
 “Ah fuck, Tony,” she gasped.
 
-He moaned in reply, which sent vibrations through her. She bucked as his tongue flicked insistently on her clit. The movement caused his finger, already slick with her wetness, to slip into her ass. She barely managed not to squeal loudly. It felt good but the stimulation was getting intense.
+He moaned in reply, which sent vibrations through her. She bucked as his tongue flicked insistently on her clit. The movement caused his finger, already slick with her wetness, to slip into her ass. She barely managed not to squeal loudly. It felt good, but the stimulation was getting intense.
 
 Wanting something to suck on, she put her own fingers into her mouth. His tongue swirled urgently around her clit, licking up her dripping arousal. She squirmed, tensing her thighs and moving her knees.
 
@@ -134,9 +134,9 @@ So, it took a moment for her to realize what she was hearing. Tony was standing 
 
 Still aroused, she rolled over on her back so she could see. He stepped forward, between her spread legs, the tip of his cock nearly touching her lips. Her juices were dripping from his chin, and there was an intense look in his eyes. She knew he was ready to cum. Knew that getting her off had left him right on the edge.
 
-They stared at each other as the moment stretched. His cock was right there, slick with her cream and his precum. Her cunt was thrumming and eager. He could enter her in a heartbeat. She knew he would thrust inside and immediately climax. One stroke into her velvety heat and he’d fill her with cum. She gasped at the intensity of the image.
+They stared at each other as the moment stretched. His cock was right there, slick with her cream and his precum. Her cunt was thrumming and eager. He could enter her in a heartbeat. She knew he would thrust inside and immediately climax. One stroke into her velvety heat, and he’d fill her with cum. She gasped at the intensity of the image.
 
-He must have been thinking the same thing. He moved his hips forward just enough to rub against her clit. She jumped and he groaned. He retreated, still stroking his cock, then did it again. As he pulled back, a squirt of precum fell on her skin like a promise.
+He must have been thinking the same thing. He moved his hips forward just enough to rub against her clit. She jumped, and he groaned. He retreated, still stroking his cock, then did it again. As he pulled back, a squirt of precum fell on her skin like a promise.
 
 Fuck. She wanted this. It wasn’t what she’d planned for today, but now she wanted to take him. To see the look on his face as he entered her. To feel his cock twitching and pumping deep in her pussy.
 

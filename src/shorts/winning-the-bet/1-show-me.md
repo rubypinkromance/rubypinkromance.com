@@ -28,7 +28,7 @@ bundled_in:
 
 She raised an eyebrow at that and walked into her bedroom. I mentally kicked myself for coming on too strong. At the bar, we’d been flirting heavily, and she’d laughed when she agreed to my terms for the bet. Now that we were in her apartment, though, the mood had shifted. I was afraid she’d change her mind and decide I was a creep.
 
-As I thought that, she walked back out of her room. The fitted white polo shirt was gone, as were her jeans. She was skinnier than I’d thought, with good-sized breasts. Her white cotton panties rode low on her narrow hips. She leaned against the wall with her arms folded beneath her bra — also white, with a simple floral texture. She seemed amused and uncertain what to do next.
+As I thought that, she walked back out of her room. The fitted white polo shirt was gone, as were her jeans. She was skinnier than I’d thought, with good-sized breasts. Her white cotton panties rode low on her narrow hips. She leaned against the wall with her arms folded beneath her bra—also white, with a simple floral texture. She seemed amused and uncertain what to do next.
 
 “Come on, don’t just stand over there, you said you’d model them for me. You’ve gotta at least walk over here and turn around so I can get a look at you,” I said.
 

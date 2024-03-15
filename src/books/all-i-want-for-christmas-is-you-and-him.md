@@ -17,9 +17,9 @@ feature_image: covers/all-i-want-for-christmas-is-you-and-him.jpg
 social_image: social/christmas-social.jpg
 ---
 
-A few months ago, Izzy and Paul had a huge fight — maybe the biggest of their young marriage — when she admitted she’d been flirting with Joe, the broad-shouldered grocery clerk. Her home life was in a rut, and she had blossomed under his attention. Making the decision to turn away from Joe had been difficult, but she was determined to repair her marriage.
+A few months ago, Izzy and Paul had a huge fight—maybe the biggest of their young marriage—when she admitted she’d been flirting with Joe, the broad-shouldered grocery clerk. Her home life was in a rut, and she had blossomed under his attention. Making the decision to turn away from Joe had been difficult, but she was determined to repair her marriage.
 
-Now Paul was trying hard to be more spontaneous, and it was helping, but something was still missing. Izzy had an idea how to reignite the heat between them, but it was a big step outside their comfort zone. Joe had mentioned once that he’d joined married couples in the bedroom before. She just needed to ask Paul for a Christmas present — something with broad shoulders…
+Now Paul was trying hard to be more spontaneous, and it was helping, but something was still missing. Izzy had an idea how to reignite the heat between them, but it was a big step outside their comfort zone. Joe had mentioned once that he’d joined married couples in the bedroom before. She just needed to ask Paul for a Christmas present—something with broad shoulders…
 
 _This stand-alone novella perfectly captures the intensity of a young marriage, and a couple’s attempt to break out of a rut to rekindle their relationship._
 

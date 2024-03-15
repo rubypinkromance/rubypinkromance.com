@@ -17,7 +17,7 @@ excerpt: Ash finally rides Tony like a cowgirl.
 number: 5
 ---
 
-The morning seemed to drag on forever. Meeting after meeting after meeting. Ash kept checking the clock, astonished at how slowly time was passing. She was restless and distracted and all she could think about was how long she had to wait until lunch.
+The morning seemed to drag on forever. Meeting after meeting after meeting. Ash kept checking the clock, astonished at how slowly time was passing. She was restless and distracted, and all she could think about was how long she had to wait until lunch.
 
 Finally, shortly before noon, Tony texted: “On my way!”
 
@@ -25,7 +25,7 @@ She responded with a biting lip emoji and went back to pretending to listen as t
 
 One minute left. He showed no sign of wrapping up. She made eye contact and looked pointedly toward the clock on the wall. He nodded and gestured for her to wait a moment. She glared at him.
 
-A few minutes past noon another employee knocked on the glass conference room door and gestured at his watch. The engineering manager laughed and said “I guess someone else has the room booked. I’ll write up the rest of my thoughts and email everyone.” Ash was already walking out the door.
+A few minutes past noon, another employee knocked on the glass conference room door and gestured at his watch. The engineering manager laughed and said, “I guess someone else has the room booked. I’ll write up the rest of my thoughts and email everyone.” Ash was already walking out the door.
 
 She found Tony waiting by her office, awkwardly holding his bag in front of him. He smiled as she came bustling up. Her assistant caught her eye, glanced at Tony, and winked as she picked up her bag to go to lunch. Ash tried not to blush as she pushed him inside, closing the door behind her.
 
@@ -39,7 +39,7 @@ She found Tony waiting by her office, awkwardly holding his bag in front of him.
 
 “All me?”
 
-“Ash, I can’t stop thinking about you. After yesterday, it was a struggle to get through the rest of the work day. When I got back to my hotel room, I had to go rub one out immediately. I came so hard that I got light-headed. And then again when I woke up at 3 AM from a dream about you.”
+“Ash, I can’t stop thinking about you. After yesterday, it was a struggle to get through the rest of the work day. When I got back to my hotel room, I had to go rub one out immediately. I came so hard that I got light-headed. And then again, when I woke up at three AM from a dream about you.”
 
 “That’s funny,” she smiled.
 
@@ -51,7 +51,7 @@ She bit her lip and helped him, anticipating his reaction. He groaned appreciati
 
 Pushing away from the wall, they staggered toward the couch. She kissed him awkwardly, walking and unbuckling his belt at the same time. When his calves bumped into the couch, she was already unbuttoning his jeans. He did an eager little shimmy to help her tug them down his legs, leaving them bunched around his ankles. His cock sprang free, almost slapping her in the face, and she laughed as she pushed him down and dropped to her knees.
 
-He stifled a loud groan as she wrapped her lips around him. She eagerly reached one hand up under his shirt, touching his chest, the other wrapped around the base of his shaft. She licked and sucked, tracing around the rim of his head. He worked his fingers into her hair, and lifted his hips, whispering her name. She fell into an easy rhythm, her hand and mouth moving in tandem along the length of his shaft, pumping him into her mouth. A squirt of precum coated her tongue and she moaned happily.
+He stifled a loud groan as she wrapped her lips around him. She eagerly reached one hand up under his shirt, touching his chest, the other wrapped around the base of his shaft. She licked and sucked, tracing around the rim of his head. He worked his fingers into her hair, and lifted his hips, whispering her name. She fell into an easy rhythm, her hand and mouth moving in tandem along the length of his shaft, pumping him into her mouth. A squirt of precum coated her tongue, and she moaned happily.
 
 “Yes, Ash… Oh fuck, I love that.”
 
@@ -75,7 +75,7 @@ He nodded emphatically, and she moved toward him, swaying her hips seductively. 
 
 “That’s fucking hot,” he groaned as she rocked against him, sliding up and down the length of his shaft.
 
-“My nipples,” she reminded him, pulling his head to her chest. He enthusiastically started licking and sucking as she continued to roll her hips. His cock was firm and unyielding under her skirt. Her lips parted around him and she felt her slick juices coating him. She adjusted her angle to put more pressure on her clit.
+“My nipples,” she reminded him, pulling his head to her chest. He enthusiastically started licking and sucking as she continued to roll her hips. His cock was firm and unyielding under her skirt. Her lips parted around him, and she felt her slick juices coating him. She adjusted her angle to put more pressure on her clit.
 
 “Mmm! Mmm-hmmm…” He seemed to be enjoying himself. She gripped his shoulders harder, digging her fingernails in as she rocked faster. His tongue lashed against her breast, and his cock swelled urgently between her lips. He tried to shift lower, wanting more, wanting to be inside her. She moved with him, still slipping along the lower half of his shaft, not letting his tip near her opening yet.
 
@@ -129,7 +129,7 @@ He came for a long time, it seemed. She slowed down as he relaxed, and stopped m
 
 **Three Months Later…**
 
-Ash smiled as she stretched in bed. She’d had some very enjoyable dreams. Still pleasantly groggy, she reached for her phone. She wasn’t surprised to see a text from Tony. They’d been talking every day since his visit. He was a few time zones ahead of her so she often had messages waiting from him when she woke up.
+Ash smiled as she stretched in bed. She’d had some very enjoyable dreams. Still pleasantly groggy, she reached for her phone. She wasn’t surprised to see a text from Tony. They’d been talking every day since his visit. He was a few time zones ahead of her, so she often had messages waiting from him when she woke up.
 
 At first, it had been mostly sexual. She had an impressive collection of his dick pics, which she’d been surprised to find she didn’t hate when they weren’t unsolicited. She’d sent him some sexy pics as well, which he was always appreciative of. And then it wasn’t long until they were masturbating together on video calls.
 

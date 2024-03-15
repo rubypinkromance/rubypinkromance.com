@@ -54,7 +54,7 @@ She sighed. “It was great to see me?”
 
 He nodded.
 
-“The part you’re leaving out, or maybe forgetting, is that _you_ were into it too. Like, I knew what was going to happen every time I invited you up. You weren’t pushy about it. You weren’t a dick. I knew I could draw a line and you’d respect it. You were eager. You were _enthusiastic_ about anything we did. That’s what excited me.”
+“The part you’re leaving out, or maybe forgetting, is that _you_ were into it too. Like, I knew what was going to happen every time I invited you up. You weren’t pushy about it. You weren’t a dick. I knew I could draw a line, and you’d respect it. You were eager. You were _enthusiastic_ about anything we did. That’s what excited me.”
 
 “That makes sense,” he agreed.
 
@@ -84,7 +84,7 @@ He nodded.
 
 “Why don’t you start by telling me why you really texted me.”
 
-“Alright, I can do that. There’s this girl at the office. Cute. Red hair. After a meeting, she was picking up some papers that fell on the ground and I could see down her top. She was wearing a red bra.”
+“Alright, I can do that. There’s this girl at the office—cute, red hair. After a meeting, she was picking up some papers that fell on the ground and I could see down her top. She was wearing a red bra.”
 
 “That’s all it took?”
 
@@ -132,21 +132,21 @@ Slowly, she spread her legs for him. She teased her skirt a bit higher, enough t
 
 She couldn’t deny the excitement she felt as she knelt next to him on the couch. She reached out, sliding one hand behind his shoulder, along the back of the couch. He kept touching himself as she leaned in, putting her breasts right next to his face.
 
-“Go ahead,” she said, and gasped as he wrapped his lips around her nipple. He moaned happily, pulling more of her into the heat of his mouth, tracing his tongue in circles. The sensation seemed to shiver through her body, dancing down her spine.
+“Go ahead,” she said and gasped as he wrapped his lips around her nipple. He moaned happily, pulling more of her into the heat of his mouth, tracing his tongue in circles. The sensation seemed to shiver through her body, dancing down her spine.
 
 “Oh, that’s good,” she exhaled as he flicked his tongue. She squirmed, squeezing her thighs together, watching as he continued to masturbate. Clearly, he was enjoying this. She saw a drop of precum glisten for a moment before he rubbed it into his skin. She bit her lip as she imagined licking it up.
 
-He released her nipple with a wet pop and she shifted closer so he could suck on the other one. Now more of her body was pressed against him, and she could feel his arm moving against her stomach. She wanted to feel more. Without quite realizing she was doing it, she swung her leg over his and straddled his thigh. With her body pressed against him like this, he couldn’t move his hand as much, but she didn’t mind slowing him down for a moment.
+He released her nipple with a wet pop, and she shifted closer so he could suck on the other one. Now, more of her body was pressed against him, and she could feel his arm moving against her stomach. She wanted to feel more. Without quite realizing she was doing it, she swung her leg over his and straddled his thigh. With her body pressed against him like this, he couldn’t move his hand as much, but she didn’t mind slowing him down for a moment.
 
-Sensing what she needed, he shifted his leg, lifting it a bit to press more firmly against her, while still licking and sucking. He squirmed, trying to adjust so he could move his hand more freely. She moaned and rolled her hips, rubbing against his thigh.
+Sensing what she needed, he shifted his leg, lifting it a bit to press more firmly against her while still licking and sucking. He squirmed, trying to adjust so he could move his hand more freely. She moaned and rolled her hips, rubbing against his thigh.
 
 “You feel so good between my legs,” she murmured. “Keep going, keep going.” There seemed to be lightning arcing between her nipple in his mouth and the pressure against her clit. She buried her face in his hair and leaned harder against him, straddling his thigh, grinding, his arm straining between them, her tits out, nipples hard, pressure building…
 
 “Fuck!” He grunted around her nipple. “Ash, please, I’m close, let me finish…”
 
-With some reluctance, she rolled off his thigh and lay back on the couch next to him. She held her breasts, firm pressure covering her sensitive nipples. His hand was flying frantically on his cock. She squeezed her thighs together, wanting more, but fighting the urge to climb back on top of him, because she wanted to watch him finish.
+With some reluctance, she rolled off his thigh and lay back on the couch next to him. She held her breasts, firm pressure covering her sensitive nipples. His hand was flying frantically on his cock. She squeezed her thighs together, wanting more, but fighting the urge to climb back on top of him because she wanted to watch him finish.
 
-“Oh fuck that was so hot, you’re so sexy when you ride me like that, and let me suck on your tits while you grind on me…” He was babbling and his head was swelling, large and purple, and smeared with precum. She bit her lip and stared, eager to see thick globs of hot, creamy cum coating his fingers.
+“Oh, fuck that was so hot, you’re so sexy when you ride me like that and let me suck on your tits while you grind on me…” He was babbling, and his head was swelling, large and purple, and smeared with precum. She bit her lip and stared, eager to see thick globs of hot, creamy cum coating his fingers.
 
 Suddenly he was groping for the tissue box. “Ash! I’m gonna cum.”
 
@@ -156,13 +156,13 @@ Suddenly he was groping for the tissue box. “Ash! I’m gonna cum.”
 
 “Cum on my tits!”
 
-Clumsily, he got onto his knees, still stroking, and thrust his hips forward just in time for the first shot to arc up onto her neck and collarbone. She gasped at the sensation of hot cum on her skin. Then he groaned, and pointed his cock towards her tits, each spurt falling across her chest, until he was rubbing the tip against her breast, milking the last drops directly onto her nipple.
+Clumsily, he got onto his knees, still stroking, and thrust his hips forward just in time for the first shot to arc up onto her neck and collarbone. She gasped at the sensation of hot cum on her skin. Then he groaned and pointed his cock towards her tits, each spurt falling across her chest, until he was rubbing the tip against her breast, milking the last drops directly onto her nipple.
 
 “Fuck, that was hot,” she purred as he collapsed onto his back next to her. He was still breathing too heavily to answer, but he nodded emphatically.
 
 Idly, she traced a fingertip through the sticky fluid already cooling on her chest. The heat in her core was beginning to fade, but she knew the embers of her arousal would continue smoldering. It would be a long afternoon of meetings until she could finally go home, get in bed, and replay the image of him about to cum all over her again and again.
 
-“Hey Ash,” he murmured.
+“Hey, Ash,” he murmured.
 
 “Hmmm?”
 

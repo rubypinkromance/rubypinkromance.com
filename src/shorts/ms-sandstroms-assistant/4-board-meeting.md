@@ -87,7 +87,7 @@ Cheryl moved forward to straddle me. I reclined and slid lower to make the angle
 
 She closed her eyes and settled into a slow and steady rhythm. Her inner walls felt velvety around me, her heat seeming to radiate through my body. She was muttering under her breath, but I couldn’t make out the words. I gripped the seat of the chair tightly, and my cock swelled inside her.
 
-I was swimming in the sensation of fucking Cheryl — the smell of her arousal, the heat of her body, the taste of her pussy still on my tongue. I stared at the way her lips wrapped around me, slipping up and down my shaft. I felt overwhelmed and knew my orgasm was approaching.
+I was swimming in the sensation of fucking Cheryl. The smell of her arousal, the heat of her body, the taste of her pussy still on my tongue. I stared at the way her lips wrapped around me, slipping up and down my shaft. I felt overwhelmed and knew my orgasm was approaching.
 
 “Oh fuck,” she blurted, as if she’d sensed my thoughts. “I’m gonna cum.”
 

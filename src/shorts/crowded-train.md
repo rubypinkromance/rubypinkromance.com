@@ -21,7 +21,7 @@ Without moving at all, we were fucking each other. Her cunt was rhythmically squ
 
 I had to bite my lip to keep from moaning, so I didn’t draw the attention of the other passengers. We were fully clothed, and she was sitting on my lap, facing away from me, pretending to look at her phone. Her skirt was spread over my legs, which kept us from being too obvious, but I was still nervous.
 
-Every seat on the express train was full. The aisles were packed elbow-to-elbow with a mix of fans heading to the game and commuters heading home after work. We were in the single seat at the back of the train car — the one mounted sideways between the last row of seats and the rear wall. Everyone standing in front of us was either talking or looking at their phones. No one seemed to notice what we were doing.
+Every seat on the express train was full. The aisles were packed elbow-to-elbow with a mix of fans heading to the game and commuters heading home after work. We were in the single seat at the back of the train car—the one mounted sideways between the last row of seats and the rear wall. Everyone standing in front of us was either talking or looking at their phones. No one seemed to notice what we were doing.
 
 I had definitely noticed when she got on the train, though. I always did. She and I rode the same train home, and I watched for her. She liked to wear short skirts and heels, and her strut was so exaggerated it was almost comical. I expected kettle drums to start playing like in cartoons. _boom-ba-boom-ba-boom_.
 

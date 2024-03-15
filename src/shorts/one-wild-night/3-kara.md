@@ -17,8 +17,7 @@ excerpt: Kara finds Ian wanking and explores her new confidence.
 number: 3
 ---
 
-Kara stepped into the hall and shut the bedroom door behind her. For a moment, she paused, feeling giddy. Then she realized she was holding her shorts, not wearing them. She hustled to the bathroom before anyone came along and she ha
-d to answer awkward questions like, “Why are your underwear soaking wet,” or, “Is that cum on your face?”
+Kara stepped into the hall and shut the bedroom door behind her. For a moment, she paused, feeling giddy. Then she realized she was holding her shorts, not wearing them. She hustled to the bathroom before anyone came along and she had to answer awkward questions like, “Why are your underwear soaking wet,” or, “Is that cum on your face?”
 
 As the door swung shut behind her, she walked to the counter and tried to catch her breath. Wow! She’d never done _anything_ like that before. One minute she was secretly touching herself as Lucia and Carlos fucked, and then…
 

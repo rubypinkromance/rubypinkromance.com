@@ -42,7 +42,7 @@ The girls were making little gasps of pleasure. From my angle, I could only see 
 
 I was starting to feel a bit left out, standing there naked with my cock in my hand as they squirmed and moaned. Before I could make up my mind what to do, Julie dropped her head, letting it hang over the foot of the bed. She opened her eyes and looked at me upside-down, all the while panting with pleasure from whatever Alice was doing.
 
-Then, without saying a word, she reached up one hand and spread her friend’s pussy for me. Alice’s lips were puffy and coated with the same creamy wetness I could see on Julie’s cheeks. As I watched, her bright pink opening contracted and then relaxed, as if inviting me in. Julie gasped excitedly when I stepped forward — whether from some trick of Alice’s tongue or excitement at what she was about to see, I don’t know.
+Then, without saying a word, she reached up one hand and spread her friend’s pussy for me. Alice’s lips were puffy and coated with the same creamy wetness I could see on Julie’s cheeks. As I watched, her bright pink opening contracted and then relaxed, as if inviting me in. Julie gasped excitedly when I stepped forward—whether from some trick of Alice’s tongue or excitement at what she was about to see, I don’t know.
 
 I stood at the edge of the bed, gripping my cock. Alice’s round ass was before me, her roommate’s face peeking out below it. Julie was biting her lip and offering me her friend’s pussy to fuck. Instead, I pointed my cock down and brushed it along Julie’s lips. She gasped in surprise, then opened her mouth and took me in. Her tongue swirled around my head, eagerly tasting my pre-cum. After a moment, I pulled my cock out with a loud slurp and positioned it at the entrance to Alice’s pussy.
 

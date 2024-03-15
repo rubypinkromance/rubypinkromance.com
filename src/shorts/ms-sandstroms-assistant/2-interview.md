@@ -18,7 +18,7 @@ excerpt: Cheryl asks Mike some unusual interview questions.
 number: 2
 ---
 
-I held my hands in front of me as I walked, trying to conceal the erection that was rather obviously tenting the front of my slacks. My heart was still pounding as I tried to slow my breathing and stop thinking about the interrupted blowjob from the secretary — Liz, I reminded myself. Don’t forget her name! Despite my arousal, I needed to get my head straight and nail this interview.
+I held my hands in front of me as I walked, trying to conceal the erection that was rather obviously tenting the front of my slacks. My heart was still pounding as I tried to slow my breathing and stop thinking about the interrupted blowjob from the secretary—Liz, I reminded myself. Don’t forget her name!—Despite my arousal, I needed to get my head straight and nail this interview.
 
 I followed Liz into the most attractive office I’d ever seen in my life. Whatever I had imagined a sex toy company CEO’s office would look like, Cheryl Sandstrom’s defied expectations. The wall behind her desk was floor-to-ceiling glass with a fantastic view of downtown. She’d had the left-hand wall entirely covered with shelves. Nestled among the books were some of the company’s most popular products, displayed like works of art. The carpet on the floor was so soft-looking that I wanted to take my shoes off and scrunch my toes into it.
 
@@ -150,7 +150,7 @@ My hesitation drained away. I needed this job. I nodded, and she returned to her
 
 “Liz,” I said, glancing back towards her on the couch. She winked at me. “Is she not?” I looked back at Cheryl and felt the heat rising in my face as I realized my assumption was wrong.
 
-“Elizabeth — who might be better known to you as Ms. Holman — is my Executive Vice President. She’s not my secretary.”
+“Elizabeth, who might be better known to you as Ms. Holman, is my Executive Vice President. She’s not my secretary.”
 
 Elizabeth Holman! I knew that name. She’d been on the 30 under 30 lists before the company she founded failed dramatically. She’d dropped out of the public eye after that. Apparently, she’d convinced Cheryl Sandstrom to give her another chance. How had I not recognized her?
 

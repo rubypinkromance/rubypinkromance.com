@@ -180,15 +180,15 @@ Amy grabbed his cock and positioned him against her opening. He dropped onto his
 
 When she said his name, she felt his cock throb inside her, and then he started moving against her.
 
-“Yes! That’s it, I want — Uh! — I want to feel your — Ah! — cock…”
+“Yes! That’s it, I want—Uh!—I want to feel your—Ah!—cock…”
 
 He buried his face against her neck, pulled almost all the way out, and slammed his weight back onto her in a way that caused sparks at the edge of her vision.
 
-“Oh yeah, like that, fuck me like that — Ah! — fuck me hard — Ah! Ah! — harder!”
+“Oh yeah, like that, fuck me like that—Ah!—fuck me hard—Ah! Ah!—harder!”
 
 Every time she spoke, he thrust harder into her.
 
-“Ah! Yeah, Wally, fuck — Oh! God! — Your dick is so hard in my pussy — Ah Ah AH! — fuck me!”
+“Ah! Yeah, Wally, fuck—Oh! God!—Your dick is so hard in my pussy — Ah Ah AH!—fuck me!”
 
 Wally began thrusting away with abandon. He was grunting in her ear. She wrapped her legs around him and clawed at his back.
 
