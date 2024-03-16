@@ -416,6 +416,6 @@ Kara allowed herself to be led out of the room but made a “call me” gesture 
 
 “What?” Liz looked down to see I was already hard again and laughed. “Oh! Well, unfortunately, we just lost our coat check girl. But if you sit here patiently like a good boy, I promise I’ll reward you later.”
 
-“Yes, mistress,” I replied, teasingly, as I sat back down in the chair, my cock twitching eagerly.
+“Yes, mistress,” I replied teasingly as I sat back down in the chair, my cock twitching eagerly.
 
 Liz bit her lip and went back to the counter.
