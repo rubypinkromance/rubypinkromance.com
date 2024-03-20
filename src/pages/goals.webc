@@ -1,0 +1,72 @@
+---
+title: Goals
+permalink: goals/
+---
+
+<script webc:setup>
+  const round = (number) =>
+    number.toLocaleString('en', {
+      roundingIncrement: 100,
+    });
+  const now = new Date();
+  const year = now.getFullYear();
+  const yearStart = new Date(year, 0, 1);
+  const yearEnd = new Date(year + 1, 0, 1);
+  const yearDuration = yearEnd.getTime() - yearStart.getTime();
+  const currentDuration = now.getTime() - yearStart.getTime();
+  const yearPercent = currentDuration / yearDuration;
+  const posts = $data.collections.shortsByYear[year];
+  const goal = 100_000;
+  const expected = goal * yearPercent;
+  const progress = wordCountPosts(posts);
+  const percentage = ((progress / goal) * 100).toFixed();
+  const difference = progress - expected;
+</script>
+
+<header class="page__header">
+  <h1 class="page__title">
+    <template webc:nokeep @text="year"></template> Goals
+  </h1>
+</header>
+
+<div class="goals">
+  <p class="goals__word-count">
+    <strong @text="round(progress)"></strong>
+    words written
+  </p>
+  <p class="goals__schedule">
+    <strong @text="round(Math.abs(difference))"></strong>
+    words
+    <template
+      webc:nokeep
+      @text="difference >= 0 ? 'ahead of' : 'behind'"
+    ></template>
+    schedule
+  </p>
+  <progress class="goals__meter" :value="progress" :max="goal"></progress>
+  <p class="goals__progress">
+    <template webc:nokeep @text="round(progress)"></template> /
+    <template webc:nokeep @text="round(goal)"></template>
+    (<template webc:nokeep @text="percentage"></template>%)
+  </p>
+</div>
+
+<ol class="goals__list">
+  <li webc:for="post of posts" :key="post.url">
+    <a :href="post.url"
+      ><series-title
+        :series-title="post.data.seriesTitle"
+        :number="post.data.number"
+      ></series-title
+      ><template webc:nokeep webc:if="post.data.seriesTitle"> - </template
+      ><post-title
+        :title="post.data.title"
+        :subtitle="post.data.subtitle"
+      ></post-title
+    ></a>
+    <small
+      >(<template webc:nokeep @text="round(wordCount(post.content))"></template>
+      words)</small
+    >
+  </li>
+</ol>

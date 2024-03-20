@@ -42,6 +42,17 @@ const collections = {
     return characters;
   },
 
+  shortsByYear: (collectionApi) => {
+    const posts = collectionApi.getFilteredByTag('shorts').reverse();
+    const years = {};
+    for (let post of posts) {
+      let key = post.page.date.getFullYear();
+      years[key] ??= [];
+      years[key].push(post);
+    }
+    return years;
+  },
+
   shortsBySeries: (collectionApi) => itemsBySeries(collectionApi, 'shorts'),
 
   booksBySeries: (collectionApi) => itemsBySeries(collectionApi, 'books'),

@@ -2,6 +2,7 @@ const { EleventyHtmlBasePlugin } = require('@11ty/eleventy');
 const pluginNavigation = require('@11ty/eleventy-navigation');
 const pluginRss = require('@11ty/eleventy-plugin-rss');
 const pluginWebc = require('@11ty/eleventy-plugin-webc');
+const { wordCount } = require('eleventy-plugin-wordcount');
 
 const pluginImages = require('./_11ty/images.js');
 const collections = require('./_11ty/collections.js');
@@ -29,7 +30,7 @@ module.exports = function (eleventyConfig) {
     watch: ['dist/styles/*.css'],
   });
 
-  // Official plugins
+  // Plugins
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
   eleventyConfig.addPlugin(pluginImages);
   eleventyConfig.addPlugin(pluginNavigation);
@@ -40,6 +41,7 @@ module.exports = function (eleventyConfig) {
       'npm:@11ty/eleventy-img/*.webc',
     ],
   });
+  eleventyConfig.addPlugin(wordCount);
 
   // Collections
   for (let name in collections) {

@@ -1,0 +1,52 @@
+.goals {
+  background: var(--color-bg-alt);
+  border-radius: 0.5em;
+  line-height: 1.4;
+  padding: 1em;
+  text-align: center;
+}
+
+.goals__word-count {
+  font-size: larger;
+  margin-top: 0;
+
+  strong {
+    display: block;
+    font-size: 1.5em;
+  }
+}
+
+.goals__schedule {
+  color: var(--color-subtle);
+  font-size: smaller;
+  margin: 0;
+}
+
+.goals__meter {
+  appearance: none;
+  border: none;
+  display: block;
+  height: 0.5em;
+  margin-block: 0.5em;
+  width: 100%;
+
+  &::-webkit-progress-bar {
+    background: var(--color-bg);
+  }
+
+  &::-webkit-progress-value {
+    background: var(--color-primary);
+  }
+}
+
+.goals__progress {
+  color: var(--color-subtle);
+  font-size: smaller;
+  margin: 0;
+}
+
+.goals__list {
+  small {
+    color: var(--color-subtle);
+  }
+}

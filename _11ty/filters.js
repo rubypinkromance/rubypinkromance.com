@@ -1,5 +1,6 @@
 const path = require('path');
 const { DateTime } = require('luxon');
+const { wordCountCallback } = require('eleventy-plugin-wordcount');
 
 const filters = {
   // Filter to parse a string as JSON
@@ -96,6 +97,14 @@ const filters = {
   // Check if a post is a book
   isBook: (post) => {
     return post.data.tags.includes('books');
+  },
+
+  // Get the word count total for an array of posts
+  wordCountPosts: (array) => {
+    return array.reduce(
+      (acc, post) => acc + wordCountCallback(post.content),
+      0,
+    );
   },
 };
 
