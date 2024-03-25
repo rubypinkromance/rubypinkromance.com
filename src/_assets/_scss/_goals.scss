@@ -1,12 +1,13 @@
-.goals {
+writing-progress {
   background: var(--color-bg-alt);
   border-radius: 0.5em;
+  display: block;
   line-height: 1.4;
   padding: 1em;
   text-align: center;
 }
 
-.goals__word-count {
+.writing-progress__word-count {
   font-size: larger;
   margin-top: 0;
 
@@ -16,18 +17,20 @@
   }
 }
 
-.goals__schedule {
+.writing-progress__schedule {
   color: var(--color-subtle);
   font-size: smaller;
   margin: 0;
 }
 
-.goals__meter {
+.writing-progress__meter {
   appearance: none;
   border: none;
+  border-radius: 0.5em;
   display: block;
   height: 0.5em;
   margin-block: 0.5em;
+  overflow: hidden;
   width: 100%;
 
   &::-webkit-progress-bar {
@@ -39,14 +42,36 @@
   }
 }
 
-.goals__progress {
+.writing-progress__metrics {
   color: var(--color-subtle);
-  font-size: smaller;
   margin: 0;
 }
 
 .goals__list {
   small {
     color: var(--color-subtle);
+  }
+}
+
+.goals__history {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+
+  h2 {
+    color: var(--color-primary);
+    margin: 0;
+  }
+
+  ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    flex: 1;
+    text-align: center;
   }
 }

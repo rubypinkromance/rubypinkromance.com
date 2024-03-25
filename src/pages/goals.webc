@@ -4,23 +4,20 @@ permalink: goals/
 ---
 
 <script webc:setup>
+  const roundingIncrement = 100;
   const round = (number) =>
     number.toLocaleString('en', {
-      roundingIncrement: 100,
+      roundingIncrement,
     });
+
   const now = new Date();
   const year = now.getFullYear();
-  const yearStart = new Date(year, 0, 1);
-  const yearEnd = new Date(year + 1, 0, 1);
-  const yearDuration = yearEnd.getTime() - yearStart.getTime();
-  const currentDuration = now.getTime() - yearStart.getTime();
-  const yearPercent = currentDuration / yearDuration;
   const posts = $data.collections.shortsByYear[year];
-  const goal = 100_000;
-  const expected = goal * yearPercent;
-  const progress = wordCountPosts(posts);
-  const percentage = ((progress / goal) * 100).toFixed();
-  const difference = progress - expected;
+
+  const sortedYears = Object.keys($data.collections.shortsByYear)
+    .sort()
+    .reverse()
+    .splice(1);
 </script>
 
 <header class="page__header">
@@ -29,29 +26,13 @@ permalink: goals/
   </h1>
 </header>
 
-<div class="goals">
-  <p class="goals__word-count">
-    <strong @text="round(progress)"></strong>
-    words written
-  </p>
-  <p class="goals__schedule">
-    <strong @text="round(Math.abs(difference))"></strong>
-    words
-    <template
-      webc:nokeep
-      @text="difference >= 0 ? 'ahead of' : 'behind'"
-    ></template>
-    schedule
-  </p>
-  <progress class="goals__meter" :value="progress" :max="goal"></progress>
-  <p class="goals__progress">
-    <template webc:nokeep @text="round(progress)"></template> /
-    <template webc:nokeep @text="round(goal)"></template>
-    (<template webc:nokeep @text="percentage"></template>%)
-  </p>
-</div>
+<writing-progress
+  :word-count="wordCountPosts(posts)"
+  :round="roundingIncrement"
+></writing-progress>
+<script webc:keep type="module" src="/scripts/writing-progress.js"></script>
 
-<ol class="goals__list">
+<ol class="goals__post-list">
   <li webc:for="post of posts" :key="post.url">
     <a :href="post.url"
       ><series-title
@@ -70,3 +51,21 @@ permalink: goals/
     >
   </li>
 </ol>
+
+<hr />
+
+<div class="goals__history">
+  <h2>Word Count History</h2>
+
+  <ul class="goals__list">
+    <li webc:for="loopYear of sortedYears">
+      <template webc:nokeep @text="loopYear"></template>
+      <small
+        ><template
+          webc:nokeep
+          @text="wordCountPosts($data.collections.shortsByYear[loopYear]).toLocaleString('en', {roundingIncrement: 1000})"
+        ></template>
+      </small>
+    </li>
+  </ul>
+</div>
