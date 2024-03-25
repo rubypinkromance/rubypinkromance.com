@@ -407,52 +407,74 @@ main {
   margin-top: 0.5em;
 }
 
-.goals {
+writing-progress {
   background: var(--color-bg-alt);
   border-radius: 0.5em;
+  display: block;
   line-height: 1.4;
   padding: 1em;
   text-align: center;
 }
 
-.goals__word-count {
+.writing-progress__word-count {
   font-size: larger;
   margin-top: 0;
 }
-.goals__word-count strong {
+.writing-progress__word-count strong {
   display: block;
   font-size: 1.5em;
 }
 
-.goals__schedule {
+.writing-progress__schedule {
   color: var(--color-subtle);
   font-size: smaller;
   margin: 0;
 }
 
-.goals__meter {
+.writing-progress__meter {
   appearance: none;
   border: none;
+  border-radius: 0.5em;
   display: block;
   height: 0.5em;
   margin-block: 0.5em;
+  overflow: hidden;
   width: 100%;
 }
-.goals__meter::-webkit-progress-bar {
+.writing-progress__meter::-webkit-progress-bar {
   background: var(--color-bg);
 }
-.goals__meter::-webkit-progress-value {
+.writing-progress__meter::-webkit-progress-value {
   background: var(--color-primary);
 }
 
-.goals__progress {
+.writing-progress__metrics {
   color: var(--color-subtle);
-  font-size: smaller;
   margin: 0;
 }
 
 .goals__list small {
   color: var(--color-subtle);
+}
+
+.goals__history {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.goals__history h2 {
+  color: var(--color-primary);
+  margin: 0;
+}
+.goals__history ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.goals__history li {
+  flex: 1;
+  text-align: center;
 }
 
 .home.page {
