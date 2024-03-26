@@ -39,6 +39,15 @@
   @media (width >= 75em) {
     align-self: start;
   }
+
+  figcaption {
+    margin-top: 0.5em;
+  }
+}
+
+.publication__cover-media {
+  border-radius: 0.33em;
+  display: block;
 }
 
 .publication__header {

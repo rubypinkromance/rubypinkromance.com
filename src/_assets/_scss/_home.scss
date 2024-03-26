@@ -34,8 +34,10 @@
 }
 
 .home__book {
+  align-items: center;
   background: var(--color-bg-alt);
   border-radius: 0.5em;
+  display: flex;
   grid-area: book;
 }
 

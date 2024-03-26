@@ -13,7 +13,7 @@ prism: true
       :src="imgPath(feature_image)"
       alt=""
       loading="eager"
-      class="short__cover-media"
+      class="publication__cover-media"
       :sizes="media.publication.sizes"
       :width="media.publication.widths"
     />
