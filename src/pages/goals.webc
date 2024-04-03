@@ -8,6 +8,7 @@ permalink: goals/
   const round = (number) =>
     number.toLocaleString('en', {
       roundingIncrement,
+      maximumFractionDigits: 0,
     });
 
   const now = new Date();
@@ -63,7 +64,7 @@ permalink: goals/
       <small
         ><template
           webc:nokeep
-          @text="wordCountPosts($data.collections.shortsByYear[loopYear]).toLocaleString('en', {roundingIncrement: 1000})"
+          @text="wordCountPosts($data.collections.shortsByYear[loopYear]).toLocaleString('en', {roundingIncrement: 1000, maximumFractionDigits: 0})"
         ></template>
       </small>
     </li>
