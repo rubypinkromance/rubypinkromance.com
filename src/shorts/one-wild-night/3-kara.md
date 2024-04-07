@@ -17,15 +17,15 @@ excerpt: Kara finds Ian wanking and explores her new confidence.
 number: 3
 ---
 
-Kara stepped into the hall and shut the bedroom door behind her. For a moment, she paused, feeling giddy. Then she realized she was holding her shorts, not wearing them. She hustled to the bathroom before anyone came along and she had to answer awkward questions like, “Why are your underwear soaking wet,” or, “Is that cum on your face?”
+Kara stepped into the hall and shut the bedroom door behind her. For a moment, she paused, feeling giddy. Then she realized she was holding her shorts, not wearing them. She hustled to the bathroom before anyone came along, and she had to answer awkward questions like, “Why are your underwear soaking wet,” or, “Is that cum on your face?”
 
 As the door swung shut behind her, she walked to the counter and tried to catch her breath. Wow! She’d never done _anything_ like that before. One minute she was secretly touching herself as Lucia and Carlos fucked, and then…
 
-She bit her lip as a blur of sexually-charge memories played in her mind’s eye. Lucia calling her out, and eagerly offering to show her how wet she was. The sight of her teammate’s pussy as she straddled her face. Lucia asking her to lick her clit. Carlos’ cock in her throat. Lucia’s fingers in her pussy. Cumming so hard she thought she would pass out. Carlos’ hot cum falling on her face. Kissing Lucia.
+She bit her lip as a blur of sexually charged memories played in her mind’s eye. Lucia calling her out, and eagerly offering to show her how wet she was. The sight of her teammate’s pussy as she straddled her face. Lucia asking her to lick her clit. Carlos’ cock in her throat. Lucia’s fingers in her pussy. Cumming so hard she thought she would pass out. Carlos’ hot cum falling on her face. Kissing Lucia.
 
 Studying her reflection in the mirror, the girl who looked back was flushed and grinning. Kara thought she looked hot. Her hair was disheveled. Her eyes had been watering from gagging on cock. There was cum splashed across her cheek. She looked like someone who knew what she wanted. Someone who wasn’t afraid to say “yes.”
 
-…Also like someone whose underwear was increasingly uncomfortable.
+Also like someone whose underwear was increasingly uncomfortable.
 
 Quickly, she rinsed her face off and walked into one of the toilet stalls. She slipped off her sopping panties and cleaned herself up a bit. Her lips were puffy and slick, and her clit was very sensitive. She was about to step into her sleep shorts when she noticed a quiet, repetitive, oddly familiar sound.
 
@@ -33,7 +33,7 @@ It was coming from the direction of the shower stall. This was a multiple-person
 
 Abruptly, she recognized the sound. It was someone stroking their cock! She’d just heard it up close just a few minutes ago as Carlos stood over her face, rubbing himself. Oh my god, she realized with a sudden thrill, I caught one of the guys having a midnight wank! He must have heard me come in, right? But he’s still going, even though he knows he’s not alone!
 
-She considered the possibilities. It could be Coach Jake… but ew, she hoped not. He was scruffy and old and she didn’t want to think about him naked. Plus, she figured he’d have more self-control. No, it had to be one of the two younger guys on the trip, her teammates Wally and Ian.
+She considered the possibilities. It could be Coach Jake… but ew, she hoped not. He was scruffy and old, and she didn’t want to think about him naked. Plus, she figured he’d have more self-control. No, it had to be one of the two younger guys on the trip, her teammates Wally and Ian.
 
 Could it be Wally? He was cocky and self-assured, with a bit of scruffy facial hair he was overly proud of. He did seem like the type to jerk off in a shared bathroom, but not really the type to be quiet about it. She’d once overheard him loudly bragging about getting head under the bleachers. He was so unashamed about everything, she couldn’t imagine him slowing down just because someone came in.
 
@@ -43,21 +43,21 @@ She was surprised to realize that she badly wanted to peek. She would never have
 
 Before she could think better of it, she pulled up her shorts and left the stall, leaving her panties behind. She crept to the shower curtain and teased it open enough to see inside.
 
-Ian was leaning against the wall by the bench. She bit her lip. He was completely naked except for an improvised blindfold made from a bandana. His cock was smaller than Carlos’, and it matched the color of his pale skin except for the tip, which was darker, almost purple. His hand was moving rapidly along the length of his shaft, which was pointing toward her. His legs were tense, making the muscles stand out.
+Ian was leaning against the wall by the bench. She bit her lip. He was completely naked except for an improvised blindfold made from a bandana. His cock was smaller than Carlos’, and it matched the color of his pale skin except for the tip, which was darker, almost purple. He rapidly pumped his hand along the length of his shaft, which was pointing toward her. His legs were tense, making the muscles stand out.
 
 Holy shit, this is hot, she thought. Slowly, she opened the curtain and slipped inside, standing in front of him. He didn’t stop.
 
 “Is that you?” He gasped, turning his head when he heard the curtain move. “Where have you been? I was worried you wouldn’t come. I’ve been waiting, ready for you. I’ve… ah… I’ve been thinking about you all day.”
 
-Kara bit her finger and squeezed her thighs together. He was waiting for someone. Probably Amy. They’d been obnoxiously flirting all day. She watched his hand move, his thumb rubbing over the glans, a glistening drop of precum dripping from the tip. She very badly wanted to taste it.
+Kara bit her finger and squeezed her thighs together. He was waiting for someone. Probably Amy. They’d been obnoxiously flirting all day. She watched his hand move, his thumb rubbing over the glans, a glistening drop of precum dripping from the tip. She badly wanted to taste it.
 
 Just for a moment, she considered dropping to her knees and taking him in her mouth. Let him keep the blindfold on, and assume she was who he was waiting for. Make him cum, and leave without saying a word. It was tempting.
 
-…But it wouldn’t be right.
+But it wouldn’t be right.
 
 “Sorry,” she cleared her throat, “but I don’t think I’m the one you’re waiting for.”
 
-“Huh?” He quickly tore the blindfold off, eyes wide with embarrassment. “Kara?! Oh fuck, I’m so sorry, I thought you were Amy! She, uh, told me to meet her here.”
+“Huh?” He quickly tore the blindfold off, eyes wide with embarrassment. “Kara? Oh fuck, I’m so sorry, I thought you were Amy! She, uh, told me to meet her here.”
 
 “I can see that,” Kara grinned, trying not to laugh as he struggled to find a way to conceal his twitching erection. “Do you two do this often?”
 
@@ -67,7 +67,7 @@ Just for a moment, she considered dropping to her knees and taking him in her mo
 
 “No! I mean… Fuck.” He looked painfully awkward. “I mean, um, I’ve never done anything like this before.”
 
-“Hey, I’m sorry,” Kara smiled. “I don’t mean to tease you. I’ve never rubbed one out in public either.” (That’s not strictly true anymore, she thought to herself.) “Anyway, uh, where is she? You said you were worried she wasn’t coming?”
+“Hey, I’m sorry,” Kara smiled. “I don’t mean to tease you. I’ve never rubbed one out in public, either.” (That’s not strictly true anymore, she thought to herself.) “Anyway, uh, where is she? You said you were worried she wasn’t coming?”
 
 “Yeah, she texted me to meet her here like a half hour ago.” His cheeks flushed. “She said to put on a blindfold and make sure I was ready for her.”
 
@@ -75,7 +75,7 @@ Just for a moment, she considered dropping to her knees and taking him in her mo
 
 “Fuck.” Ian looked crushed. “You think so?”
 
-“I mean, I don’t know for sure,” Kara admitted. “But I once heard her bragging about setting up three hookups in one night in case the first two were duds.”
+“I mean, I don’t know for sure,” Kara admitted. “But I once heard her bragging about setting up three hookups in one night, in case the first two were duds.”
 
 “Ugh, I should have known better. She’s too hot. She’s out of my league.”
 
@@ -119,19 +119,19 @@ She reached for his hand and pulled it to her chest, encouraging him to squeeze 
 
 Without a word, he dropped to his knees. He wrapped his lips around her breast and sucked hard, pulling more than just her nipple into the heat of his mouth. She gasped, still squeezing his hand on her other breast.
 
-“Fuck, that feels good,” she murmured, pulling his head to the other side. She reached down and started to rub near her clit. It was still too much to touch directly, but caressing the area around it sent little bolts of lightning crackling along her spine.
+“Fuck, that feels good,” she murmured, pulling his head to the other side. She reached down and started to rub near her clit. It was still too much to touch directly, but caressing the surrounding area sent little bolts of lightning crackling along her spine.
 
 “Ian,” she gasped, pushing him away suddenly. “I want to go down on you.” He nodded enthusiastically, one hand wrapped around his cock. “But you have to promise not to cum yet!”
 
 “Okay,” he agreed eagerly.
 
-She got down on her knees as he stood back up, stroking his cock in front of her face. She moved her head to the side, nestling her face against his curly mass of hair and licking slowly along the length of the shaft, pushing his hand away. She flicked her tongue against the tip, then licked around the rim of his head. When she finally took him into her mouth, he groaned.
+She got down on her knees as he stood back up, stroking his cock in front of her face. Moving her head to the side, she nestled her face against his curly mass of hair and licked slowly along the length of the shaft, pushing his hand away. She flicked her tongue against the tip, then licked around the rim of his head. When she finally took him into her mouth, he groaned.
 
-She let him slide down the length of her tongue. She felt his hand lightly touch her hair, encouraging her to bob her head. She challenged herself to take him a bit deeper each time, relaxing her throat until she was on the edge of gagging. She noted with interest that it was easier to swallow him than Carlos.
+She let him slide down the length of her tongue. He lightly touched her hair, encouraging her to bob her head. She challenged herself to take him a bit deeper each time, relaxing her throat until she was on the edge of gagging. She noted with interest that it was easier to swallow him than Carlos.
 
 “Kara! Kara, stop,” he gasped, stepping back and pulling his cock abruptly away from her. “Holy shit, you were about to make me cum.” He looked at her, breathing heavily, trying to regain control. Clearly, he was waiting for her to tell him what was next.
 
-“Come over to the bench, I want to sit on you.” She grinned. It was kind of fun to take control of a sexual encounter. He dropped onto the bench, his cock glistening wet and inviting. She bit her lip and moved forward to straddle him.
+“Come over to the bench, I want to sit on you.” She grinned. It was fun to take control of a sexual encounter. He dropped onto the bench, his cock glistening wet and inviting. She bit her lip and moved forward to straddle him.
 
 The moment when he entered her was almost too much. She was so wet that he slipped in effortlessly, and so swollen that she felt every inch of him. She rocked her hips, experimenting to see which angle put pressure in the best spot.
 
@@ -149,7 +149,7 @@ Kara found herself gasping with each thrust, trying not to start moaning or cryi
 
 “Ugh! Fuck! Yes!” Kara felt a climax approaching, the pressure growing around his cock. With one white-knuckled hand, she gripped the counter. The other was flying in tight circles around her clit. She and Ian both stared at her tits, bouncing as his hips slapped against her ass.
 
-The orgasm seemed to crash over her body, rolling from the pain in her scalp as he yanked on her hair down to the tight erect buds of her nipples, through her core, clenching around his cock, and crackling as she jammed her palm tightly against her clit. Her vision seemed to blur, replaced by radiating sparks of colors. She rocked back and forth, gasping for breath as he relentlessly continued fucking her through wave after wave of pleasure.
+The orgasm seemed to crash over her body, rolling from the pain in her scalp as he yanked on her hair, down to the tight erect buds of her nipples, through her core. She clenched around his cock as she jammed her palm tightly against her clit. Her vision seemed to blur, replaced by radiating sparks of colors. She rocked back and forth, gasping for breath as he relentlessly continued fucking her through wave after wave of pleasure.
 
 “Kara!” He gasped, “Kara, fuck… Gonna cum.” He met her eyes. “Where…?”
 
@@ -167,7 +167,7 @@ She sauntered out, deliberately rolling her hips as she walked, savoring his eye
 
 “Well, Ian, how was that for a hookup on our big trip?”
 
-“Oh my god,” he beamed. “You were… you are…” He seemed at a loss for words. “Thank you. That was so fucking hot.”
+“Oh my god,” he beamed. “You were… You are…” He seemed at a loss for words. “Thank you. That was so fucking hot.”
 
 “Heh. Yeah, it was. Remind me to thank Amy when I see her.” She laughed at the panicked expression on his face. “Don’t worry, I’m joking. It’ll be our little secret.”
 

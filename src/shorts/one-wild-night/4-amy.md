@@ -20,7 +20,7 @@ number: 4
 
 “Head to the bathroom on your side. Take off your clothes, blindfold yourself, and wait for me in the shower. I’ll be there soon. Be ready for me! 💋”
 
-Amy grinned as she texted Ian. He was cute enough, though a bit vanilla for her taste. She’d been teasing him all day and he was sure to jump at the chance to hook up with her. The coaches had said it was time for bed more than an hour ago, and old people went to sleep early, so it had to be safe to sneak across by now.
+Amy grinned as she texted Ian. He was cute enough, though a bit vanilla for her taste. She’d been teasing him all day, and he was sure to jump at the chance to hook up with her. The coaches had said it was time for bed more than an hour ago, and old people went to sleep early, so it had to be safe to sneak across by now.
 
 She walked to the door and glanced at her roommate. She was on her phone too, probably texting her girlfriend in the room next door. The coaches had been quick to separate them when assigning rooms.
 
@@ -42,7 +42,7 @@ She confidently strolled down the hall and into the kitchen, intending to walk s
 
 “Well, I’m pretty sure someone’s in there right now. I think your hairbrush can wait for morning.”
 
-“Oh, uh… sure, that makes sense.” Amy stalled, trying to think of another reason, but came up with nothing. After a moment she turned around, inwardly seething, and walked back down her hall to the bathroom on her side.
+“Oh, uh… sure, that makes sense.” Amy stalled, struggling to think of another reason, but came up with nothing. After a moment, she turned around, inwardly seething, and walked back down her hall to the bathroom on her side.
 
 Well, if she couldn’t get to Ian, he’d just have to come to her.
 
@@ -62,7 +62,7 @@ Confident in her appearance, she lounged against the wall and spent a while goin
 
 Leaving her phone on the counter with her clothes, Amy wandered into the shower. There was a bench that looked promising if they pulled it away from the wall. She could imagine pushing him back until he was laying full-length, and then straddling him…
 
-If he ever got here. Scowling at the door, she picked up her phone again and texted him.
+If he ever gets here. Scowling at the door, she picked up her phone again and texted him.
 
 “What’s taking so long? 🤨”
 
@@ -70,11 +70,11 @@ She tried to kill a few minutes playing a game on her phone, but her annoyance a
 
 “Where the fuck are you? 😖”
 
-Exhaling her frustration, Amy turned back to the mirror and tried on some seductive poses. She arched her back. She stuck her butt out. She squeezed her breasts together. But her irritation at being kept waiting was growing by the minute.
+Exhaling her frustration, Amy turned back to the mirror and tried on some seductive poses. She arched her back and stuck her butt out. She squeezed her breasts together. But her irritation at being kept waiting was growing by the minute.
 
 “NOT a good idea to keep me waiting. 😤”
 
-If he’d been caught by the coaches he could have at least texted her. It’d been like a half hour by now, that was plenty of time, even if he’d had to crawl through the kitchen on his hands and knees to stay out of sight.
+If he’d been caught by the coaches, he could have at least texted her. It’d been like a half hour, that was plenty of time, even if he’d had to crawl through the kitchen on his hands and knees to stay out of sight.
 
 Slowly, it dawned on her that she’d been stood up. What the actual fuck! This boy had no idea how lucky he was that she’d taken even a moment of interest in him.
 
@@ -90,7 +90,7 @@ Holy shit! Jake wasn’t asleep, and that must be Sam under the blanket blowing 
 
 As quickly as she dared, she crept through the dark kitchen, keeping an eye on the couch and prepared to drop to the floor if they moved. Thankfully, they were completely distracted and she made it across without being noticed.
 
-Filled with equal parts triumph and annoyance, she opened Ian’s door without knocking and slipped inside, shutting it quietly behind her. The room was only dimly lit by moonlight and it took her eyes a moment to adjust. When they did, she realized with confusion that only one bed was occupied. Ian’s best friend Wally was asleep on his back and snoring softly.
+Filled with equal parts triumph and annoyance, she opened Ian’s door without knocking and slipped inside, shutting it quietly behind her. The room was only dimly lit by moonlight, and it took her eyes a moment to adjust. When they did, she realized with confusion that only one bed was occupied. Ian’s best friend Wally was asleep on his back and snoring softly.
 
 Where the fuck was Ian? Was he still in the bathroom? No, he would have seen all her texts. There was only one possible explanation. Not only had he blown her off, but he’d done it to fuck some other girl! She practically saw red at the idea. Not that she cared if he slept with anyone else, of course. This was always going to be a one-time thing. But the idea that he’d choose someone else over a chance with her? Outrageous. Well, she’d show him.
 
@@ -114,7 +114,7 @@ Without hesitation, she walked over to Wally’s bed, lifted the covers, and cli
 
 “Hey, no, stop that!” He got up on one elbow and tried to push her away. “Why are you here? Where’s Ian?”
 
-“Ugh, fine!” She sat up, still straddling him, but no longer trying to grope him. “Your _bro_ stood me up, alright?”
+“Ugh, fine!” She sat up, still straddling him, but no longer groping him. “Your _bro_ stood me up, alright?”
 
 “He did?” Wally looked confused. “So you’re here to, what, fuck me to get back at him?”
 
@@ -160,9 +160,9 @@ Annoyed, she flicked his cock. He jumped up, looking shocked.
 
 “What, like I love the taste of dick?” She glared at him as he shrugged. “Ugh, fine, whatever, you’re probably terrible at it anyway. Give me a second to get ready.”
 
-Amy laid down on his bed, adjusting his pillow and getting comfortable. She took a few deep breaths, trying to let the annoyance fade away, and focused on the gently glowing ember of arousal in her core. Licking her lips, she cupped her breasts. Her nipples were still sensitive from Wally’s tongue. Slowly, she let one hand slide down her stomach and over her hip, spreading her legs. Her finger eased between her lips, finding the wetness hidden inside. Sighing, she dipped in and spread her lubrication over her lips.
+Amy laid down on his bed, adjusting his pillow and getting comfortable. She took a few deep breaths, trying to let the annoyance fade away, and focused on the ember of arousal in her core. Licking her lips, she cupped her breasts. Her nipples were still sensitive from Wally’s tongue. Slowly, she let one hand slide down her stomach and over her hip, spreading her legs. Her finger eased between her lips, finding the wetness hidden inside. Sighing, she dipped in and spread her lubrication over her lips.
 
-Wally made an approving sound and she glanced over to see him standing by the bed, eagerly stroking his cock at her. Biting her lip, she gestured for him to join her. He climbed onto the bed, kneeling between her legs, still masturbating, as he watched her tease her clit. He inched forward until his thighs pressed against hers. She felt the heat of his body, his hand brushing against hers as they both touched themselves with increasing urgency.
+Wally made an approving sound, and she glanced over to see him standing by the bed, eagerly stroking his cock at her. Biting her lip, she gestured for him to join her. He climbed onto the bed, kneeling between her legs, still masturbating, as he watched her tease her clit. He inched forward until his thighs pressed against hers. She felt the heat of his body, his hand brushing against hers as they both touched themselves with increasing urgency.
 
 “Fuck, that’s hot,” he groaned. “I’ve never watched a girl get off before.”
 
@@ -218,7 +218,7 @@ Wave after wave of sensation radiated out from her pussy and all she could see w
 
 She jumped off him and quickly wrapped her hands around his cock, covered in her creamy juices. His entire body went rigid as she urgently stroked his shaft. Hot sticky cum spilled over her fingers, spurting onto his stomach. He grunted with each throb of his cock, thrusting into her hands over and over.
 
-Eventually, it passed and she collapsed down on his side, both of them breathing heavily. Her arm was draped over his body, still idly playing with his cum as his cock softened. Her other hand moved between her thighs, palm pressed against her clit, which felt too sensitive to leave uncovered.
+Eventually, it passed, and she collapsed down on his side, both of them breathing heavily. Her arm was draped over his body, still idly playing with his cum as his cock softened. Her other hand moved between her thighs, palm pressed against her clit, which felt too sensitive to leave uncovered.
 
 A long time passed as their heartbeats slowed and their breathing regulated. Finally, he took a deep breath and wrapped his arm around her, pulling her in close with her head on his shoulder.
 

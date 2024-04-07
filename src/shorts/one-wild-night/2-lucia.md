@@ -40,11 +40,11 @@ And then, finally, he was there. He pulled her against him and opened his mouth 
 
 Their hands explored each other’s bodies with increasing urgency. He squeezed her breasts through her tank top and settled his weight between her thighs. She grabbed his ass and pulled him tighter against her. She kissed him aggressively, biting his lower lip and pushing her tongue into his mouth. He responded in kind, and she felt a heat kindle in her core.
 
-He started pulling the hem of her shirt up. She shifted her weight to let him lift it high enough to expose her breasts and tried not to gasp as the heat of his mouth closed around her nipple. She felt it stiffen against his tongue, and he rolled her other nipple between his thumb and forefinger. A lazy wave of heat rolled down her spine to where his weight still rested between her legs.
+He started pulling the hem of her shirt up. She shifted her weight to let him lift it high enough to expose her breasts, and tried not to gasp as the heat of his mouth closed around her nipple. She felt it stiffen against his tongue, and he rolled her other nipple between his thumb and forefinger. A lazy wave of heat rolled down her spine to where his weight still rested between her legs.
 
 She thought she saw a movement across the room but was distracted immediately by Carlos getting up on his knees to pull down her shorts. She raised her hips to help and grinned as he discovered she wasn’t wearing any underwear. He parted her legs slowly, reverently. She’d shaved everything this morning, knowing how the sight excited him.
 
-He leaned down to keep sucking on her nipple as his hand slid up her thigh. She bit her lip as his warm fingers teased her folds, gently at first, but with increasing enthusiasm. She let him tease a fingertip between her lips but gently pushed his hand away as he moved toward her clit. He meant well, but he had a tendency to be too aggressive, treating her most sensitive spot like it was a miniature cock.
+He leaned down to keep sucking on her nipple as his hand slid up her thigh. She bit her lip as his warm fingers teased her folds, gently at first, but with increasing enthusiasm. She let him tease a fingertip between her lips, but gently pushed his hand away as he moved toward her clit. He meant well, but he had a tendency to be too aggressive, treating her most sensitive spot like it was a miniature cock.
 
 She appreciated the effort, but what really got her wet was sucking his cock. Carlos was blessed. His shaft was a lovely shade of brown, and just on the edge of too large for her. He kept clean and trimmed, and she loved seeing how deep she could swallow him.
 
@@ -52,11 +52,11 @@ She got up onto her hands and knees, and he was already tugging down his pants. 
 
 She grinned when she felt him gently push his hips forward, and let him go deeper. When he bumped against the back of her mouth, she tried to relax her throat. She loved swallowing him this way.
 
-After a moment, she felt his hand cradling the back of her head and he started to move his hips more insistently. Trying not to gag, she followed his lead, allowing him to start slowly fucking her mouth as a surge of desire washed over her. Gradually, his pace quickened as he got more excited, thrusting deeper each time until her forehead was resting against his taut stomach. Her eyes watered, and she felt her throat tighten, which made his breath catch as he tried not to cry out.
+After a moment, she felt his hand cradling the back of her head, and he started to move his hips more insistently. Trying not to gag, she followed his lead, allowing him to start slowly fucking her mouth as a surge of desire washed over her. Gradually, his pace quickened as he got more excited, thrusting deeper each time until her forehead was resting against his taut stomach. Her eyes watered, and she felt her throat tighten, which made his breath catch as he tried not to cry out.
 
-Finally, sputtering and nearly choking, she had to pull away. Carlos shuddered, trying to quietly catch his breath. Still kneeling, his cock jutted towards her, glistening wet and twitching. Wiping her mouth and grinning, she turned around and dropped onto her elbows, shaking her upturned ass at him. She’d had plans for a long, slow, quiet night of lovemaking, but right now all she wanted was him behind her, burying his cock in her now-dripping pussy.
+Finally, sputtering and nearly choking, she had to pull away. Carlos shuddered, trying to catch his breath. Still kneeling, his cock jutted towards her, glistening wet and twitching. Wiping her mouth and grinning, she turned around and dropped onto her elbows, shaking her upturned ass at him. She’d had plans for a long, slow, quiet night of lovemaking, but right now, all she wanted was him behind her, burying his cock in her now-dripping pussy.
 
-She buried her face in the pillow to avoid making a sound as he rubbed his head between her lips and pushed just a little way inward. She felt him grip her hips and shivered, knowing he was about to start fucking her. They both paused, savoring the anticipation. She had no idea how they would keep from making any noise that would wake Kara.
+She buried her face in the pillow to avoid making a sound as he rubbed his head between her lips and pushed just a little way inward. He gripped her hips and she shivered, knowing he was about to start fucking her. They both paused, savoring the anticipation. She had no idea how they would keep from making any noise that would wake Kara.
 
 Glancing in her roommate’s direction, Lucia was shocked to make eye contact. Just for a fraction of a second, until Kara quickly shut her eyes. It was over so quickly, she wondered if she’d imagined it. Even so, it caused a complicated mix of emotions to wash over her. Surprise. Embarrassment. Confusion. Worry.
 
@@ -66,15 +66,15 @@ Suddenly, Carlos thrust forward, burying himself deep inside her. She gasped, an
 
 Was Kara really watching? How long had she been watching? Had she been awake the whole time? Or had she woken up to the wet sounds of her sucking Carlos’ cock? Why hadn’t she said anything? Was she getting off right now? Lucia gasped at the idea of Kara with her hand in her underwear, trying just as hard as they were to be quiet.
 
-Carlos reached down between her thighs to rub her clit. Normally she would have stopped him, but now she wondered if it would turn Kara on to see it. She risked another quick peek and once again made eye contact for a heartbeat before Kara shut her eyes, still pretending to sleep. There was no longer any doubt. Kara was awake, watching, and into it.
+Carlos reached down between her thighs to rub her clit. Normally, she would have stopped him, but now she wondered if it would turn Kara on to see it. She risked another quick peek and once again made eye contact for a heartbeat before Kara shut her eyes, still pretending to sleep. There was no longer any doubt. Kara was awake, watching, and into it.
 
 Involuntarily (mostly), Lucia moaned as Carlos removed his hand from between her thighs and grabbed a handful of her hair instead. He pulled firmly backward, forcing her up off her elbows, arching her back until she had to put her hands on the headboard. He was fucking her hard now, slamming against her enough to make her tits bounce. Tension was building deep in her core.
 
-Another glance, another brief moment of eye contact. Lucia was almost certain she could see movement below the covers. Kara _must_ be masturbating as she watched them fuck. Carlos pulled her hair tighter and she whimpered, gripping the headboard tightly. Did Kara like girls? Was she staring at her tits or his cock? Maybe both? Was she thrusting fingers into her pussy, matching their pace, imagining how it would feel if Carlos was fucking her?
+Another glance, another brief moment of eye contact. Lucia was almost certain she could see movement below the covers. Kara _must_ be masturbating as she watched them fuck. Carlos pulled her hair tighter, and she whimpered, gripping the headboard tightly. Did Kara like girls? Was she staring at her tits or his cock? Maybe both? Was she thrusting fingers into her pussy, matching their pace, imagining how it would feel if Carlos was fucking her?
 
 Lucia was gasping from the excitement of the situation. Finally, she looked directly at Kara. Not a glance, but prolonged contact. She wanted to see Kara watching. No more pretending to be asleep. Kara’s eyes showed a moment of shock, but this time she didn’t close them or look away. The movement under the covers seemed to quicken. Her pussy clenched with excitement. Carlos was fucking her while Kara watched. She was right on the edge, and Kara was getting off watching her!
 
-Kara mouthed the word “cum,” and Lucia didn’t know if that meant Kara was cumming, or she knew Lucia was about to, or if she was giving an order. Regardless, all her muscles contracted and she cried out as a gush of warm fluid ran down her thighs. Carlos released his grip on her hair, allowing her to collapse onto the pillow as he held her hips, keeping his cock deep inside through her orgasm.
+Kara mouthed the word “cum,” and Lucia didn’t know if that meant Kara was cumming, or she knew Lucia was about to, or if she was giving an order. Regardless, all her muscles contracted, and she cried out as a gush of warm fluid ran down her thighs. Carlos released his grip on her hair, allowing her to collapse onto the pillow as he held her hips, keeping his cock deep inside through her orgasm.
 
 When her vision cleared, Kara was still staring right at her. She looked impressed, embarrassed, and jealous all at the same time. A sense of relaxed bliss came over Lucia as she kept looking at Kara. She knew the two of them would never understand each other more clearly than they did at this moment. They both knew, without any need to speak, that Kara would close her eyes and continue pretending to sleep while Lucia finished Carlos off and sent him back the way he came. They would never speak about this, but it would be a secret they shared, communicated only by a sly smile now and then.
 
@@ -94,7 +94,7 @@ Kara seemed hesitant to answer, but her eyes said yes.
 
 Still unsure how to react, Kara gave a tiny nod.
 
-“Mmmm… Yeah, I bet that looked hot. Did you see the way he pulled my hair? How he made my tits bounce ‘cause he was fucking me so hard?”
+“Mmmm… Yeah, I bet that looked hot. Did you see the way he pulled my hair? How he made my tits bounce ’cause he was fucking me so hard?”
 
 Kara nodded and shivered as Lucia leaned in close to whisper in her ear.
 
@@ -130,7 +130,7 @@ Lucia moved to straddle Kara’s head. “Look at me, Kara,” she purred. She c
 
 “Come over here, babe, she wants to see you up close.” Dutifully, Carlos walked closer, standing directly behind her. She couldn’t see, but she knew Kara must be distracted by the sight. Her tongue slowed, and her pussy began squeezing excitedly around Lucia’s fingers. Fuck, she must be right on the edge, Lucia realized.
 
-Somewhat reluctantly, Lucia raised herself away from Kara’s mouth. She looked down between her thighs and saw her roommate gasping with pleasure. Her chin was covered in Lucia’s wetness. Her eyes were locked on Carlos’ long brown shaft. Her body was tense, ready to cum any second.
+Somewhat reluctantly, Lucia raised herself away from Kara’s mouth. She looked down between her thighs and saw her roommate gasping with pleasure. Her chin was covered in Lucia’s wetness, eyes were locked on Carlos’ long brown shaft. Her body was tense, ready to cum any second.
 
 “Do you want to suck his _cock_?”
 
@@ -146,7 +146,7 @@ Somewhat reluctantly, Lucia raised herself away from Kara’s mouth. She looked 
 
 “Ugh, fuck! Her throat is so tight, I’m gonna cum too,” Carlos exclaimed.
 
-“No!” Lucia ordered, “That’s mine, put your cock back in my cunt.” Kara coughed and groaned deliriously as both Carlos’ cock and Lucia’s fingers pulled out abruptly. “UGH, fuck yeah,” Lucia groaned as he slipped effortlessly back into her. “Fuck me hard, I want her to watch as you shoot that load in my pussy.”
+“No!” Lucia ordered, “That’s mine, put your cock back in my cunt.” Kara coughed and groaned deliriously as both Carlos’ cock and Lucia’s fingers pulled out abruptly. “Ugh, fuck yeah,” Lucia groaned as he slipped effortlessly back into her. “Fuck me hard, I want her to watch as you shoot that load in my pussy.”
 
 Carlos wasted no time, grabbing Lucia’s hips and roughly fucking her. She dropped back onto her elbows, pressing her face against Kara’s stomach, grunting with each thrust. She felt Kara’s hands grip her cheeks, spreading them for a better view.
 
@@ -166,7 +166,7 @@ Moaning happily, Lucia pushed herself upright. She swayed gently in place, catch
 
 Breaking the kiss, Lucia shot a quick glance at Carlos. Unsurprisingly, the sight of the two of them kissing had reignited the spark of desire in his eyes.
 
-“You know, Kara,” she whispered conspiratorially, “I can get him hard again. Maybe… we could trade places this time? I could get under you and you can finger me while I watch him fuck you?”
+“You know, Kara,” she whispered conspiratorially, “I can get him hard again. Maybe… we could trade places this time? I could get under you, and you can finger me while I watch him fuck you?”
 
 But Kara looked hesitant.
 
@@ -174,7 +174,7 @@ But Kara looked hesitant.
 
 Kara bit her lip and stepped back, pulling her underwear up and adjusting her shirt.
 
-“No, um, I mean, I had a lot of fun. Like, a surprising amount of fun?” The words came tumbling out of her. “I didn’t even know I liked girls. I came here with a crush on Ian, and he’s been flirting with Amy the whole time, and then I saw you two, and it got me so turned on, and then, you know, this all happened, and like… I’m glad? But also I think I need to go like get some air…”
+“No, um, I mean, I had a lot of fun. Like, a surprising amount of fun?” The words came tumbling out of her. “I didn’t even know I liked girls. I came here with a crush on Ian, and he’s been flirting with Amy the whole time, and then I saw you two, and it got me so turned on, and then, you know, this all happened, and like… I’m glad? But also I think I need to go, like, get some air…”
 
 “Hey, hey, that’s fine.” Lucia smiled and reached out and squeezed her hand. “I get it, this all happened really fast. Let me know if you ever want to talk about it, okay?”
 
@@ -184,7 +184,7 @@ Kara bit her lip and stepped back, pulling her underwear up and adjusting her sh
 
 “Oh, yeah, of course, I mean, I’m not trying to stop you guys, I just need to slow down a bit?” Kara picked up her phone and shorts and moved to the door. “Just text me when you’re done, okay?”
 
-The door closed with a quiet click and they heard her footsteps pad down the hall. A long moment passed.
+The door closed with a quiet click, and they heard her footsteps pad down the hall. A long moment passed.
 
 “Is she gonna be okay?” Carlos asked.
 
@@ -212,7 +212,7 @@ Lucia gasped as his lips closed around her breast. She ground her pelvis against
 
 “Yeah, baby, keep going, you’re so fucking hot,” she breathed. He responded by switching to her other nipple and reaching back to squeeze her ass. She squealed as he thrust his hips, lifting her off the bed and somehow reaching deeper inside her.
 
-Quickly, they found their groove, moving as one, Lucia rocking forward and back as he gripped her tightly, pulling her against him as he pushed up. He released her nipple with a loud wet smack and dropped his head onto the pillow. His eyes locked with hers, and she saw nothing but his desire.
+Quickly, they found their groove, moving as one, Lucia rocking forward and back as he gripped her tightly, pulling her against him as he pushed up. He released her nipple with a loud, wet smack and dropped his head onto the pillow. His eyes locked with hers, and she saw nothing but his desire.
 
 “Ah! Lucia! Please!” She felt his body stiffen, and his cock swell. He was going to cum again. She was going to make him cum again. The thought was enough to push her over the edge. She dropped down, burying her face in his neck, and squeezing him between her thighs. Her climax radiated from her core, from his cock, in waves of pleasure.
 
@@ -228,7 +228,7 @@ He pulled her into a long, lazy kiss before letting his arms drop limply to his 
 
 “You think Kara’s coming back soon?” She could feel him grinning as he asked, and playfully smacked him.
 
-“Dummy. Shut up or I’ll make you climb out through that thorn bush before you get dressed.”
+“Dummy. Shut up, or I’ll make you climb out through that thorn bush before you get dressed.”
 
 “Oh hell no, I’m not touching that bush again. Your coaches have gotta be asleep by now. When I leave, I’ll just sneak out the front door.”
 
