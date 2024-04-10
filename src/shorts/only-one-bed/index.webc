@@ -1,0 +1,16 @@
+---js
+{
+  title: 'Only One Bed',
+  layout: 'layouts/page.webc',
+  eleventyExcludeFromCollections: true,
+  og_type: 'website',
+}
+---
+
+<header class="page__header">
+  <h1 class="page__title" @text="`${title} Series`"></h1>
+</header>
+
+<post-list
+  :posts="pluck(collections.shortsByRecent, 'series', 'only-one-bed').reverse()"
+></post-list>
