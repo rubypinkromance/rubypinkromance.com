@@ -426,9 +426,8 @@ writing-progress {
   font-size: 1.5em;
 }
 
-.writing-progress__schedule {
+.writing-progress__details {
   color: var(--color-subtle);
-  font-size: smaller;
   margin: 0;
 }
 
