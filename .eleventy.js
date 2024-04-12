@@ -18,6 +18,8 @@ module.exports = function (eleventyConfig) {
   // For example, `./public/css/` ends up in `_site/css/`
   eleventyConfig.addPassthroughCopy({
     './public/': '/',
+    './node_modules/@spaceninja/writing-progress/writing-progress.js':
+      '/scripts/writing-progress.js',
   });
 
   // Run Eleventy when these files change:
