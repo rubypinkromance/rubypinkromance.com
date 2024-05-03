@@ -31,7 +31,7 @@
     "@11ty/eleventy-plugin-webc": "0.11.2",
     "@spaceninja/writing-progress": "1.1.0",
     "eleventy-plugin-wordcount": "1.0.5",
-    "eslint": "8.57.0",
+    "eslint": "9.2.0",
     "eslint-config-prettier": "9.1.0",
     "luxon": "3.4.4",
     "npm-run-all2": "6.1.2",
