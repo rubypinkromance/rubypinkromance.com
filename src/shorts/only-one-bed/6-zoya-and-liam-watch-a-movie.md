@@ -70,7 +70,7 @@ While the trailers played, Zoya started idly running a finger up and down his th
 
 “Last night, Emma climbed out of bed again. I watched her go down on Nolan.” Liam made a strangled sound and humped against her palm. “She kneeled next to him and wrapped her lips around him. She looked so fucking sexy doing it. And from Nolan’s reaction, I think she’s good, too. He was lifting his hips, just like you’re doing, pushing deeper into her mouth.”
 
-“God, Liam, I was so fucking horny.” She unbuttoned his shorts, reaching inside to wrap her hand around his firm shaft. “I couldn’t help it. I started touching myself as I watched them. It was so hard to stay quiet. Especially when Nolan took off her panties and pulled her leg over his head so he could go down on her at the same time.” Liam grunted, and she felt a squirt of precum against her palm.
+“Oh, Liam, I was so fucking horny.” She unbuttoned his shorts, reaching inside to wrap her hand around his firm shaft. “I couldn’t help it. I started touching myself as I watched them. It was so hard to stay quiet. Especially when Nolan took off her panties and pulled her leg over his head so he could go down on her at the same time.” Liam grunted, and she felt a squirt of precum against her palm.
 
 “Mmm, does that turn you on?” Zoya licked his neck. “It made me cum. I had to bite Emma’s pillow to keep quiet. He had his fingers inside her and his tongue on her clit. She came all over his face when he shot his load down her throat.”
 

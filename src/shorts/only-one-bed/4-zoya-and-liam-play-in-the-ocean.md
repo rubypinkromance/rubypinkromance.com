@@ -145,7 +145,7 @@ His cock started twitching and throbbing, and she watched, fascinated, as white 
 
 The sight of his climax caused her own to crest. She gripped his arm and frantically fucked herself against his fingers.
 
-“God! Liam! Fuck!”
+“Ah! Liam! Fuck!”
 
 Her insides clenched rhythmically, over and over, the pulse of her orgasm leaving her rocking in place. Her vision blurred, and she collapsed forward, gasping against his chest. He wrapped his free arm around her shoulder and held her as the waves of pleasure rolled through her body.
 
