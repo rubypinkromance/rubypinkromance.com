@@ -5,7 +5,7 @@ category: Group Sex
 tags:
   - group sex
   - ffm
-  - threesome
+  - threesomes
   - roommate
   - blowjob
   - 69

@@ -11,7 +11,7 @@ tags:
   - female masturbation
   - spanking
   - ffm
-  - threesome
+  - threesomes
   - roommates
 characters:
   - Alice

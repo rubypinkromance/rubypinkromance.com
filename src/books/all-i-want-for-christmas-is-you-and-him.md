@@ -5,7 +5,7 @@ category: Holidays
 tags:
   - holidays
   - christmas
-  - threesome
+  - threesomes
   - marriage
 characters:
   - Izzy
