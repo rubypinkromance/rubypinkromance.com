@@ -10,7 +10,7 @@ tags:
   - clubbing
   - public
   - double penetration
-  - threesome
+  - threesomes
   - mmf
   - anal
   - creampie
