@@ -7,6 +7,6 @@ module.exports = {
   characters: ['Gillian Reid'],
   seriesExcerpt:
     'Fans of the X-Files will love this sexy new paranormal crime series',
-  feature_image: 'covers/bpi-b01-close-encounters-with-agent-reid.jpg',
+  seriesFeatureImage: 'covers/bpi-b01-close-encounters-with-agent-reid.jpg',
   social_image: 'social/bpi-b01-social.jpg',
 };

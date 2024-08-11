@@ -16,6 +16,8 @@ characters:
   - Liam
 excerpt: Zoya entertains herself by going down on Liam in a theater.
 number: 6
+bundled_in:
+  - 2-taking-it-further
 ---
 
 Zoya stretched languidly and listened to the sound of pouring rain. The bed was warm, and she was in no hurry to get up. She could hear Nolan in the shower, and pictured him soaping up to wash away his and Emma’s cum. It had been hard not to make any noise as she masturbated to them going down on each other. Even after cumming twice, her dreams had been a swirl of intensely erotic scenarios.

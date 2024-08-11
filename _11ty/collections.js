@@ -81,9 +81,7 @@ const itemsBySeries = (collectionApi, tag) => {
             isSeries: true,
             feature_image:
               post.data.seriesFeatureImage ?? post.data.feature_image,
-            seriesCount: collectionApi
-              .getFilteredByTag(tag)
-              .filter((item) => item.data.series === post.data.series).length,
+            seriesCount,
           },
         };
       }
