@@ -85,7 +85,7 @@
   dependencies:
     normalize-path "^3.0.0"
 
-"@11ty/eleventy@2.0.1":
+"@11ty/eleventy@2.0.1", "@11ty/eleventy@^2.0.1":
   version "2.0.1"
   resolved "https://registry.npmjs.org/@11ty/eleventy/-/eleventy-2.0.1.tgz"
   integrity sha512-t8XVUbCJByhVEa1RzO0zS2QzbL3wPY8ot1yUw9noqiSHxJWUwv6jiwm1/MZDPTYtkZH2ZHvdQIRQ5/SjG9XmLw==
@@ -296,6 +296,14 @@
   dependencies:
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
+
+"@rknightuk/eleventy-plugin-post-graph@1.0.8":
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/@rknightuk/eleventy-plugin-post-graph/-/eleventy-plugin-post-graph-1.0.8.tgz#e1803e639e5ec45cc649279ec083782a72717a2b"
+  integrity sha512-GRllThUf7HKigjjnxsqj4G23UGq3sIShNN+wfbqQMSOuNtIQbS2l2eHI6hn2UErvK/W9n3RKc0eYmMpDMyO98w==
+  dependencies:
+    "@11ty/eleventy" "^2.0.1"
+    moment "^2.29.4"
 
 "@sindresorhus/slugify@^1.1.2":
   version "1.1.2"
@@ -1912,6 +1920,11 @@ mkdirp@^0.5.1:
   integrity sha512-FP+p8RB8OWpF3YZBCrP5gtADmtXApB5AMLn+vdyA+PyxCjrCs00mjyUozssO33cwDeT3wNGdLxJ5M//YqtHAJw==
   dependencies:
     minimist "^1.2.6"
+
+moment@^2.29.4:
+  version "2.30.1"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.30.1.tgz#f8c91c07b7a786e30c59926df530b4eac96974ae"
+  integrity sha512-uEmtNhbDOrWPFS+hdjFCBfy9f2YoyzRpwcl+DqpC6taX21FzsTLQVbMV/W7PzNSX6x/bhC1zA3c2UQ5NzH6how==
 
 moo@^0.5.2:
   version "0.5.2"

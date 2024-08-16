@@ -1,0 +1,58 @@
+:root {
+  --epg-box: #e9ecef;
+  --epg-box-highlight: #69db7c;
+  --epg-text: #000;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --epg-box: #2d333b;
+    --epg-box-highlight: #69db7c;
+    --epg-text: #fff;
+  }
+}
+
+.epg {
+  color: var(--text);
+  font-size: 0.8em;
+  margin: 20px 0;
+}
+
+.epg__year {
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.epg__months {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+@media (width <= 410px) {
+  .epg__months {
+    display: none;
+  }
+}
+
+.epg__squares {
+  display: grid;
+  grid-auto-flow: column;
+  grid-gap: 2px;
+  grid-template-rows: repeat(7, 1fr);
+  margin-bottom: 10px;
+}
+
+.epg__box {
+  aspect-ratio: 1 / 1;
+  background: var(--epg-box);
+}
+
+.epg__box--empty {
+  background: none;
+}
+
+.epg__hasPost {
+  background: var(--epg-box-highlight);
+}

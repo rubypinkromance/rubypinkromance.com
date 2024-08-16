@@ -3,6 +3,7 @@ const pluginNavigation = require('@11ty/eleventy-navigation');
 const pluginRss = require('@11ty/eleventy-plugin-rss');
 const pluginWebc = require('@11ty/eleventy-plugin-webc');
 const { wordCount } = require('eleventy-plugin-wordcount');
+const postGraphPlugin = require('@rknightuk/eleventy-plugin-post-graph');
 
 const pluginImages = require('./_11ty/images.js');
 const collections = require('./_11ty/collections.js');
@@ -44,6 +45,7 @@ module.exports = function (eleventyConfig) {
     ],
   });
   eleventyConfig.addPlugin(wordCount);
+  eleventyConfig.addPlugin(postGraphPlugin);
 
   // Collections
   for (let name in collections) {

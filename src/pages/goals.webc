@@ -53,6 +53,8 @@ permalink: goals/
   </li>
 </ol>
 
+<template webc:nokeep @html="postGraph(posts)"></template>
+
 <hr />
 
 <div class="goals__history">
