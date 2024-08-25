@@ -21,6 +21,8 @@ characters:
   - Nolan
 excerpt: Best. Vacation. Ever!
 number: 13
+bundled_in:
+  - 4-best-vacation-ever
 ---
 
 “Well, alright,” Zoya laughed as she closed the door.

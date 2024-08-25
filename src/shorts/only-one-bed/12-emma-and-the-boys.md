@@ -19,6 +19,8 @@ characters:
   - Nolan
 excerpt: Emma fulfills her fantasy with Liam and Nolan.
 number: 12
+bundled_in:
+  - 4-best-vacation-ever
 ---
 
 The next morning wasn’t exactly awkward, but there was a noticeable tension in the air, like the pressure before a storm. Everyone was waiting for Zoya to make the next move. They were all fairly sure they knew what her big plan was, but no one wanted to jinx it by saying it out loud.
