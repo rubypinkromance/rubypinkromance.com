@@ -15,7 +15,7 @@ characters:
 excerpt: Emma catches an eyeful of Liam’s private time in the shower.
 number: 9
 bundled_in:
-  - 3-lets-trade
+  - only-one-bed-box-set
 ---
 
 Everyone but Nolan had been a bit slow to wake up that morning. The blonde surfer had emerged from the bathroom rubbing his hair dry, announced that the surf was up, and they should all get out of bed. When no one moved, he’d laughed, called them all “bludgers” and thrown open the curtains to let the sunlight in.

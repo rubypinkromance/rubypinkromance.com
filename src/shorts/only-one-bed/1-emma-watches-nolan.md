@@ -13,7 +13,7 @@ characters:
 excerpt: Forced to share a room, Emma secretly watches Nolan.
 number: 1
 bundled_in:
-  - 1-close-quarters
+  - only-one-bed-box-set
 ---
 
 Emma lowered her headphones as her dad parked the rental car. Sunlight gleamed on the ocean behind the hotel. She opened the door and took a deep breath of humid, tropical air as she gathered her things.

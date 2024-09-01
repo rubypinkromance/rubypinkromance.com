@@ -17,7 +17,7 @@ characters:
 excerpt: Zoya helps Emma catch Nolan’s eye, and the girls get wet.
 number: 2
 bundled_in:
-  - 1-close-quarters
+  - only-one-bed-box-set
 ---
 
 “Zee, will you put sunblock on me?”

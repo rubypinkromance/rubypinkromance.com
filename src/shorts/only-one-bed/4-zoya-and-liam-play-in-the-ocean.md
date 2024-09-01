@@ -16,7 +16,7 @@ characters:
 excerpt: When she catches Liam with an erection, Zoya offers a hand.
 number: 4
 bundled_in:
-  - 1-close-quarters
+  - only-one-bed-box-set
 ---
 
 Zoya looked up from her book as Liam flopped onto the towel next to her. Despite Emma’s dismissiveness, he really had filled out nicely. Not as tall or broad as Nolan, granted, but Zoya wouldn’t kick him out of her bed. Her eyes roamed down past his chest. There was just a hint of hair trailing below the waistband of his board shorts. She wondered if he trimmed. He looked up, catching her biting her lip.
