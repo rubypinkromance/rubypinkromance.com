@@ -18,8 +18,6 @@ characters:
   - Nolan
 excerpt: Surprised by Nolan’s search history, Zoya makes a move.
 number: 10
-bundled_in:
-  - only-one-bed-box-set
 ---
 
 Zoya looked up from her book as Emma returned from the hotel room. Without saying anything, the redhead dropped her phone and coverup into the bag and ran down the beach. She waded out chest-deep in the water, and splashed around a bit. After a few minutes, she walked back and sat on her towel, looking flushed.

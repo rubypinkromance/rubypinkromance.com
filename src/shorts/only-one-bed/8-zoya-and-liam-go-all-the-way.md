@@ -19,8 +19,6 @@ characters:
   - Emma
 excerpt: Zoya rides Liam while watching Emma and Nolan.
 number: 8
-bundled_in:
-  - only-one-bed-box-set
 ---
 
 After Emma kissed her and rolled away to have sex with Nolan, Zoya lay on her back trying to catch her breath. That sexy little redhead had really gotten her going. Her heart was pounding, and she was already wet. Not that it took much. She’d been in sexual overdrive since they arrived. So when Emma’s new take-charge attitude targeted Zoya, even just for a moment, it left her a bit weak in the knees.

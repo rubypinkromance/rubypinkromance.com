@@ -16,8 +16,6 @@ characters:
   - Nolan
 excerpt: Emboldened by Nolan’s interest, Emma makes her move.
 number: 3
-bundled_in:
-  - only-one-bed-box-set
 ---
 
 Emma pretended to sleep, but every fiber of her being was alert for any sound or movement from Nolan. She wanted to heave a sigh, or toss and turn, but worried she’d spook him. The longer she waited, the more doubts filled her head. What if he knew she’d watched him last night? What if he didn’t feel like doing it again tonight? Despite Zoya’s assurances, what if she just wasn’t his type?

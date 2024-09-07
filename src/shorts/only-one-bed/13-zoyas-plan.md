@@ -21,8 +21,6 @@ characters:
   - Nolan
 excerpt: Best. Vacation. Ever!
 number: 13
-bundled_in:
-  - only-one-bed-box-set
 ---
 
 “Well, alright,” Zoya laughed as she closed the door.

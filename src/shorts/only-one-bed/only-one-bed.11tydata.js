@@ -7,4 +7,5 @@ module.exports = {
   seriesExcerpt:
     '“You can’t be serious. There’s no way we can all share one bed!”',
   social_image: 'social/only-one-bed-social.jpg',
+  bundled_in: ['only-one-bed-box-set'],
 };

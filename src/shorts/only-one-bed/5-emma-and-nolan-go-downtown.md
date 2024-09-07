@@ -16,8 +16,6 @@ characters:
   - Nolan
 excerpt: Trying not to overthink things, Emma goes down on Nolan.
 number: 5
-bundled_in:
-  - only-one-bed-box-set
 ---
 
 “Yeah, I’m having fun with Nolan,” Emma admitted as she tried to choose between two dresses. “But I don’t know if I should take it further.”

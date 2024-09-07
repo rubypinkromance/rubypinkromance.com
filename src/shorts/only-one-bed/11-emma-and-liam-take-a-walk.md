@@ -18,8 +18,6 @@ characters:
   - Liam
 excerpt: Emma and Liam act out their fantasies after sunset.
 number: 11
-bundled_in:
-  - only-one-bed-box-set
 ---
 
 As the sun kissed the horizon, Emma pretended to shiver and scooted closer to Liam. He raised an eyebrow, but allowed her to pull his arm over her shoulders. The thinly scattered clouds glowed brilliant shades of pink and orange as they caught the sun’s last rays. They were sitting on a blanket spread out on the sand in the same spot where the girls did their sunbathing. She barely saw anyone there during the day, so she hoped for the same privacy at night.

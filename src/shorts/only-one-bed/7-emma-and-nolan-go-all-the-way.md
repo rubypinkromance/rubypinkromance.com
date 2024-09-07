@@ -17,8 +17,6 @@ characters:
   - Zoya
 excerpt: Emma finds her confidence to seal the deal with Nolan.
 number: 7
-bundled_in:
-  - only-one-bed-box-set
 ---
 
 “I’ve decided you’re right, Zoya.” Emma was walking arm-in-arm with her friend on the beach. The rain had finally cleared up, and the four of them were walking back to
