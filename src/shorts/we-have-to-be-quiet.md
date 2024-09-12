@@ -50,7 +50,7 @@ He squirmed below me as I shifted my weight. I was barely able to stifle a gasp 
 
 All I wanted to do was shift our underwear out of the way and let him bury himself inside. God, it would feel so good. Just the thought sent a series of fluttering sensations through me. He thrust harder, as if hoping he could somehow tear through the thin fabric separating us. The mattress creaked ominously, and he squeezed my breasts hard enough to make me gasp. I rocked against him, shivering with desire.
 
-Abruptly, he released my nipple. He looked up at me, pleading, begging for more. He was getting close, I could tell. I held a finger to my lips. He nodded. Slowly, I scooted down between his legs. He watched with wide eyes as I tugged down his boxers to free his erection. I had soaked right through my underwear. He bit his lip as I ran my tongue up his shaft.
+Abruptly, he released my nipple. He looked up at me, pleading, begging for more. He was getting close, I could tell. I held a finger to my lips. He nodded. Slowly, I scooted down between his legs. He watched with wide eyes as I tugged down his boxers to free his erection. I had soaked right through my underwear and his. He bit his lip as I ran my tongue up his shaft.
 
 When I wrapped my lips around his head, he pulled the pillow over his face to avoid making any noise. In the heat of my mouth, he twitched against my tongue. The only thing in the world I wanted at that moment was to make him cum.
 
