@@ -19,6 +19,8 @@ characters:
 excerpt: Heather agrees to teach Jimmy a few things about women.
 feature_image: 'covers/go-ask-your-girlfriend.jpg'
 social_image: 'social/go-ask-your-girlfriend-social.jpg'
+bundled_in:
+  - go-ask-your-girlfriend-ebook
 ---
 
 “Thank you so much, Heather,” Jimmy’s mom apologized as they stood on the porch. “I know it’s a bit unusual, but obviously, at Jimmy’s age, we couldn’t call any of his old sitters.”

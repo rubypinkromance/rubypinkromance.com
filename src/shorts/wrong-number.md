@@ -16,6 +16,8 @@ tags:
 excerpt: They trade sexy pics, first by accident, then intentionally.
 feature_image: 'covers/wrong-number.jpg'
 social_image: 'social/wrong-number-social.jpg'
+bundled_in:
+  - go-ask-your-girlfriend-ebook
 ---
 
 I frowned at the dressing room mirror. The skirt I was trying on was cute, but I couldn’t tell if it was too short or just short enough. I snapped several photos to send to my friend for her opinion. Unfortunately, I wasn’t really paying attention and accidentally sent them to the last person I was texting, a cute guy I’d met at the gym yesterday.

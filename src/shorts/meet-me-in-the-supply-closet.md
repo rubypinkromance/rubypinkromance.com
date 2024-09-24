@@ -15,6 +15,8 @@ tags:
 excerpt: Standing naked in the dark, I shivered with anticipation.
 feature_image: 'covers/meet-me-in-the-supply-closet.jpg'
 social_image: 'social/meet-me-in-the-supply-closet-social.jpg'
+bundled_in:
+  - go-ask-your-girlfriend-ebook
 ---
 
 Standing naked in the dark, I shivered with anticipation. Any second now, I knew he was going to turn that knob and slip into the janitor’s supply closet to join me. I couldn’t wait to feel his lips on mine. His hands on my body. His cock in my pussy.
