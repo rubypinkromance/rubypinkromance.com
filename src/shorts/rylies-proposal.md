@@ -28,6 +28,8 @@ characters:
   - Max
 feature_image: 'covers/rylies-proposal.jpg'
 social_image: 'social/rylies-proposal-social.jpg'
+bundled_in:
+  - rylies-proposal-ebook
 ---
 
 “I just wanna get fucked!” Erica blurted.
