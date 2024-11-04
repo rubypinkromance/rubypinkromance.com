@@ -19,7 +19,7 @@ tags:
   - doggy style
   - creampie
   - cunnilingus
-  - threesome
+  - threesomes
   - ffm
 excerpt: When uptight Erica gets fired, Rylie offers a solution.
 characters:

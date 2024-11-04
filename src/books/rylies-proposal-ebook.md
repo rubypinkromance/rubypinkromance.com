@@ -20,7 +20,7 @@ tags:
   - doggy style
   - creampie
   - cunnilingus
-  - threesome
+  - threesomes
   - ffm
 characters:
   - Rylie

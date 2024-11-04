@@ -13,6 +13,8 @@ tags:
 excerpt: “I know I’m just your babysitter, but I have a favor to ask you.”
 feature_image: 'covers/oh-mr-johnson.jpg'
 social_image: 'social/oh-mr-johnson-social.jpg'
+bundled_in:
+  - relieving-the-tension-ebook
 ---
 
 Mr. Johnson was a perfect gentleman who would never dream of laying a hand on me, no matter how badly I wanted him to do so. One evening, I couldn’t take it anymore and sneaked into his home office. He was sitting on the couch, looking at something on his tablet.

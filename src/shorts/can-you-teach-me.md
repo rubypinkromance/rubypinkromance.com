@@ -20,6 +20,8 @@ characters:
 excerpt: Julie teaches Alice how to improve her dirty talk game.
 feature_image: 'covers/can-you-teach-me.jpg'
 social_image: 'social/can-you-teach-me-social.jpg'
+bundled_in:
+  - relieving-the-tension-ebook
 ---
 
 Sitting on the couch as a movie she’d barely paid attention to ended, Alice took a deep breath, gathered her courage, and turned to her roommate.

@@ -14,6 +14,8 @@ tags:
 excerpt: “Our presentation is tomorrow, and I can’t think straight around you right now.”
 feature_image: 'covers/relieving-the-tension.jpg'
 social_image: 'social/relieving-the-tension-social.jpg'
+bundled_in:
+  - relieving-the-tension-ebook
 ---
 
 “We have to do something about this sexual tension,” I said, stretching my back.

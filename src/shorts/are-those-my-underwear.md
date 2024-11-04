@@ -17,6 +17,8 @@ characters:
 excerpt: Rachel catches her roommate’s boyfriend jerking off in her room.
 feature_image: 'covers/are-those-my-underwear.jpg'
 social_image: 'social/are-those-my-underwear-social.jpg'
+bundled_in:
+  - relieving-the-tension-ebook
 ---
 
 “Woah, what the _fuck_, dude?” Rachel stood in the doorway to her room, towel-drying her hair and unable to believe what she saw. Her roommate’s boyfriend was reclining on her bed, pants around his ankles, rubbing his cock.

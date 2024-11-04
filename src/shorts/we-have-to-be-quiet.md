@@ -12,6 +12,8 @@ tags:
 excerpt: Remembering a time we had to try not to wake anyone while fooling around on a squeaky twin bed.
 feature_image: 'covers/we-have-to-be-quiet.jpg'
 social_image: 'social/we-have-to-be-quiet-social.jpg'
+bundled_in:
+  - relieving-the-tension-ebook
 ---
 
 It was four in the morning, and I was incredibly turned on. The room was dimly illuminated by starlight and the glowing green numbers on the alarm clock. I could hear rain spattering the window and the soft snores of a half-dozen of our friends. His hand was on my hip, and I could feel his warm breath on the back of my neck.
