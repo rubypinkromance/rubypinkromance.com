@@ -16,6 +16,8 @@ tags:
 excerpt: Christy acts out a fantasy by dominating her insufferable coworker.
 feature_image: 'covers/queen-of-marketing.jpg'
 social_image: 'social/queen-of-marketing-social.jpg'
+bundled_in:
+  - coat-check-room-ebook
 ---
 
 Christy was livid. She paced back and forth in her office, replaying the events of the meeting in her mind. Fucking James. He’d always been an insufferable prick, but now he was putting her team at risk.

@@ -15,6 +15,7 @@ tags:
 excerpt: “Oh my god, are you jerking off in here?”
 bundled_in:
   - seven-minutes-in-heaven
+  - coat-check-room-ebook
 feature_image: 'covers/shower-surprise.jpg'
 social_image: 'social/shower-surprise-social.jpg'
 ---

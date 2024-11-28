@@ -3,6 +3,7 @@ title: The Coat Check Room
 date: 2024-03-15
 category: BDSM
 tags:
+  - bdsm
   - submissive
   - edging
   - domination
