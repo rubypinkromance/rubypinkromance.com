@@ -7,8 +7,8 @@
     <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Ruby Pink Romance">
     <link rel="alternate" href="/feed/feed.json" type="application/json" title="Ruby Pink Romance">
     <link rel="stylesheet" href="/styles/style.css">
-    <link rel="preload" href="/fonts/mission_gothic_black_italic.woff2" as="font" type="font/woff2" crossorigin>
-    <meta name="generator" content="Eleventy v2.0.1">
+    <link rel="preload" href="/fonts/mission_gothic_black_italic.woff2" as="font" type="font/woff2" crossorigin="">
+    <meta name="generator" content="Eleventy v3.0.0">
     <!-- OPEN GRAPH -->
     <meta property="og:locale" content="en">
     <meta property="og:type" content="website">
@@ -61,7 +61,7 @@
 </div>
 <h2>Body Copy</h2>
 <p>Lorem ipsum dolor sit amet, <a href="http://example.com">test link</a> adipiscing elit. <strong>This is strong.</strong> Nullam dignissim convallis est. Quisque aliquam. <em>This is emphasized.</em> Donec faucibus. <strong>this is <em>strongly emphasized.</em></strong> Nunc iaculis suscipit dui. 5<sup>3</sup> = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. <cite>The New York Times</cite> (That's a citation). <u>Underline.</u> Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.</p>
-<p><abbr title='Hyper Text Markup Language'>HTML</abbr> and <abbr title='Cascading Style Sheets'>CSS</abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. To copy a file type <code>COPY <var>filename</var></code> and press <kbd>return</kbd>. <del>Dinner's at 5:00.</del> <ins>Let's make that 7.</ins> This <s>text</s> has been struck. This <mark>text</mark> has been marked.</p>
+<p><abbr title="Hyper Text Markup Language">HTML</abbr> and <abbr title="Cascading Style Sheets">CSS</abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. To copy a file type <code>COPY <var>filename</var></code> and press <kbd>return</kbd>. <del>Dinner's at 5:00.</del> <ins>Let's make that 7.</ins> This <s>text</s> has been struck. This <mark>text</mark> has been marked.</p>
 <p><small>This footnote is made with the <code>small</code> element.</small></p>
 <hr>
 <h2>Headings</h2>
@@ -223,7 +223,7 @@ code[class*='language-']::selection {
 <h2>Figures</h2>
 <p>Figures are usually used to refer to images:</p>
 <figure>
-  <img alt="" loading="lazy" width="1600" height="900" src="https://source.unsplash.com/1600x900/daily?goats">
+  <img decoding="async" loading="lazy" alt="" width="1600" height="900" src="/images/control-social-7q0mlJnGVh-450w.webp" srcset="/images/control-social-7q0mlJnGVh-450w.webp 450w, /images/control-social-7q0mlJnGVh-700w.webp 700w, /images/control-social-7q0mlJnGVh-825w.webp 825w, /images/control-social-7q0mlJnGVh-975w.webp 975w, /images/control-social-7q0mlJnGVh-1025w.webp 1025w, /images/control-social-7q0mlJnGVh-1280w.webp 1280w, /images/control-social-7q0mlJnGVh-1440w.webp 1440w, /images/control-social-7q0mlJnGVh-1600w.webp 1600w" sizes="(min-width: 64em) 783px, (min-width: 48em) 711px, (min-width: 42em) 633px, 100vw">
   <figcaption>
     <h4>Figure Heading</h4>
     <p>This is a placeholder image, with supporting caption.</p>
@@ -232,9 +232,9 @@ code[class*='language-']::selection {
 <p>Here, a part of a poem is marked up using figure:</p>
 <figure>
   <p>
-    ‘Twas brillig, and the slithy toves<br />
-    Did gyre and gimble in the wabe;<br />
-    All mimsy were the borogoves,<br />
+    ‘Twas brillig, and the slithy toves<br>
+    Did gyre and gimble in the wabe;<br>
+    All mimsy were the borogoves,<br>
     And the mome raths outgrabe.
   </p>
   <figcaption>
