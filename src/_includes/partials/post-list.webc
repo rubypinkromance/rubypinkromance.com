@@ -6,13 +6,12 @@
   >
     <a :href="post.page.url" class="post-list__media-link">
       <img
-        webc:is="eleventy-image"
         :src="imgPath(post.data.feature_image ?? 'covers/placeholder.jpg')"
         alt=""
         :loading="index < 8 ? 'eager' : 'lazy'"
         class="post-list__media"
-        :width="post.data.media.postList.widths"
         :sizes="post.data.media.postList.sizes"
+        :eleventy:widths="post.data.media.postList.widths"
       />
     </a>
     <p

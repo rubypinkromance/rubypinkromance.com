@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   series: 'temporary-cock',
   seriesTitle: 'Temporary Cock',
   category: 'Science Fiction',

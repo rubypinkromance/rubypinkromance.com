@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   series: 'lunch-buddies',
   seriesTitle: 'Lunch Buddies',
   feature_image: 'covers/lunch-buddies.jpg',

@@ -3,4 +3,4 @@ const shortcodes = {
   year: () => `${new Date().getFullYear()}`,
 };
 
-module.exports = shortcodes;
+export default shortcodes;

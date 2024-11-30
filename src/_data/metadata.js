@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   title: 'Ruby Pink Romance',
   url: 'https://rubypinkromance.com/',
   language: 'en',

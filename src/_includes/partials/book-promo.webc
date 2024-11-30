@@ -1,12 +1,11 @@
 <div class="book-promo">
   <a :href="book.amazon" class="book-promo__cover-link">
     <img
-      webc:is="eleventy-image"
       :src="imgPath(book.feature_image)"
       alt=""
       class="book-promo__cover-media"
-      :width="media.promo.widths"
       :sizes="media.promo.sizes"
+      :eleventy:widths="media.promo.widths"
     />
   </a>
   <div class="book-promo__blurb">

@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   series: 'control',
   seriesTitle: 'Control',
   category: 'Fan Fiction',
