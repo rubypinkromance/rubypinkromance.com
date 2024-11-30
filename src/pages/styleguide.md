@@ -229,7 +229,7 @@ And many more!
 Figures are usually used to refer to images:
 
 <figure>
-  <img alt="" loading="lazy" width="1600" height="900" src="https://source.unsplash.com/1600x900/daily?goats">
+  <img alt="" loading="lazy" width="1600" height="900" src="../_assets/_images/social/control-social.jpg">
   <figcaption>
     <h4>Figure Heading</h4>
     <p>This is a placeholder image, with supporting caption.</p>

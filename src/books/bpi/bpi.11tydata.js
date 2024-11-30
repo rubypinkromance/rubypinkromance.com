@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   series: 'bpi',
   seriesTitle: 'Bureau of Paranormal Investigation',
   seriesCategory: 'Paranormal',

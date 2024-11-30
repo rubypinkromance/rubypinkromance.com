@@ -91,4 +91,4 @@ const itemsBySeries = (collectionApi, tag) => {
   return posts;
 };
 
-module.exports = collections;
+export default collections;

@@ -1,6 +1,8 @@
 ---
 title: Goals
 permalink: goals/
+eleventyImport:
+  collections: ['shortsByYear']
 ---
 
 <script webc:setup>
@@ -47,7 +49,10 @@ permalink: goals/
       ></post-title
     ></a>
     <small
-      >(<template webc:nokeep @text="round(wordCount(post.content))"></template>
+      >(<template
+        webc:nokeep
+        @text="round(wordCount(post.rawInput))"
+      ></template>
       words)</small
     >
   </li>

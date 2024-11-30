@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   series: 'only-one-bed',
   seriesTitle: 'Only One Bed',
   feature_image: 'covers/only-one-bed.jpg',

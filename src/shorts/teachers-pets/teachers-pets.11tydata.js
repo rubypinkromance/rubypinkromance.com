@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   series: 'teachers-pets',
   seriesTitle: 'Teacher’s Pets',
   category: 'College Sex',

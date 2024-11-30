@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   series: 'only-one-bed',
   seriesTitle: 'Only One Bed',
   seriesCategory: 'Vacation Sex',

@@ -1,6 +1,16 @@
-const path = require('path');
-const { DateTime } = require('luxon');
-const { wordCountCallback } = require('eleventy-plugin-wordcount');
+import path from 'path';
+import { DateTime } from 'luxon';
+import { wordCountCallback } from 'eleventy-plugin-wordcount';
+
+const imageAssetsPath = path.join('_assets', '_images');
+
+export const resolvedImgPath = (relativeFilePath) => {
+  return path.resolve('src', imageAssetsPath, relativeFilePath);
+};
+
+export const imgPath = (relativeFilePath) => {
+  return path.join('/', imageAssetsPath, relativeFilePath);
+};
 
 const filters = {
   // Filter to parse a string as JSON
@@ -18,10 +28,7 @@ const filters = {
   },
 
   // Given a relative image file page, return the full path
-  imgPath: (relativeFilePath) => {
-    const imageAssetsPath = path.join('src', '_assets', '_images');
-    return path.resolve(imageAssetsPath, relativeFilePath);
-  },
+  imgPath: imgPath,
 
   // Date formatting (human readable)
   // @see https://moment.github.io/luxon/#/formatting?id=table-of-tokens
@@ -102,10 +109,10 @@ const filters = {
   // Get the word count total for an array of posts
   wordCountPosts: (array) => {
     return array.reduce(
-      (acc, post) => acc + wordCountCallback(post.content),
+      (acc, post) => acc + wordCountCallback(post.rawInput),
       0,
     );
   },
 };
 
-module.exports = filters;
+export default filters;

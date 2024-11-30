@@ -9,13 +9,12 @@ prism: true
     webc:if="feature_image && !hide_feature_image"
   >
     <img
-      webc:is="eleventy-image"
       :src="imgPath(feature_image)"
       alt=""
       loading="eager"
       class="publication__cover-media"
       :sizes="media.publication.sizes"
-      :width="media.publication.widths"
+      :eleventy:widths="media.publication.widths"
     />
     <figcaption webc:if="amazon">
       <a :href="amazon" class="book__buy">Buy on Amazon</a>
