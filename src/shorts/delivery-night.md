@@ -18,6 +18,8 @@ characters:
 excerpt: Don’t go inside, even if they invite you in!
 feature_image: 'covers/delivery-night.jpg'
 social_image: 'social/delivery-night-social.jpg'
+bundled_in:
+  - delivery-night-ebook
 ---
 
 “Jax, my man!” Gio looked up from assembling a pizza as I walked in the back door. “What are you doing here? I thought Omar was driving tonight?”

@@ -15,6 +15,8 @@ characters:
 excerpt: Divya can’t tell anyone about her secret alien rendezvous.
 feature_image: 'covers/treaty-station.jpg'
 social_image: 'social/treaty-station-social.jpg'
+bundled_in:
+  - delivery-night-ebook
 ---
 
 “Ambassador Patel, we are approaching Treaty Station,” announced the ship’s AI pilot.

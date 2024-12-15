@@ -16,6 +16,7 @@ characters:
 excerpt: I woke up to find a ghostly woman masturbating before me.
 bundled_in:
   - seven-minutes-in-heaven
+  - delivery-night-ebook
 ---
 
 I awoke with a start when I realized I wasn’t alone. The ghost was across the room from me, laying on the bed. I don’t know what surprised me most—that I had finally seen a ghost after so many months of searching, or that it appeared to be masturbating.

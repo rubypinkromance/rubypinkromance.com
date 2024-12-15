@@ -6,6 +6,10 @@
   font-size: 0.9em;
   gap: 1em;
   padding: 1em;
+
+  + .book-promo {
+    margin-top: 1em;
+  }
 }
 
 .book-promo__cover-link {
