@@ -26,7 +26,7 @@ social_image: 'social/stacys-dad-social.jpg'
 
 Bella’s heart pounded as she rang the doorbell at her best friend Stacy’s house. This was it. It was finally going to happen! She’d expected to be nervous, but more than anything, she felt anticipation. As Stacy’s dad approached, she quickly adjusted her skirt.
 
-He answered the door barefoot, wearing jeans and a concert t-shirt from ten years before she was born. As usual, she was struck by his good looks. He had a strong jaw, peppered with stubble. There was more gray than black in his hair, but he still had broad shoulders and a healthy physique.
+He answered the door barefoot, wearing jeans and a concert T-shirt from ten years before she was born. As usual, she was struck by his good looks. He had a strong jaw, peppered with stubble. There was more gray than black in his hair, but he still had broad shoulders and a healthy physique.
 
 “Hi, Mr. Johnson!” She smiled brightly, bouncing on her heels when he opened the door. He clearly struggled not to notice the way it made her boobs move under her shirt. She never wore a bra to Stacy’s house.
 
@@ -318,7 +318,7 @@ She tried to focus on him, one hand braced on the mattress, and the other wrappe
 
 But a moment later, he reached deeper with his tongue, making her moan in surprise. His cock popped out of her mouth, slapping wetly against her cheek. She could only pant in astonishment as he licked and sucked and kissed her. When his tongue flicked her clit, she cried out, and desperately pulled his cock back in her mouth.
 
-He groaned and lifting his hips to meet her. She gagged, pulled back, and tried to do it again. He pushed his tongue further, spreading her open, licking deeper and deeper. She felt his cock against the back of her throat, and tried to let him in, but he was too big.
+He groaned and lifted his hips to meet her. She gagged, pulled back, and tried to do it again. He pushed his tongue further, spreading her open, licking deeper and deeper. She felt his cock against the back of her throat, and tried to let him in, but he was too big.
 
 Choking, she pulled him out, and lay her head on his hip, gasping as he sucked hard on her clit, his tongue moving in tiny circles. His hands held her locked in place, grinding her against his face. She felt a growing pressure and cried his name, which seemed to only encourage him.
 
@@ -326,11 +326,11 @@ Distractedly, she stroked his cock, licking the base and moaning with each pass 
 
 She went limp, releasing every muscle that she hadn’t realized she’d been tensing. Waves of pleasure washed over her, and he held her tightly through it, until she rolled onto her back, shivering with release.
 
-“Oh! Oh, wow. Oh, Rich!” She panted.
+“Oh! Oh, wow. Oh, Rich!” she panted.
 
 She raised her head, and saw with a rush that he was urgently stroking his cock. His face was glistening with her wetness, and he stared at her with naked hunger in his eyes. Unlike the calm, firm strokes she’d seen him use before, he was now fucking his hand. Slick with her saliva, he lifted his hips with each stroke, staring at her, clearly imagining that he was burying himself in her.
 
-“Can I get on top of you?” She whispered.
+“Can I get on top of you?” she whispered.
 
 “Fuck yes,” he said, straining.
 
@@ -358,7 +358,7 @@ Each time he thrust into her, she cried out. All this time, she’d wanted this.
 
 “Oh yes! Do it!”
 
-“Where?” He said through strained teeth.
+“Where?” he said through strained teeth.
 
 “Inside!” Her pussy clenched.
 
@@ -368,7 +368,7 @@ Each time he thrust into her, she cried out. All this time, she’d wanted this.
 
 His body went rigid below her, and she felt a rhythmic pulsing deep inside. She moaned and laid her head on his chest, savoring the sensation she’d dreamed about for so long. Her insides fluttered, squeezing his girth as a warm feeling radiated through her entire body.
 
-When he could breathe again, he wrapped his arms around her pulled her into a warm kiss. They held each other like that until he softened and slipped out. She rolled onto her back, giggling at the sensation of his cum spilling from her lips.
+When he could breathe again, he wrapped his arms around her and pulled her into a warm kiss. They held each other like that until he softened and slipped out. She rolled onto her back, giggling at the sensation of his cum spilling from her lips.
 
 When she returned from the bathroom, and snuggled up against him, he pulled the blankets up. The storm had passed on, and the room was bathed in silver moonlight. She sighed happily.
 
