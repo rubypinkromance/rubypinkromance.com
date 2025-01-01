@@ -25,8 +25,8 @@ const collections = {
     return tags;
   },
 
-  pubsByCharacter: (collectionApi) => {
-    const posts = collectionApi.getFilteredByTag('pubs');
+  shortsByCharacter: (collectionApi) => {
+    const posts = collectionApi.getFilteredByTag('shorts');
     let characters = {};
     for (let post of posts) {
       if (!post.data.characters) continue;

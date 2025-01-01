@@ -62,7 +62,7 @@ prism: true
           class="publication__footer-list-item"
         >
           <a
-            webc:if="$data.collections.pubsByCharacter[character].length > 1"
+            webc:if="$data.collections.shortsByCharacter[character].length > 1"
             :href="`/characters/${slugify(character)}/`"
             @text="character"
           ></a

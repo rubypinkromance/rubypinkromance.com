@@ -1,12 +1,12 @@
 ---js
 {
   pagination: {
-    data: 'collections.pubsByCharacter',
+    data: 'collections.shortsByCharacter',
     size: 1,
     before: function(paginationData, fullData) {
       // Filter out orphan tags and fake tags
       return paginationData.filter(character => {
-        return fullData.collections.pubsByCharacter[character].length > 1;
+        return fullData.collections.shortsByCharacter[character].length > 1;
       }).map(character => {
         return {
           name: character,
@@ -34,7 +34,7 @@
 </header>
 
 <post-list
-  :posts="collections.pubsByCharacter[character.name].reverse()"
+  :posts="collections.shortsByCharacter[character.name].reverse()"
 ></post-list>
 
 <p class="post-list__see-all">
