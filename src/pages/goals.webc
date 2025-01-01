@@ -14,7 +14,7 @@ eleventyImport:
     });
 
   const now = new Date();
-  const year = now.getFullYear();
+  const year = 2024;
   const posts = $data.collections.shortsByYear[year];
 
   const sortedYears = Object.keys($data.collections.shortsByYear)
