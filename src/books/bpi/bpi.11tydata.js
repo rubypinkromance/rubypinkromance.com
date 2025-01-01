@@ -4,7 +4,6 @@ export default {
   seriesCategory: 'Paranormal',
   category: 'Paranormal',
   tags: ['urban fantasy', 'paranormal', 'redhead'],
-  characters: ['Gillian Reid'],
   seriesExcerpt:
     'Fans of the X-Files will love this sexy new paranormal crime series',
   seriesFeatureImage: 'covers/bpi-b01-close-encounters-with-agent-reid.jpg',

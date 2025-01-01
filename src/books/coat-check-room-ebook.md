@@ -13,6 +13,12 @@ tags:
   - control
   - office
   - coworker
+characters:
+  - Liz
+  - Mike
+  - Kara
+  - Christy
+  - James
 excerpt: Three steamy short stories exploring domination and submission.
 blurb: Three steamy short stories exploring domination and submission.
 amazon: https://www.amazon.com/dp/B0DP52V991

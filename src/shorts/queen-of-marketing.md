@@ -13,6 +13,9 @@ tags:
   - coworkers
   - cfnm
   - nylons
+characters:
+  - Christy
+  - James
 excerpt: Christy acts out a fantasy by dominating her insufferable coworker.
 feature_image: 'covers/queen-of-marketing.jpg'
 social_image: 'social/queen-of-marketing-social.jpg'

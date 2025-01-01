@@ -14,6 +14,12 @@ tags:
   - vampire
   - succubus
   - ghost
+characters:
+  - Holly
+  - Divya Patel
+  - Eve
+  - Mina
+  - Jackson
 excerpt: Three heart-pounding stories of ghosts, vampires, aliens, and more!
 blurb: Three heart-pounding stories of ghosts, vampires, aliens, and more!
 amazon: https://www.amazon.com/dp/B0DQJS5646

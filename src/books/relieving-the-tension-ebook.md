@@ -26,6 +26,8 @@ characters:
   - Norm
   - Alice
   - Julie
+  - Jo
+  - Rich
 excerpt: Five steamy short stories about women who know what they want.
 blurb: Five steamy short stories about women who know what they want.
 amazon: https://www.amazon.com/dp/B0DLV7PRGW

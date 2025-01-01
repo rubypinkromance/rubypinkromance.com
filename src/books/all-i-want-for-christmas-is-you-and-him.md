@@ -8,10 +8,6 @@ tags:
   - threesomes
   - mmf
   - marriage
-characters:
-  - Izzy
-  - Paul
-  - Joe
 excerpt: Izzy knows what she wants for Christmas, but isn’t sure how to ask for it.
 amazon: https://www.amazon.com/dp/B01NBNJ2AU
 feature_image: covers/all-i-want-for-christmas-is-you-and-him.jpg
