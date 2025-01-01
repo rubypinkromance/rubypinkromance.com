@@ -10,6 +10,9 @@ tags:
   - blowjob
   - fellatio
   - creampie
+characters:
+  - Jo
+  - Rich
 excerpt: “I know I’m just your babysitter, but I have a favor to ask you.”
 feature_image: 'covers/oh-mr-johnson.jpg'
 social_image: 'social/oh-mr-johnson-social.jpg'
