@@ -108,6 +108,9 @@ const filters = {
 
   // Get the word count total for an array of posts
   wordCountPosts: (array) => {
+    // If 0 is returned, the word count attribute is stripped from the markup
+    // Since we're rounding the value anyway, 1 behaves the same as 0.
+    if (!array || !array.length) return 1;
     return array.reduce(
       (acc, post) => acc + wordCountCallback(post.rawInput),
       0,

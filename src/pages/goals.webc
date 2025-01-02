@@ -6,36 +6,35 @@ eleventyImport:
 ---
 
 <script webc:setup>
-  const roundingIncrement = 100;
-  const round = (number) =>
+  const round = (number, increment = 100) =>
     number.toLocaleString('en', {
-      roundingIncrement,
+      roundingIncrement: increment,
       maximumFractionDigits: 0,
     });
 
   const now = new Date();
-  const year = 2024;
-  const posts = $data.collections.shortsByYear[year];
+  const currentYear = now.getFullYear();
+  const posts = $data.collections.shortsByYear[currentYear] || [];
 
   const sortedYears = Object.keys($data.collections.shortsByYear)
     .sort()
     .reverse()
-    .splice(1);
+    .filter((year) => year !== currentYear.toString());
 </script>
 
 <header class="page__header">
   <h1 class="page__title">
-    <template webc:nokeep @text="year"></template> Goals
+    <template webc:nokeep @text="currentYear"></template> Goals
   </h1>
 </header>
 
 <writing-progress
   :word-count="wordCountPosts(posts)"
-  :round="roundingIncrement"
+  :round="100"
 ></writing-progress>
 <script webc:keep type="module" src="/scripts/writing-progress.js"></script>
 
-<ol class="goals__post-list">
+<ol webc:if="posts.length" class="goals__post-list">
   <li webc:for="post of posts" :key="post.url">
     <a :href="post.url"
       ><series-title
@@ -58,7 +57,11 @@ eleventyImport:
   </li>
 </ol>
 
-<template webc:nokeep @html="postGraph(posts)"></template>
+<div
+  webc:if="posts.length"
+  class="goals__post-graph"
+  @html="postGraph(posts)"
+></div>
 
 <hr />
 
@@ -69,11 +72,8 @@ eleventyImport:
     <li webc:for="loopYear of sortedYears">
       <template webc:nokeep @text="loopYear"></template>
       <small
-        ><template
-          webc:nokeep
-          @text="wordCountPosts($data.collections.shortsByYear[loopYear]).toLocaleString('en', {roundingIncrement: 1000, maximumFractionDigits: 0})"
-        ></template>
-      </small>
+        @text="round(wordCountPosts($data.collections.shortsByYear[loopYear]), 1000)"
+      ></small>
     </li>
   </ul>
 </div>
