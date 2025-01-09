@@ -16,6 +16,8 @@ characters:
 excerpt: Two life models find themselves in an intimate pose.
 feature_image: 'covers/stop-moving.jpg'
 social_image: 'social/stop-moving-social.jpg'
+bundled_in:
+  - stop-moving-ebook
 ---
 
 “Stop moving!” The artist grumbled at us.

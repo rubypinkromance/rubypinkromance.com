@@ -16,6 +16,8 @@ characters:
 excerpt: A nurse offers a helping hand to a cute patient.
 feature_image: 'covers/do-you-need-assistance.jpg'
 social_image: 'social/do-you-need-assistance-social.jpg'
+bundled_in:
+  - stop-moving-ebook
 ---
 
 “It’s half-price margarita night at Tito’s,” Sandra said, rummaging in her purse as she walked to the front door. “Are you coming?”

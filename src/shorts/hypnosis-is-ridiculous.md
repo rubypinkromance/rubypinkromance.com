@@ -18,6 +18,8 @@ characters:
 excerpt: “I’ll bet you a hundred bucks I can hypnotize you.”
 feature_image: 'covers/hypnosis-is-ridiculous.jpg'
 social_image: 'social/hypnosis-is-ridiculous-social.jpg'
+bundled_in:
+  - stop-moving-ebook
 ---
 
 “Hey, Lauren.” Brad grinned at her from across the snack table. “Did I ever tell you I know hypnosis?” He was prone to outrageous claims like this. Once, he’d spent weeks trying to convince her that he was descended from royalty.
