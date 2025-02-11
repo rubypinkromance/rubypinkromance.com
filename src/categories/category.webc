@@ -1,0 +1,35 @@
+---js
+{
+  pagination: {
+    data: 'collections.shortsByCategory',
+    size: 1,
+		before: function(paginationData, fullData) {
+			return paginationData.map(category => {
+        return {
+          title: category,
+          slug: this.slugify(category),
+        };
+      });
+		},
+    alias: 'category',
+  },
+  layout: 'layouts/page.webc',
+  eleventyComputed: {
+    title: (data) => {
+      return `${data.category.title} Stories`;
+    },
+  },
+  permalink: (data) => {
+    return `shorts/${data.category.slug}/`;
+  },
+  eleventyExcludeFromCollections: true,
+}
+---
+
+<header class="page__header">
+  <h1 class="page__title" @text="title"></h1>
+</header>
+
+<post-list :posts="collections.shortsByCategory[ category.title ].reverse()"></post-list>
+
+<p class="post-list__see-all"><a href="/categories/">See all categories</a></p>

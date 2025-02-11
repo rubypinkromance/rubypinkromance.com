@@ -76,6 +76,10 @@ const filters = {
     );
   },
 
+  filterSeries: (collection) => {
+    return collection.filter((item) => item.data.series);
+  },
+
   // Return a subset of an array based on a single attribute value
   // @see https://11ty.rocks/eleventyjs/data-arrays/#pluck-filter
   pluck: (array, attr, value) => {

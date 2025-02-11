@@ -6,5 +6,5 @@ export default {
   seriesCategory: 'College Sex',
   seriesExcerpt: 'This one wild night at robotics camp…',
   social_image: 'social/one-wild-night-social.jpg',
-  bundled_in: ['one-wild-night'],
+  bundled_in: ['one-wild-night-ebook'],
 };

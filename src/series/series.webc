@@ -1,0 +1,12 @@
+---
+permalink: /shorts/series/
+layout: layouts/page.webc
+title: Series
+---
+
+<header class="page__header">
+  <h1 class="page__title">All Series</h1>
+  <p class="page__description">A list of all series.</p>
+</header>
+
+<post-list :posts="filterSeries(collections.shortsBySeries)"></post-list>

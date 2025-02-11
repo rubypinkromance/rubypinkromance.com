@@ -1,0 +1,18 @@
+---
+permalink: categories/
+layout: layouts/page.webc
+title: Categories
+---
+
+<header class="page__header">
+  <h1 class="page__title">All Categories</h1>
+  <p class="page__description">A list of all categories.</p>
+</header>
+
+<ol class="post-list">
+  <category-list-item
+    webc:for="(category, posts) in $data.collections.shortsByCategory"
+    :category="category"
+    :posts="posts"
+  ></category-list-item>
+</ol>

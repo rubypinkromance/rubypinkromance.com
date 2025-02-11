@@ -6,5 +6,5 @@ export default {
   seriesCategory: 'Office Sex',
   seriesExcerpt: 'Ash helps Tony relieve an awkward erection in her office.',
   social_image: 'social/lunch-buddies-social.jpg',
-  bundled_in: ['lunch-buddies'],
+  bundled_in: ['lunch-buddies-ebook'],
 };

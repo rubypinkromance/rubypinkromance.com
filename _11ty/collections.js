@@ -7,6 +7,40 @@ const collections = {
     return collectionApi.getFilteredByTag('shorts').reverse();
   },
 
+  shortsInSeries: (collectionApi) => {
+    const posts = collectionApi.getFilteredByTag('shorts');
+    let allSeries = {};
+    for (let post of posts) {
+      const series = post.data.series;
+      allSeries[series] ??= [];
+      allSeries[series].push(post);
+    }
+    // sort and restructure the allSeries
+    allSeries = Object.fromEntries(
+      Object.keys(allSeries)
+        .sort()
+        .map((key) => [key, allSeries[key]]),
+    );
+    return allSeries;
+  },
+
+  shortsByCategory: (collectionApi) => {
+    const posts = collectionApi.getFilteredByTag('shorts');
+    let categories = {};
+    for (let post of posts) {
+      const category = post.data.category;
+      categories[category] ??= [];
+      categories[category].push(post);
+    }
+    // sort and restructure the categories
+    categories = Object.fromEntries(
+      Object.keys(categories)
+        .sort()
+        .map((key) => [key, categories[key]]),
+    );
+    return categories;
+  },
+
   shortsByTag: (collectionApi) => {
     const posts = collectionApi.getFilteredByTag('shorts');
     let tags = {};
@@ -74,7 +108,7 @@ const itemsBySeries = (collectionApi, tag) => {
         return {
           page: {
             ...post.page,
-            url: `/${post.data.tags.includes('books') ? 'books' : 'shorts'}/${post.data.series}/`,
+            url: `/${post.data.tags.includes('books') ? 'books' : 'shorts/series'}/${post.data.series}/`,
           },
           data: {
             ...post.data,
