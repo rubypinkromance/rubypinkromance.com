@@ -30,6 +30,8 @@
   <h1 class="page__title" @text="title"></h1>
 </header>
 
-<post-list :posts="collections.shortsByCategory[ category.title ].reverse()"></post-list>
+<post-list
+  :posts="collections.shortsByCategory[ category.title ].reverse()"
+></post-list>
 
 <p class="post-list__see-all"><a href="/categories/">See all categories</a></p>
