@@ -8,6 +8,9 @@ tags:
   - panties
   - handjob
   - facial
+characters:
+  - Sydney
+  - Ezra
 excerpt: Sydney helps Ezra escape a bully by wearing her clothes.
 feature_image: 'covers/graduation-present.jpg'
 social_image: 'social/graduation-present-social.jpg'
