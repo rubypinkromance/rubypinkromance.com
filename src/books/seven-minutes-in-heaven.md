@@ -31,25 +31,25 @@ Some stories are about couples, some about coworkers, and some about strangers. 
 
 **Table of Contents:**
 
-- [Seven Minutes in Heaven](/shorts/seven-minutes-in-heaven/)
-- [Crowded Train](/shorts/crowded-train/)
-- [Teamwork](/shorts/teamwork/)
-- [The Neglected Serving Girl](/shorts/neglected-serving-girl/)
-- [A Birthday Surprise](/shorts/birthday-surprise/)
-- [Winning the Bet, Part 1](/shorts/winning-the-bet/1-show-me/)
-- [Winning the Bet, Part 2](/shorts/winning-the-bet/2-took-you-long-enough/)
-- [Winning the Bet, Part 3](/shorts/winning-the-bet/3-caught-in-the-act/)
-- [Winning the Bet, Part 4](/shorts/winning-the-bet/4-at-the-movies/)
-- [Winning the Bet, Part 5](/shorts/winning-the-bet/5-a-week-of-teasing/)
-- [Wrong Room](/shorts/wrong-room/)
-- [Set Your Phone To Vibrate](/shorts/set-your-phone-to-vibrate/)
-- [I Still Dream About That Ass](/shorts/i-still-dream-about-that-ass/)
-- [Dressing Room Creampie](/shorts/dressing-room-creampie/)
-- [Pulling Out Sucks](/shorts/pulling-out-sucks/)
-- [Remote Control Lover](/shorts/remote-control-lover/)
-- [Shower Surprise](/shorts/shower-surprise/)
-- [Morning Wood](/shorts/morning-wood/)
-- [The Moaning Ghost](/shorts/moaning-ghost/)
-- [We Get By With a Little Help From Her Friend](/shorts/we-get-by-with-a-little-help-from-her-friend/)
-- [Back-Door Physical Therapy](/shorts/back-door-physical-therapy/)
-- [Teacher’s Pets, Part 1: the Power Couple](/shorts/teachers-pets/1-power-couple/)
+- Seven Minutes in Heaven
+- Crowded Train
+- Teamwork
+- The Neglected Serving Girl
+- A Birthday Surprise
+- Winning the Bet, Part 1
+- Winning the Bet, Part 2
+- Winning the Bet, Part 3
+- Winning the Bet, Part 4
+- Winning the Bet, Part 5
+- Wrong Room
+- Set Your Phone To Vibrate
+- I Still Dream About That Ass
+- Dressing Room Creampie
+- Pulling Out Sucks
+- Remote Control Lover
+- Shower Surprise
+- Morning Wood
+- The Moaning Ghost
+- We Get By With a Little Help From Her Friend
+- Back-Door Physical Therapy
+- Teacher’s Pets, Part 1: the Power Couple

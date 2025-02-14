@@ -1,0 +1,44 @@
+---js
+{
+  pagination: {
+    data: 'collections.shortsBySeries',
+    size: 1,
+    before: function(paginationData, fullData) {
+      return paginationData.filter(short => short.data.series).map(short => {
+        return {
+          title: short.data.seriesTitle,
+          slug: short.data.series,
+          excerpt: short.data.seriesExcerpt,
+        };
+      });
+    },
+    alias: 'seriesObject',
+  },
+  layout: 'layouts/page.webc',
+  eleventyComputed: {
+    title: (data) => {
+      return `${data.seriesObject.title} Series`;
+    },
+  },
+  permalink: (data) => {
+    return `shorts/series/${data.seriesObject.slug}/`;
+  },
+  eleventyExcludeFromCollections: true,
+  og_type: 'website',
+}
+---
+
+<header class="page__header">
+  <h1 class="page__title" @text="title"></h1>
+  <p
+    webc:if="seriesObject.excerpt"
+    class="page__description"
+    @text="seriesObject.excerpt"
+  ></p>
+</header>
+
+<post-list
+  :posts="pluck(collections.shortsByRecent, 'series', seriesObject.slug).reverse()"
+></post-list>
+
+<p class="post-list__see-all"><a href="/shorts/series/">See all series</a></p>

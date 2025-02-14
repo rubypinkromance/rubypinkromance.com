@@ -20,7 +20,7 @@ prism: true
 
   <header class="publication__header">
     <p class="publication__series intro" webc:if="series && number">
-      <a :href="`/shorts/${series}/`">
+      <a :href="`/shorts/series/${series}/`">
         <series-title :series-title="seriesTitle" :number="number" />
       </a>
     </p>

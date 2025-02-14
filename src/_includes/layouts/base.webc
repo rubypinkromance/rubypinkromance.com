@@ -12,12 +12,6 @@
       type="application/atom+xml"
       :title="metadata.title"
     />
-    <link
-      rel="alternate"
-      href="/feed/feed.json"
-      type="application/json"
-      :title="metadata.title"
-    />
     <link webc:keep rel="stylesheet" href="/styles/style.css" />
     <link
       rel="preload"
@@ -136,12 +130,8 @@
               @text="link.name"
             ></a>
           </li>
-          <li webc:for="link of feeds" class="app-footer__social-item">
-            <a
-              class="app-footer__social-link"
-              :href="link.url"
-              @text="link.name"
-            ></a>
+          <li class="app-footer__social-item">
+            <a class="app-footer__social-link" href="/feed/feed.xml">Feed</a>
           </li>
         </ul>
       </div>
