@@ -15,6 +15,7 @@ characters:
   - Kara
   - Victoria
 excerpt: Don’t think about how desperately you need to cum.
+number: 1
 feature_image: 'covers/karas-challenge.jpg'
 social_image: 'social/karas-challenge-social.jpg'
 ---
