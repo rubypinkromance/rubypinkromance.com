@@ -144,7 +144,7 @@ Kara didn’t stop until Victoria suddenly cried out, arching her back. Hot flui
 
 Kara rocked back on her heels, gasping for breath and wiping her lover’s juices from her chin. Victoria had curled tightly into a ball, shivering as the final waves of pleasure rolled over her. After a minute, she relaxed, then stretched wide and sat up.
 
-“Alright, puppy,” she chucked, seeing Kara’s triumphant expression. “That was nicely done. Because you worked so hard to please me, I’m feeling generous.” She tapped a finger on her lower lip, thinking. “I’m only going to spank you fifteen times, instead of thirty.”
+“Alright, puppy,” she chuckled, seeing Kara’s triumphant expression. “That was nicely done. Because you worked so hard to please me, I’m feeling generous.” She tapped a finger on her lower lip, thinking. “I’m only going to spank you fifteen times, instead of thirty.”
 
 “What? A spanking?”
 
