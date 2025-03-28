@@ -84,12 +84,12 @@
     p-queue "^6.6.2"
     sharp "^0.33.5"
 
-"@11ty/eleventy-navigation@0.3.5":
-  version "0.3.5"
-  resolved "https://registry.npmjs.org/@11ty/eleventy-navigation/-/eleventy-navigation-0.3.5.tgz"
-  integrity sha512-4aKW5aIQDFed8xs1G1pWcEiFPcDSwZtA4IH1eERtoJ+Xy+/fsoe0pzbDmw84bHZ9ACny5jblENhfZhcCxklqQw==
+"@11ty/eleventy-navigation@1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@11ty/eleventy-navigation/-/eleventy-navigation-1.0.2.tgz#07ce0a176e29a56c88108a443b62410f5c83483d"
+  integrity sha512-2LZf2MW0w9gW4uTVjyyd8f7rf9HHtRB+RX+p9U0A5FR0efv8mAjDiutdqjo8HrljT6W+ad47EtZEMVL8PwaMRw==
   dependencies:
-    dependency-graph "^0.11.0"
+    dependency-graph "^1.0.0"
 
 "@11ty/eleventy-plugin-bundle@^1.0.4":
   version "1.0.5"
