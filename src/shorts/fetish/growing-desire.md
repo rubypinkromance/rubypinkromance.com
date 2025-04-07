@@ -9,9 +9,13 @@ tags:
   - blowjob
   - cowgirl
   - creampie
+characters:
+  - Mary
+  - Adam
 excerpt: Mary is surprised to learn her best friend has a pregnancy fetish.
 feature_image: 'covers/growing-desire.jpg'
 social_image: 'social/growing-desire-social.jpg'
+bundled_in: ['growing-desire-ebook']
 ---
 
 Mary watched enviously as the characters in the rom-com finally fell into bed together. She hadn’t had sex for three months. Normally, she’d just find a guy on a hookup app, meet him for coffee to be sure he wasn’t a creep, and bring him home. But ever since her pregnancy started showing, guys had developed an alarming reluctance to touch her. They would say hi, notice her belly, get nervous, and make an excuse to leave.

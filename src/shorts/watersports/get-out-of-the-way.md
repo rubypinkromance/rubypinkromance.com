@@ -16,6 +16,7 @@ characters:
 excerpt: Rachel needs to pee, but Norm won’t leave the bathroom.
 feature_image: 'covers/get-out-of-the-way.jpg'
 social_image: 'social/get-out-of-the-way-social.jpg'
+bundled_in: ['growing-desire-ebook']
 ---
 
 “Norm!” Rachel called as she knocked on the bathroom door again. “Hurry up!”

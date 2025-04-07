@@ -14,6 +14,7 @@ characters:
 excerpt: Sydney helps Ezra escape a bully by wearing her clothes.
 feature_image: 'covers/graduation-present.jpg'
 social_image: 'social/graduation-present-social.jpg'
+bundled_in: ['growing-desire-ebook']
 ---
 
 “Syd, what the fuck am I gonna do?” Ezra groaned. “School’s almost out, and that meathead’s gonna kill me as soon as I step outside.”
