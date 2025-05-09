@@ -34,7 +34,7 @@
     "@spaceninja/writing-progress": "1.1.0",
     "eleventy-plugin-wordcount": "1.0.5",
     "eslint": "9.26.0",
-    "eslint-config-prettier": "10.1.3",
+    "eslint-config-prettier": "10.1.5",
     "luxon": "3.6.1",
     "npm-run-all2": "7.0.2",
     "prettier": "3.5.3",
