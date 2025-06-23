@@ -34,6 +34,6 @@
   <h1 class="page__title" @text="title"></h1>
 </header>
 
-<post-list :posts="collections[ tag.title ].reverse()"></post-list>
+<post-list :posts="collections.shortsByTag[ tag.title ]"></post-list>
 
 <p class="post-list__see-all"><a href="/tags/">See all tags</a></p>

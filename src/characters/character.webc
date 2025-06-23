@@ -33,9 +33,7 @@
   <h1 class="page__title" @text="title"></h1>
 </header>
 
-<post-list
-  :posts="collections.shortsByCharacter[character.name].reverse()"
-></post-list>
+<post-list :posts="collections.shortsByCharacter[character.name]"></post-list>
 
 <p class="post-list__see-all">
   <a href="/characters/">See all recurring characters</a>

@@ -12,5 +12,5 @@
 </header>
 
 <post-list
-  :posts="pluck(collections.booksByRecent, 'series', 'bpi').reverse()"
+  :posts="pluck(collections.booksByRecent, 'series', 'bpi')"
 ></post-list>

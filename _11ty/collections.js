@@ -1,14 +1,14 @@
 const collections = {
   booksByRecent: (collectionApi) => {
-    return collectionApi.getFilteredByTag('books').reverse();
+    return collectionApi.getFilteredByTag('books').toReversed();
   },
 
   shortsByRecent: (collectionApi) => {
-    return collectionApi.getFilteredByTag('shorts').reverse();
+    return collectionApi.getFilteredByTag('shorts').toReversed();
   },
 
   shortsInSeries: (collectionApi) => {
-    const posts = collectionApi.getFilteredByTag('shorts');
+    const posts = collectionApi.getFilteredByTag('shorts').toReversed();
     let allSeries = {};
     for (let post of posts) {
       const series = post.data.series;
@@ -25,7 +25,7 @@ const collections = {
   },
 
   shortsByCategory: (collectionApi) => {
-    const posts = collectionApi.getFilteredByTag('shorts');
+    const posts = collectionApi.getFilteredByTag('shorts').toReversed();
     let categories = {};
     for (let post of posts) {
       const category = post.data.category;
@@ -42,7 +42,7 @@ const collections = {
   },
 
   shortsByTag: (collectionApi) => {
-    const posts = collectionApi.getFilteredByTag('shorts');
+    const posts = collectionApi.getFilteredByTag('shorts').toReversed();
     let tags = {};
     for (let post of posts) {
       for (let tag of post.data.tags) {
@@ -60,7 +60,7 @@ const collections = {
   },
 
   shortsByCharacter: (collectionApi) => {
-    const posts = collectionApi.getFilteredByTag('shorts');
+    const posts = collectionApi.getFilteredByTag('shorts').toReversed();
     let characters = {};
     for (let post of posts) {
       if (!post.data.characters) continue;
@@ -77,7 +77,7 @@ const collections = {
   },
 
   shortsByYear: (collectionApi) => {
-    const posts = collectionApi.getFilteredByTag('shorts').reverse();
+    const posts = collectionApi.getFilteredByTag('shorts').toReversed();
     const years = {};
     for (let post of posts) {
       let key = post.page.date.getFullYear();
@@ -96,7 +96,7 @@ const itemsBySeries = (collectionApi, tag) => {
   const series = [];
   const posts = collectionApi
     .getFilteredByTag(tag)
-    .reverse()
+    .toReversed()
     .map((post) => {
       if (post.data.series) {
         if (series.includes(post.data.series)) return undefined;

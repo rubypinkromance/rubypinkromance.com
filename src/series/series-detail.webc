@@ -38,7 +38,7 @@
 </header>
 
 <post-list
-  :posts="pluck(collections.shortsByRecent, 'series', seriesObject.slug).reverse()"
+  :posts="pluck(collections.shortsByRecent, 'series', seriesObject.slug)"
 ></post-list>
 
 <p class="post-list__see-all"><a href="/shorts/series/">See all series</a></p>

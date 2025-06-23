@@ -12,5 +12,5 @@
 </header>
 
 <post-list
-  :posts="pluck(collections.booksByRecent, 'series', 'only-one-bed').reverse()"
+  :posts="pluck(collections.booksByRecent, 'series', 'only-one-bed')"
 ></post-list>
