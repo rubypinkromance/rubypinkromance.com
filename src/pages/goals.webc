@@ -1,8 +1,6 @@
 ---
 title: Goals
 permalink: goals/
-eleventyImport:
-  collections: ['shortsByYear']
 ---
 
 <script webc:setup>
@@ -15,6 +13,9 @@ eleventyImport:
   const now = new Date();
   const currentYear = now.getFullYear();
   const posts = $data.collections.shortsByYear[currentYear] || [];
+  console.log(
+    `Found ${posts.length} posts for the current year (${currentYear})`,
+  );
 
   const sortedYears = Object.keys($data.collections.shortsByYear)
     .sort()

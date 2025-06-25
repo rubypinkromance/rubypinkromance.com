@@ -21,6 +21,7 @@ const collections = {
         .sort()
         .map((key) => [key, allSeries[key]]),
     );
+    console.log(`Found ${Object.keys(allSeries).length} series`);
     return allSeries;
   },
 
@@ -38,6 +39,7 @@ const collections = {
         .sort()
         .map((key) => [key, categories[key]]),
     );
+    console.log(`Found ${Object.keys(categories).length} categories`);
     return categories;
   },
 
@@ -56,6 +58,7 @@ const collections = {
     tags = Object.fromEntries(
       Object.entries(tags).sort((a, b) => b[1].length - a[1].length),
     );
+    console.log(`Found ${Object.keys(tags).length} tags`);
     return tags;
   },
 
@@ -73,6 +76,7 @@ const collections = {
     characters = Object.keys(characters)
       .sort()
       .reduce((obj, key) => ((obj[key] = characters[key]), obj), {});
+    console.log(`Found ${Object.keys(characters).length} characters`);
     return characters;
   },
 
@@ -84,6 +88,7 @@ const collections = {
       years[key] ??= [];
       years[key].push(post);
     }
+    console.log(`Found ${Object.keys(years).length} years`);
     return years;
   },
 
