@@ -33,7 +33,7 @@
     "@rknightuk/eleventy-plugin-post-graph": "1.0.8",
     "@spaceninja/writing-progress": "1.1.0",
     "eleventy-plugin-wordcount": "1.0.5",
-    "eslint": "9.30.1",
+    "eslint": "9.31.0",
     "eslint-config-prettier": "10.1.5",
     "luxon": "3.7.1",
     "npm-run-all2": "8.0.4",
