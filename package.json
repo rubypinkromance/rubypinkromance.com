@@ -35,7 +35,7 @@
     "eleventy-plugin-wordcount": "1.0.5",
     "eslint": "9.34.0",
     "eslint-config-prettier": "10.1.8",
-    "luxon": "3.7.1",
+    "luxon": "3.7.2",
     "npm-run-all2": "8.0.4",
     "prettier": "3.6.2",
     "sass": "1.91.0",
