@@ -14,7 +14,7 @@ img {
   --system-fonts: ui-sans-serif, system-ui, sans-serif;
   --serif-fonts: georgia, serif;
   --mono-fonts: ui-monospace, consolas, monospace;
-  --title-fonts: "Mission Gothic", var(--system-fonts);
+  --title-fonts: 'Mission Gothic', var(--system-fonts);
   --body-weight: 400;
   --heading-weight: 900;
 }
