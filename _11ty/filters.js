@@ -1,5 +1,4 @@
 import path from 'path';
-import { DateTime } from 'luxon';
 import { wordCountCallback } from 'eleventy-plugin-wordcount';
 
 const imageAssetsPath = path.join('_assets', '_images');
@@ -30,18 +29,18 @@ const filters = {
   // Given a relative image file page, return the full path
   imgPath: imgPath,
 
-  // Date formatting (human readable)
-  // @see https://moment.github.io/luxon/#/formatting?id=table-of-tokens
-  readableDate: (dateObj, format, zone) => {
-    return DateTime.fromJSDate(dateObj, { zone: zone || 'utc' }).toFormat(
-      format || 'DD',
-    );
+  // Date formatting (human readable), e.g. "Apr 17, 2025"
+  readableDate: (dateObj, zone) => {
+    return new Intl.DateTimeFormat('en-US', {
+      dateStyle: 'medium',
+      timeZone: zone || 'UTC',
+    }).format(dateObj);
   },
 
-  // Date formatting (machine readable)
+  // Date formatting (machine readable), e.g. "2025-04-17"
   // @see https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
   htmlDateString: (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('yyyy-LL-dd');
+    return dateObj.toISOString().slice(0, 10);
   },
 
   // Get the first `n` elements of a collection.
