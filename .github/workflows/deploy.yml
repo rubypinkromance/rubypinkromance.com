@@ -16,11 +16,11 @@ jobs:
         uses: actions/setup-node@v6
         with:
           node-version: 'lts/*'
-          cache: 'yarn'
+          cache: 'npm'
       - name: Install dependencies 👨🏻‍💻
-        run: yarn install --frozen-lockfile
+        run: npm ci
       - name: Run Build 🔧
-        run: yarn build
+        run: npm run build
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
